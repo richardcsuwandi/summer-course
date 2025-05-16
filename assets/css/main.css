@@ -75,10 +75,10 @@ footer p {
 
 /* Navbar styles */
 .main-nav {
-    background-color: #444; /* Dark background for navbar */
+    background-color: #C2C0BA; /* STONE */
     padding: 0.5em 0;
     width: 100%;
-    border-bottom: 2px solid #f0ad4e; /* Accent color border */
+    border-bottom: 2px solid #C0C7CE; /* SEA */
 }
 
 .main-nav ul {
@@ -96,7 +96,7 @@ footer p {
 }
 
 .main-nav ul li a {
-    color: white;
+    color: #333333; /* Dark gray text for contrast */
     text-decoration: none;
     padding: 12px 20px; /* Padding for clickable area */
     display: block;
@@ -105,8 +105,8 @@ footer p {
 }
 
 .main-nav ul li a:hover {
-    background-color: #f0ad4e; /* Accent color on hover */
-    color: #333; /* Darker text on hover */
+    background-color: #E4E2DC; /* SAND */
+    color: #333333; /* Keep dark text for readability */
     border-radius: 4px;
 }
 
@@ -183,6 +183,14 @@ img {
 a {
     padding: 2px 0;
     display: inline-block;
+    color: #465562; /* Hale Navy */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #465562; /* Hale Navy */
+    text-decoration: underline;
 }
 
 /* Make code blocks responsive */
@@ -197,4 +205,33 @@ pre, code {
 .page-content {
     font-size: 16px;
     line-height: 1.6;
-} 
+}
+
+/* Add styling for Trading and Chinese text */
+.trading-text, 
+.chinese-text {
+    color: #C0C7CE; /* SEA color */
+}
+
+/* Style Trading and Chinese text everywhere */
+[href*="trading"], 
+[href*="chinese"],
+h2:contains("Trading"),
+h2:contains("Chinese") {
+    color: #465562 !important; /* Hale Navy */
+}
+
+.card-content h2 {
+    color: #465562; /* Hale Navy */
+}
+
+/* Links in tables */
+table a {
+    color: #465562; /* Hale Navy */
+    text-decoration: none;
+}
+
+table a:hover {
+    color: #465562; /* Hale Navy */
+    text-decoration: underline;
+}
