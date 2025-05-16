@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Week 10 - Algorithmic Trading Systems &amp; APIs</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Week 10 - Algorithmic Trading Systems &amp; APIs" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4000/trading/week_10.html" />
+<meta property="og:url" content="http://localhost:4000/trading/week_10.html" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Week 10 - Algorithmic Trading Systems &amp; APIs" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"Week 10 - Algorithmic Trading Systems &amp; APIs","url":"http://localhost:4000/trading/week_10.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/trading/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/trading/feed.xml" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/trading/"></a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/trading/">90-Day Stock Trading Course 📈</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Week 10 - Algorithmic Trading Systems &amp; APIs</h1>
+  </header>
+
+  <div class="post-content">
+    <p><strong>Week 10 (Days 68-74): Algorithmic Trading Systems &amp; APIs</strong></p>
+
+<ul>
+  <li><strong>Day 68: Introduction to Algorithmic Trading Systems</strong>
+    <ul>
+      <li><strong>Topic:</strong> Overview of the components and lifecycle of an algorithmic trading system.</li>
+      <li><strong>Key Concepts:</strong> From strategy idea to live trading: research, backtesting, optimization, paper trading, live deployment. Components: Data feed, signal generation, order management system (OMS), risk management module, execution management system (EMS).</li>
+      <li><strong>Hands-on Activity:</strong> Read articles or book chapters that describe the architecture of an automated trading system. Draw a block diagram illustrating how these components interact. Consider the flow of information from market data to trade execution.</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Investopedia - Algorithmic Trading: <a href="https://www.investopedia.com/terms/a/algorithmictrading.asp">https://www.investopedia.com/terms/a/algorithmictrading.asp</a></li>
+          <li>QuantConnect - Learning Center (often has good explanations of system components): <a href="https://www.quantconnect.com/learning">https://www.quantconnect.com/learning</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 69: Brokerage APIs: Interactive Brokers API (Overview)</strong>
+    <ul>
+      <li><strong>Topic:</strong> Understanding how to interact with a broker programmatically.</li>
+      <li><strong>Key Concepts:</strong> What is an API (Application Programming Interface)? Why use a brokerage API (automation, custom tools)? Overview of Interactive Brokers (IBKR) API: TWS API (requires Trader Workstation to be running) and IB Gateway. Key functionalities: fetching market data, submitting orders, managing account information.</li>
+      <li><strong>Hands-on Activity:</strong> Visit the Interactive Brokers API documentation website. Read the overview sections for the TWS API. Understand the different programming languages supported and the general connection process. If you have IBKR TWS, familiarize yourself with its layout and how to enable API access (in settings).</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Interactive Brokers API Documentation: <a href="https://interactivebrokers.github.io/tws-api/">https://interactivebrokers.github.io/tws-api/</a></li>
+          <li>Interactive Brokers Campus - API Lessons: <a href="https://www.interactivebrokers.com/campus/category/apis/">https://www.interactivebrokers.com/campus/category/apis/</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 70: Setting up IB API with Python (e.g., ib_insync library)</strong>
+    <ul>
+      <li><strong>Topic:</strong> Connecting to the Interactive Brokers API using a Python library.</li>
+      <li><strong>Key Concepts:</strong> Introduction to <code class="language-plaintext highlighter-rouge">ib_insync</code> as a popular Python library for the IBKR TWS API (makes it more Pythonic and easier to use than the native API). Installing <code class="language-plaintext highlighter-rouge">ib_insync</code>. Establishing a connection to TWS or IB Gateway from a Python script (ensure your TWS paper trading account is running and API access is enabled).</li>
+      <li><strong>Hands-on Activity:</strong> Install <code class="language-plaintext highlighter-rouge">ib_insync</code> (<code class="language-plaintext highlighter-rouge">pip install ib_insync</code>). Write a simple Python script to connect to your running TWS paper trading account using <code class="language-plaintext highlighter-rouge">ib_insync</code>. Test the connection (e.g., print account summary or current time from IB). Troubleshoot any connection issues.</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>ib_insync Documentation: <a href="https://ib-insync.readthedocs.io/">https://ib-insync.readthedocs.io/</a></li>
+          <li>ib_insync GitHub repository (for examples): <a href="https://github.com/erdewit/ib_insync">https://github.com/erdewit/ib_insync</a></li>
+          <li>YouTube tutorials on “ib_insync tutorial”.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 71: Fetching Real-Time Market Data via IB API</strong>
+    <ul>
+      <li><strong>Topic:</strong> Requesting and handling live market data through the API.</li>
+      <li><strong>Key Concepts:</strong> Requesting market data (quotes, ticks, historical bars) for specific contracts (stocks, options, etc.) using <code class="language-plaintext highlighter-rouge">ib_insync</code>. Handling streaming data updates. Understanding contract objects in IBKR.</li>
+      <li><strong>Hands-on Activity:</strong> Write a Python script using <code class="language-plaintext highlighter-rouge">ib_insync</code> to: 1) Define a contract for a stock (e.g., AAPL). 2) Request and print current market price (tick data). 3) Request and print 5-minute historical bars for the last trading day. Ensure your TWS paper account is running.</li>
+      <li><strong>Recommended Resources:</strong> <code class="language-plaintext highlighter-rouge">ib_insync</code> documentation (market data, contract sections).</li>
+    </ul>
+  </li>
+  <li><strong>Day 72: Placing Orders via IB API (Paper Trading)</strong>
+    <ul>
+      <li><strong>Topic:</strong> Programmatically submitting, modifying, and canceling orders.</li>
+      <li><strong>Key Concepts:</strong> Creating order objects (Market, Limit, Stop orders) in <code class="language-plaintext highlighter-rouge">ib_insync</code>. Placing orders. Checking order status. Modifying existing orders. Canceling orders. <strong>Crucially, all practice must be done on a paper trading account.</strong></li>
+      <li><strong>Hands-on Activity:</strong> Using <code class="language-plaintext highlighter-rouge">ib_insync</code> and your paper trading account: 1) Write a script to place a limit order to buy 10 shares of a stock. 2) Check its status. 3) Modify the limit price. 4) Cancel the order. Verify all actions in your TWS paper account interface.</li>
+      <li><strong>Recommended Resources:</strong> <code class="language-plaintext highlighter-rouge">ib_insync</code> documentation (orders, trading sections).</li>
+    </ul>
+  </li>
+  <li><strong>Day 73: Building a Simple Algo: SMA Crossover Live Paper Trading</strong>
+    <ul>
+      <li><strong>Topic:</strong> Integrating a backtested strategy with the IB API for live paper trading.</li>
+      <li><strong>Key Concepts:</strong> Adapting your SMA crossover strategy logic (from Backtrader or your manual backtester) to use live data from IB API and execute trades via the API. This involves fetching data periodically, calculating indicators, generating signals, and placing orders if conditions are met. This is a significant integration step.</li>
+      <li><strong>Hands-on Activity:</strong> <strong>Project:</strong> Develop a Python script that:
+        <ol>
+          <li>Connects to IB TWS paper account using <code class="language-plaintext highlighter-rouge">ib_insync</code>.</li>
+          <li>Fetches historical data for a chosen stock to initialize SMAs.</li>
+          <li>Periodically (e.g., every 1 or 5 minutes) fetches the latest price/bar.</li>
+          <li>Recalculates SMAs.</li>
+          <li>Checks for SMA crossover signals.</li>
+          <li>If a signal occurs and no position is open, places a market order (on paper account).</li>
+          <li>If a reverse signal occurs and a position is open, closes the position.
+Keep it simple initially (e.g., only long trades, fixed quantity).</li>
+        </ol>
+      </li>
+      <li><strong>Recommended Resources:</strong> Your SMA strategy code, <code class="language-plaintext highlighter-rouge">ib_insync</code> documentation.</li>
+    </ul>
+  </li>
+  <li><strong>Day 74: Monitoring Your Algo &amp; Handling Errors</strong>
+    <ul>
+      <li><strong>Topic:</strong> Essential aspects of running a live (even paper) trading algorithm.</li>
+      <li><strong>Key Concepts:</strong> Importance of logging (trade actions, errors, market data). Basic error handling (e.g., <code class="language-plaintext highlighter-rouge">try-except</code> blocks for API connection issues, order rejections). Monitoring algorithm status and positions.</li>
+      <li><strong>Hands-on Activity:</strong> Enhance your live paper trading script from Day 73 by adding:
+        <ol>
+          <li>Logging of all major actions (connection, data fetching, signal generation, order placement, errors) to a file using Python’s <code class="language-plaintext highlighter-rouge">logging</code> module.</li>
+          <li>Basic <code class="language-plaintext highlighter-rouge">try-except</code> blocks around API calls.
+Let the script run for a few hours on your paper account and monitor the log file and TWS.</li>
+        </ol>
+      </li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Python <code class="language-plaintext highlighter-rouge">logging</code> module documentation: <a href="https://docs.python.org/3/library/logging.html">https://docs.python.org/3/library/logging.html</a></li>
+          <li>Tutorials on error handling in Python.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+
+  </div>
+
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/trading/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading"></h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name"></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

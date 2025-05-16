@@ -1,0 +1,17 @@
+title: 
+description:
+baseurl: "/chinese"
+url: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+# ensure that the week markdown files are treated as pages
+include:
+  - "*.md"
+
+# navigation links
+header_pages:
+  - index.md 

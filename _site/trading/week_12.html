@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🏆 Capstone Project &amp; Future Learning - 90-day summer grind</title>
+    <link rel="stylesheet" href="/assets/css/main.css"> 
+</head>
+<body>
+    <nav class="main-nav">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/trading/">Trading</a></li>
+            <li><a href="/chinese/">Chinese</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <article class="page">
+  <!-- <h1>🏆 Capstone Project &amp; Future Learning</h1> Removed to avoid duplicate header -->
+  <div class="page-content">
+    <h1 id="-capstone-project--future-learning">🏆 Capstone Project &amp; Future Learning</h1>
+
+<ul>
+  <li><strong>Day 82: Define a Capstone Project: Develop and Backtest a Unique Trading Strategy</strong>
+    <ul>
+      <li><strong>Topic:</strong> Planning a culminating project to apply the knowledge gained.</li>
+      <li><strong>Key Concepts:</strong> Choosing a strategy type (e.g., momentum, mean reversion, pattern-based, multi-indicator technical strategy, simple options strategy). Defining clear, objective, and testable rules for entry, exit, stop-loss, and position sizing.</li>
+      <li><strong>Hands-on Activity:</strong> <strong>Capstone Project - Step 1:</strong> Based on everything you’ve learned, define a specific trading strategy you want to develop and backtest. Write down:
+        <ol>
+          <li>Strategy Name &amp; Type.</li>
+          <li>Markets/Instruments to trade (e.g., specific stocks, ETFs).</li>
+          <li>Timeframe (e.g., daily, hourly).</li>
+          <li>Detailed Entry Rules (specific indicator values, patterns, conditions).</li>
+          <li>Detailed Exit Rules (profit targets, trailing stops, indicator signals).</li>
+          <li>Stop-Loss Rules.</li>
+          <li>Position Sizing Rules.</li>
+        </ol>
+      </li>
+      <li><strong>Recommended Resources:</strong> Your notes and trading plan from the entire curriculum.</li>
+    </ul>
+  </li>
+  <li><strong>Day 83-85: Capstone Project: Data Collection &amp; Preparation</strong>
+    <ul>
+      <li><strong>Topic:</strong> Gathering and preparing all necessary data for your chosen strategy.</li>
+      <li><strong>Key Concepts:</strong> Sourcing historical data (e.g., using <code class="language-plaintext highlighter-rouge">yfinance</code> or other sources). Cleaning data, calculating all necessary indicators and features required by your strategy rules using Python/Pandas/TA-Lib.</li>
+      <li><strong>Hands-on Activity:</strong> <strong>Capstone Project - Step 2:</strong> Write Python scripts to download and prepare the data for your chosen strategy and instruments over a significant historical period (e.g., 5-10 years if possible). This includes calculating all technical indicators or features defined in your strategy rules and storing them in a well-organized Pandas DataFrame.</li>
+      <li><strong>Recommended Resources:</strong> Python libraries (<code class="language-plaintext highlighter-rouge">yfinance</code>, <code class="language-plaintext highlighter-rouge">pandas</code>, <code class="language-plaintext highlighter-rouge">numpy</code>, <code class="language-plaintext highlighter-rouge">TA-Lib</code>), your code from previous Python exercises.</li>
+    </ul>
+  </li>
+  <li><strong>Day 86-87: Capstone Project: Strategy Implementation &amp; Backtesting using Backtrader</strong>
+    <ul>
+      <li><strong>Topic:</strong> Coding your strategy and running rigorous backtests.</li>
+      <li><strong>Key Concepts:</strong> Implementing your strategy logic within a Backtrader Strategy class. Adding necessary data feeds, indicators, analyzers (for performance metrics, transaction logs). Running the backtest over your prepared historical data. Incorporating transaction costs.</li>
+      <li><strong>Hands-on Activity:</strong> <strong>Capstone Project - Step 3:</strong> Implement your defined trading strategy in Backtrader. Ensure all rules (entry, exit, stop-loss) are correctly coded. Add analyzers for Sharpe Ratio, Drawdown, Total Return, and a trade list. Run the backtest. Debug any issues.</li>
+      <li><strong>Recommended Resources:</strong> Backtrader documentation, your previous Backtrader scripts.</li>
+    </ul>
+  </li>
+  <li><strong>Day 88: Capstone Project: Analyze Results &amp; Refine Strategy</strong>
+    <ul>
+      <li><strong>Topic:</strong> Interpreting backtest results and considering potential improvements.</li>
+      <li><strong>Key Concepts:</strong> Analyzing performance metrics, equity curve, trade list. Identifying strengths and weaknesses of the strategy. Considering robustness (e.g., performance across different periods or slightly varied parameters – avoid aggressive overfitting). Potential refinements (without extensive re-optimization at this stage, focus on logical improvements if flaws are obvious).</li>
+      <li><strong>Hands-on Activity:</strong> <strong>Capstone Project - Step 4:</strong> Thoroughly analyze the results from your Backtrader backtest. What is the Sharpe Ratio? Max Drawdown? Win rate? Average win/loss? Does the equity curve look reasonable? Review the trade list for any patterns or problematic trades. Document your findings. If you see obvious logical flaws, consider and document potential refinements (but be wary of overfitting).</li>
+      <li><strong>Recommended Resources:</strong> Your Backtrader output, notes on performance metrics.</li>
+    </ul>
+  </li>
+  <li><strong>Day 89: Capstone Project: Prepare a Report/Presentation of Your Strategy &amp; Findings</strong>
+    <ul>
+      <li><strong>Topic:</strong> Documenting your capstone project work.</li>
+      <li><strong>Key Concepts:</strong> Clearly explaining your strategy, methodology, backtesting process, results, and conclusions. Using charts and tables to present data effectively.</li>
+      <li><strong>Hands-on Activity:</strong> <strong>Capstone Project - Step 5:</strong> Prepare a short report (e.g., a 3-5 page document or a Jupyter Notebook with Markdown explanations) detailing your capstone project. Include:
+        <ol>
+          <li>Strategy Description (rules, rationale).</li>
+          <li>Data and Methodology (data sources, preparation, backtesting setup).</li>
+          <li>Backtesting Results (key metrics, equity curve plot).</li>
+          <li>Analysis and Conclusion (interpretation of results, strengths, weaknesses, potential next steps).</li>
+        </ol>
+      </li>
+      <li><strong>Recommended Resources:</strong> Your project code, results, and notes.</li>
+    </ul>
+  </li>
+  <li><strong>Day 90: Review 90-Day Journey &amp; Plan Future Learning Path</strong>
+    <ul>
+      <li><strong>Topic:</strong> Reflecting on progress and identifying areas for continued development.</li>
+      <li><strong>Key Concepts:</strong> Continuous improvement in trading. The vastness of the field. Potential areas for further study: advanced options strategies, futures trading, more sophisticated quantitative models, deeper dive into machine learning, live trading system development, risk management techniques, behavioral finance.</li>
+      <li><strong>Hands-on Activity:</strong> Review your entire 90-day learning journey. What were the most valuable concepts you learned? What areas are you still weakest in? Identify 2-3 specific topics or skills you want to focus on learning or improving next. Create a mini-plan for how you might approach this continued learning (e.g., books to read, courses to take, projects to undertake).</li>
+      <li><strong>Recommended Resources:</strong> This curriculum, your notes, and any resources you found particularly helpful.</li>
+    </ul>
+  </li>
+</ul>
+
+
+  </div>
+</article> 
+    </div>
+    <footer>
+        <p>© By yours truly, 🐻</p>
+    </footer>
+</body>
+</html>
+
+<!-- You might want to create a main.css or link to your primary CSS file -->
+<!-- The landing.html layout already links to landing_page.css --> 

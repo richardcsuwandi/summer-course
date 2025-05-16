@@ -1,0 +1,120 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center; 
+}
+
+header {
+    padding: 2em 0;
+}
+
+header h1 {
+    font-size: 2.5em;
+    color: #333;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: stretch; /* Make cards same height */
+    gap: 2em;
+    padding: 2em;
+    width: 100%;
+    max-width: 1200px;
+    box-sizing: border-box;
+}
+
+.card {
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    width: 45%;
+    display: flex; /* Use flex for internal alignment */
+    flex-direction: column; /* Stack image and text vertically */
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden; /* Ensure image corners are rounded if image is first child */
+}
+
+.card a {
+    text-decoration: none;
+    color: inherit;
+    display: flex; /* Use flex for internal alignment of link content */
+    flex-direction: column;
+    flex-grow: 1; /* Allow link to grow to fill card */
+    padding: 0; /* Remove padding here, will add to text content */
+}
+
+.card img {
+    width: 100%;
+    height: 200px; /* Fixed height for images */
+    object-fit: cover; /* Cover the area, crop if necessary */
+    display: block; /* Remove extra space below image */
+}
+
+.card .card-content {
+    padding: 1.5em; /* Add padding to text content area */
+    flex-grow: 1; /* Allow text content to take remaining space */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center text content vertically if desired */
+}
+
+.card h2 {
+    font-size: 1.8em;
+    margin-top: 0;
+    margin-bottom: 0.5em; /* Space below heading */
+    color: #007bff;
+}
+
+.card p {
+    font-size: 1em;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 0; /* Remove default bottom margin */
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+footer {
+    margin-top: auto;
+    padding: 1em 0;
+    font-size: 0.9em;
+    color: #777;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .card-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        width: 90%;
+        margin-bottom: 1.5em;
+    }
+
+    header h1 {
+        font-size: 2em;
+    }
+
+    .card h2 {
+        font-size: 1.5em;
+    }
+
+    .card img {
+        height: 180px; /* Adjust image height for smaller screens */
+    }
+} 

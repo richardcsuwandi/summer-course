@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | escape }} - {{ site.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}"> 
+</head>
+<body>
+    <nav class="main-nav">
+        <ul>
+            <li><a href="{{ site.baseurl }}/">Home</a></li>
+            <li><a href="{{ site.baseurl }}/trading/">Trading</a></li>
+            <li><a href="{{ site.baseurl }}/chinese/">Chinese</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        {{ content }}
+    </div>
+    <footer>
+        <p>© By yours truly, 🐻</p>
+    </footer>
+</body>
+</html>
+
+<!-- You might want to create a main.css or link to your primary CSS file -->
+<!-- The landing.html layout already links to landing_page.css --> 

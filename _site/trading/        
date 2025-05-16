@@ -1,0 +1,68 @@
+
+
+*   **Day 11: Basic Chart Patterns**
+    *   **Topic:** Recognizing common chart patterns that can indicate trend continuation or reversal.
+    *   **Key Concepts:** Head and Shoulders (and Inverse Head and Shoulders), Triangles (Symmetrical, Ascending, Descending), Flags and Pennants (continuation patterns). Understanding pattern recognition, breakout confirmation, and managing false breakouts.
+    *   **Hands-on Activity:** Using historical daily charts for 10 different stocks, try to identify at least one example of each of the listed chart patterns. Mark the potential breakout points and observe the subsequent price action.
+    *   **Recommended Resources:**
+        *   Investopedia - How to Spot Key Stock Chart Patterns: [https://www.investopedia.com/articles/technical/112601.asp](https://www.investopedia.com/articles/technical/112601.asp)
+        *   Investopedia - What Is a Head and Shoulders Chart Pattern?: [https://www.investopedia.com/terms/h/head-shoulders.asp](https://www.investopedia.com/terms/h/head-shoulders.asp)
+        *   Investopedia - Triangle Chart Pattern in Technical Analysis Explained: [https://www.investopedia.com/terms/t/triangle.asp](https://www.investopedia.com/terms/t/triangle.asp)
+        *   Investopedia - Flag Definition: [https://www.investopedia.com/terms/f/flag.asp](https://www.investopedia.com/terms/f/flag.asp)
+        *   StockCharts.com - ChartSchool - Chart Patterns: (Search on StockCharts.com for their articles on specific patterns)
+
+*   **Day 12: Introduction to Technical Indicators: Moving Averages**
+    *   **Topic:** Understanding and applying moving averages, one of the most popular technical indicators.
+    *   **Key Concepts:** Simple Moving Average (SMA) and Exponential Moving Average (EMA). Calculation differences and responsiveness. Using MAs for trend identification, dynamic support/resistance, and crossover signals (e.g., 50-day MA crossing above 200-day MA - Golden Cross, or below - Death Cross).
+    *   **Hands-on Activity:** On several stock charts, apply different period SMAs (e.g., 20, 50, 200-day) and EMAs (e.g., 12, 26-day). Observe how they smooth price action and identify potential buy/sell signals based on crossovers and price interaction with the MAs. Compare the responsiveness of SMA vs. EMA for the same period.
+    *   **Recommended Resources:**
+        *   Investopedia - Moving Average (MA): Purpose, Uses, Formula: [https://www.investopedia.com/terms/m/movingaverage.asp](https://www.investopedia.com/terms/m/movingaverage.asp)
+        *   Investopedia - Simple Moving Average (SMA): What It Is and the Formula: [https://www.investopedia.com/terms/s/sma.asp](https://www.investopedia.com/terms/s/sma.asp)
+        *   Investopedia - What is EMA? How to Use Exponential Moving Average: [https://www.investopedia.com/terms/e/ema.asp](https://www.investopedia.com/terms/e/ema.asp)
+
+*   **Day 13: Introduction to Technical Indicators: Volume Analysis**
+    *   **Topic:** The importance of trading volume in confirming price trends and patterns.
+    *   **Key Concepts:** Volume as a measure of market participation and conviction. How volume should ideally confirm price trends (e.g., increasing volume on uptrends, decreasing volume on pullbacks). Volume spikes on breakouts. Introduction to On-Balance Volume (OBV) as a momentum indicator based on volume flow.
+    *   **Hands-on Activity:** For the chart patterns and breakouts you identified on Day 11, analyze the volume action accompanying them. Did volume confirm the breakouts? Apply the OBV indicator to a few charts and observe its relationship with price trends.
+    *   **Recommended Resources:**
+        *   Investopedia - How To Use Stock Volume To Improve Your Trading: [https://www.investopedia.com/articles/technical/02/010702.asp](https://www.investopedia.com/articles/technical/02/010702.asp)
+        *   Investopedia - On-Balance Volume (OBV): Definition, Formula, and Uses: [https://www.investopedia.com/terms/o/onbalancevolume.asp](https://www.investopedia.com/terms/o/onbalancevolume.asp)
+        *   StockCharts.com - ChartSchool - Volume: (Search on StockCharts.com for their articles on volume analysis)
+
+*   **Day 14: Review & Charting Practice - Week 2**
+    *   **Topic:** Consolidating knowledge from the second week on introductory technical analysis.
+    *   **Key Concepts:** Review of Dow Theory, chart types, timeframes, basic candlestick patterns, support/resistance, trendlines, basic chart patterns, moving averages, and volume analysis.
+    *   **Hands-on Activity:** Select 5 new stock charts you haven’t analyzed before. Apply all the concepts learned this week: identify trends, draw S&R and trendlines, look for candlestick and chart patterns, apply moving averages, and analyze volume. Document your analysis for each chart. Start a “chartbook” of interesting setups.
+    *   **Recommended Resources:** Revisit resources from Days 8-13.
+
+**Week 3 (Days 15-21): Intermediate Technical Analysis & Indicators**
+
+*   **Day 15: Oscillators: Relative Strength Index (RSI)**
+    *   **Topic:** Understanding and using the Relative Strength Index (RSI) momentum oscillator.
+    *   **Key Concepts:** RSI calculation (conceptual understanding). Identifying overbought (typically >70) and oversold (typically <30) conditions. Bullish and bearish divergence between RSI and price as potential reversal signals.
+    *   **Hands-on Activity:** Apply the RSI (standard 14-period) to several stock charts. Identify instances of overbought/oversold conditions and look for corresponding price reactions. Search for examples of bullish and bearish divergence and note the subsequent price action.
+    *   **Recommended Resources:**
+        *   Investopedia - Relative Strength Index (RSI) Indicator Explained: [https://www.investopedia.com/terms/r/rsi.asp](https://www.investopedia.com/terms/r/rsi.asp)
+        *   StockCharts.com - ChartSchool - Relative Strength Index (RSI): (Search on StockCharts.com)
+
+*   **Day 16: Oscillators: Moving Average Convergence Divergence (MACD)**
+    *   **Topic:** Understanding and using the Moving Average Convergence Divergence (MACD) trend-following momentum indicator.
+    *   **Key Concepts:** MACD Line (difference between two EMAs), Signal Line (EMA of the MACD Line), and Histogram (difference between MACD Line and Signal Line). Interpreting MACD crossovers (MACD line crossing above/below signal line) as buy/sell signals. Identifying bullish and bearish divergence.
+    *   **Hands-on Activity:** Apply the MACD (default settings, e.g., 12, 26, 9) to stock charts. Identify crossover signals and divergences. Compare MACD signals with RSI signals on the same charts. Do they confirm or contradict each other?
+    *   **Recommended Resources:**
+        *   Investopedia - How to Calculate Moving Average Convergence Divergence (MACD): [https://www.investopedia.com/ask/answers/122414/what-moving-average-convergence-divergence-macd-formula-and-how-it-calculated.asp](https://www.investopedia.com/ask/answers/122414/what-moving-average-convergence-divergence-macd-formula-and-how-it-calculated.asp)
+        *   Investopedia - How to Trade the MACD: [https://www.investopedia.com/articles/forex/05/macddiverge.asp](https://www.investopedia.com/articles/forex/05/macddiverge.asp)
+        *   StockCharts.com - ChartSchool - MACD: (Search on StockCharts.com)
+
+*   **Day 17: Oscillators: Stochastic Oscillator**
+    *   **Topic:** Understanding and using the Stochastic Oscillator momentum indicator.
+    *   **Key Concepts:** How the Stochastic Oscillator compares a closing price to its price range over a period. %K and %D lines. Identifying overbought (typically >80) and oversold (typically <20) conditions. Crossovers of %K and %D lines. Bullish and bearish divergence.
+    *   **Hands-on Activity:** Apply the Stochastic Oscillator (e.g., 14, 3, 3 settings) to stock charts. Identify overbought/oversold conditions, line crossovers, and divergences. Compare its signals to those from RSI and MACD on the same charts. Note similarities and differences in timing and signals.
+    *   **Recommended Resources:**
+        *   Investopedia - Stochastic Oscillator: What It Is, How It Works: [https://www.investopedia.com/terms/s/stochasticoscillator.asp](https://www.investopedia.com/terms/s/stochasticoscillator.asp)
+        *   StockCharts.com - ChartSchool - Stochastic Oscillator: (Search on StockCharts.com)
+
+*   **Day 18: Volatility Indicators: Bollinger Bands**
+    *   **Topic:** Using Bollinger Bands to gauge volatility and identify potential trading opportunities.
+    *   **Key Concepts:** Structure of Bollinger Bands (middle band - SMA, upper and lower bands - standard deviations away from SMA). Bands widening during high volatility and contracting during low volatility (Bollinger Squeeze). Price touching or exceeding bands as potential signals (though not standalone buy/sell signals).
+    *   **Hands-on Activity:** Apply Bollinger Bands (e.g., 20-period SMA, 2 standard deviations) to several stock charts. Observe how the bands expand and contract with price volatility. Identify periods of 

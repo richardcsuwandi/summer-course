@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔄 Advanced Backtesting &amp; Strategy Optimization - 90-day summer grind</title>
+    <link rel="stylesheet" href="/assets/css/main.css"> 
+</head>
+<body>
+    <nav class="main-nav">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/trading/">Trading</a></li>
+            <li><a href="/chinese/">Chinese</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <article class="page">
+  <!-- <h1>🔄 Advanced Backtesting &amp; Strategy Optimization</h1> Removed to avoid duplicate header -->
+  <div class="page-content">
+    <h1 id="-advanced-backtesting--strategy-optimization">🔄 Advanced Backtesting &amp; Strategy Optimization</h1>
+
+<ul>
+  <li><strong>Day 61: Parameter Optimization in Backtrader</strong>
+    <ul>
+      <li><strong>Topic:</strong> Improving strategy performance by systematically testing different parameter values.</li>
+      <li><strong>Key Concepts:</strong> What is parameter optimization? The danger of overfitting to historical data. Introduction to Walk-Forward Optimization as a more robust method (conceptual overview).</li>
+      <li><strong>Hands-on Activity:</strong> Using Backtrader, take your SMA crossover strategy from Day 60. Use Backtrader’s optimization feature to test a range of values for your short-term and long-term SMA periods (e.g., short SMA from 10 to 30 in steps of 5, long SMA from 40 to 70 in steps of 5). Analyze the results. Does one parameter set significantly outperform others? How does the best optimized result compare to your initial parameters?</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Backtrader Documentation - Optimization: <a href="https://www.backtrader.com/docu/optimization-cerebro/">https://www.backtrader.com/docu/optimization-cerebro/</a></li>
+          <li>Investopedia - Overfitting: <a href="https://www.investopedia.com/terms/o/overfitting.asp">https://www.investopedia.com/terms/o/overfitting.asp</a></li>
+          <li>QuantStart - Optimizing Algorithmic Trading Strategies - Part I: <a href="https://www.quantstart.com/articles/Optimizing-Algorithmic-Trading-Strategies-Part-I/">https://www.quantstart.com/articles/Optimizing-Algorithmic-Trading-Strategies-Part-I/</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 62: Incorporating Transaction Costs &amp; Slippage in Backtrader</strong>
+    <ul>
+      <li><strong>Topic:</strong> Making backtests more realistic by accounting for trading frictions.</li>
+      <li><strong>Key Concepts:</strong> How commissions, fees, and slippage can impact strategy profitability. Setting commission schemes and slippage models in Backtrader.</li>
+      <li><strong>Hands-on Activity:</strong> Modify your Backtrader SMA crossover strategy script to include a realistic commission (e.g., Interactive Brokers’ commission structure for stocks) and a small amount of slippage (e.g., a few cents per share or a percentage of the price). Re-run your backtest and compare the performance metrics with the version without costs. How much did transaction costs affect the results?</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Backtrader Documentation - Commissions: <a href="https://www.backtrader.com/docu/commission-schemes/commission-schemes/">https://www.backtrader.com/docu/commission-schemes/commission-schemes/</a></li>
+          <li>Backtrader Documentation - Slippage: (Search within Backtrader docs for slippage handling)</li>
+          <li>Interactive Brokers - Commissions: <a href="https://www.interactivebrokers.com/en/index.php?f=1590&amp;p=stocks">https://www.interactivebrokers.com/en/index.php?f=1590&amp;p=stocks</a> (for realistic cost examples)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 63: Developing More Complex Strategies (e.g., RSI + MACD) in Backtrader</strong>
+    <ul>
+      <li><strong>Topic:</strong> Building strategies that combine multiple indicators or conditions.</li>
+      <li><strong>Key Concepts:</strong> Implementing logic for strategies that require signals from two or more indicators (e.g., enter long if MACD bullish crossover AND RSI &gt; 50). Managing more complex state within your Backtrader strategy class.</li>
+      <li><strong>Hands-on Activity:</strong> Design and implement a new strategy in Backtrader that combines at least two indicators you’ve learned (e.g., MACD crossover confirmed by RSI, or a Bollinger Band breakout confirmed by volume). Backtest this strategy on a few stocks. Document your rules and results.</li>
+      <li><strong>Recommended Resources:</strong> Backtrader documentation, your notes on individual indicators.</li>
+    </ul>
+  </li>
+  <li><strong>Day 64: Portfolio-Level Backtesting (Introduction)</strong>
+    <ul>
+      <li><strong>Topic:</strong> Understanding the basics of backtesting strategies across a portfolio of assets.</li>
+      <li><strong>Key Concepts:</strong> Why portfolio backtesting is important (diversification, correlation effects). Challenges in portfolio backtesting (data management for multiple assets, capital allocation, rebalancing). This is an introductory overview; full implementation is advanced.</li>
+      <li><strong>Hands-on Activity:</strong> Read articles or book chapters on the concepts of portfolio backtesting. Conceptually, how would you adapt your single-asset Backtrader script to handle multiple stocks simultaneously? What new rules would you need (e.g., how much capital to allocate to each trade if multiple signals occur)?</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>QuantStart - Portfolio Backtesting articles.</li>
+          <li>Book: “Quantitative Trading with Python” by Ernie Chan (often covers portfolio aspects).</li>
+          <li>PyPortfolioOpt Documentation (Python library for portfolio optimization, good for understanding concepts): <a href="https://pyportfolioopt.readthedocs.io/en/latest/">https://pyportfolioopt.readthedocs.io/en/latest/</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 65: Introduction to Statistical Arbitrage &amp; Pairs Trading</strong>
+    <ul>
+      <li><strong>Topic:</strong> Exploring a common mean-reversion quantitative strategy.</li>
+      <li><strong>Key Concepts:</strong> Statistical Arbitrage: exploiting statistical mispricings between related financial instruments. Pairs Trading: a classic example where two historically correlated stocks diverge, and a trader shorts the outperformer and longs the underperformer, expecting the spread to revert to its mean. Cointegration as a statistical test for pair suitability.</li>
+      <li><strong>Hands-on Activity:</strong> Read introductory materials on pairs trading. Identify 2-3 potential stock pairs in the same sector (e.g., KO and PEP, or F and GM). Plot their normalized price series on the same chart. Do they appear to move together? Calculate and plot the spread (difference or ratio) between their prices. Does the spread look mean-reverting?</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Investopedia - Pairs Trading: <a href="https://www.investopedia.com/terms/p/pairstrade.asp">https://www.investopedia.com/terms/p/pairstrade.asp</a></li>
+          <li>Investopedia - Statistical Arbitrage: <a href="https://www.investopedia.com/terms/s/statisticalarbitrage.asp">https://www.investopedia.com/terms/s/statisticalarbitrage.asp</a></li>
+          <li>QuantStart - Pairs Trading articles.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 66: Finding Cointegrated Pairs using Python (statsmodels)</strong>
+    <ul>
+      <li><strong>Topic:</strong> Using Python to statistically test for cointegration between stock pairs.</li>
+      <li><strong>Key Concepts:</strong> The <code class="language-plaintext highlighter-rouge">statsmodels</code> Python library. The Engle-Granger two-step cointegration test (or Johansen test). Interpreting test statistics and p-values to determine if a pair is likely cointegrated.</li>
+      <li><strong>Hands-on Activity:</strong> Install <code class="language-plaintext highlighter-rouge">statsmodels</code> (<code class="language-plaintext highlighter-rouge">pip install statsmodels</code>). Using the stock pairs you identified on Day 65, download their historical price data. In Python, perform a cointegration test (e.g., <code class="language-plaintext highlighter-rouge">coint</code> function from <code class="language-plaintext highlighter-rouge">statsmodels.tsa.stattools</code>) on each pair. Based on the p-value, determine if the pairs are statistically cointegrated at a chosen significance level (e.g., 0.05).</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Statsmodels Documentation - Cointegration: <a href="https://www.statsmodels.org/stable/examples/notebooks/generated/stationarity_detrending_adf_kpss.html">https://www.statsmodels.org/stable/examples/notebooks/generated/stationarity_detrending_adf_kpss.html</a> (covers related concepts, search for <code class="language-plaintext highlighter-rouge">coint</code> example)</li>
+          <li>QuantStart - Python Cointegration Tutorial (search for this on their site or similar tutorials online).</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 67: Backtesting a Simple Pairs Trading Strategy with Backtrader</strong>
+    <ul>
+      <li><strong>Topic:</strong> Implementing and testing a basic pairs trading strategy.</li>
+      <li><strong>Key Concepts:</strong> Calculating the spread between two cointegrated stocks. Defining entry/exit rules based on the spread deviating from its historical mean (e.g., using Z-scores of the spread). Managing two positions simultaneously (long one stock, short the other).</li>
+      <li><strong>Hands-on Activity:</strong> For a cointegrated pair you found, develop a simple pairs trading strategy in Backtrader. This will be more complex than single-asset strategies. You’ll need to handle data for two stocks, calculate the spread, generate signals based on the spread’s Z-score (e.g., enter when Z-score &gt; 2 or &lt; -2, exit when Z-score approaches 0). Backtest and analyze the results.</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Backtrader documentation (handling multiple data feeds, custom indicators for spread).</li>
+          <li>Online tutorials for “pairs trading backtrader” (these can be advanced, focus on understanding the structure).</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+
+  </div>
+</article> 
+    </div>
+    <footer>
+        <p>© By yours truly, 🐻</p>
+    </footer>
+</body>
+</html>
+
+<!-- You might want to create a main.css or link to your primary CSS file -->
+<!-- The landing.html layout already links to landing_page.css --> 

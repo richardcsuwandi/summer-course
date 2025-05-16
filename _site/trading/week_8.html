@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⚙️ Building a Simple Backtester in Python - 90-day summer grind</title>
+    <link rel="stylesheet" href="/assets/css/main.css"> 
+</head>
+<body>
+    <nav class="main-nav">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/trading/">Trading</a></li>
+            <li><a href="/chinese/">Chinese</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <article class="page">
+  <!-- <h1>⚙️ Building a Simple Backtester in Python</h1> Removed to avoid duplicate header -->
+  <div class="page-content">
+    <h1 id="️-building-a-simple-backtester-in-python">⚙️ Building a Simple Backtester in Python</h1>
+
+<ul>
+  <li><strong>Day 52: Improving the Vectorized Backtester: Adding Basic Costs</strong>
+    <ul>
+      <li><strong>Topic:</strong> Making the simple backtester slightly more realistic.</li>
+      <li><strong>Key Concepts:</strong> Incorporating a fixed per-trade commission cost. Subtracting commission costs when a trade (change in position) occurs. Understanding how costs impact performance.</li>
+      <li><strong>Hands-on Activity:</strong> <strong>Project:</strong> Modify your Python SMA crossover backtester from Day 50/51. Assume a small commission cost (e.g., $0.005 per share, or a flat $1 per trade). Deduct this cost from the strategy returns whenever a trade is initiated (i.e., when the position changes). Re-plot cumulative returns and compare with the no-cost version.</li>
+      <li><strong>Recommended Resources:</strong> Your Python code, logic for identifying trades.</li>
+    </ul>
+  </li>
+  <li><strong>Day 53: Calculating More Performance Metrics in Python</strong>
+    <ul>
+      <li><strong>Topic:</strong> Programmatically calculating Sharpe Ratio and Max Drawdown.</li>
+      <li><strong>Key Concepts:</strong> Sharpe Ratio formula (assuming a risk-free rate, e.g., 0). Calculating daily returns, mean daily return, standard deviation of daily returns. Annualizing Sharpe Ratio. Max Drawdown: calculating cumulative returns, then finding the largest peak-to-trough decline.</li>
+      <li><strong>Hands-on Activity:</strong> <strong>Project:</strong> Extend your Python backtester to calculate and print:
+        <ol>
+          <li>Annualized Sharpe Ratio (e.g., daily Sharpe * sqrt(252) assuming 252 trading days).</li>
+          <li>Maximum Drawdown.
+Compare these metrics for your SMA crossover strategy with and without transaction costs.</li>
+        </ol>
+      </li>
+      <li><strong>Recommended Resources:</strong> NumPy and Pandas for calculations. Online articles for Python implementation of Sharpe Ratio and Max Drawdown.</li>
+    </ul>
+  </li>
+  <li><strong>Day 54: Introduction to Backtesting Libraries: <code class="language-plaintext highlighter-rouge">backtrader</code> (Overview &amp; Setup)</strong>
+    <ul>
+      <li><strong>Topic:</strong> Exploring dedicated Python libraries for more sophisticated backtesting.</li>
+      <li><strong>Key Concepts:</strong> Why use a library? (Handles data, events, orders, metrics, plotting). Overview of <code class="language-plaintext highlighter-rouge">backtrader</code>: features, structure (Cerebro engine, Strategies, Data Feeds, Analyzers, Observers). Installation of <code class="language-plaintext highlighter-rouge">backtrader</code>.</li>
+      <li><strong>Hands-on Activity:</strong> Install <code class="language-plaintext highlighter-rouge">backtrader</code> (<code class="language-plaintext highlighter-rouge">pip install backtrader</code>). Read the <code class="language-plaintext highlighter-rouge">backtrader</code> Quickstart Guide from its official documentation. Run the simple example strategy provided in the Quickstart to ensure your installation is working.</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Backtrader Documentation: <a href="https://www.backtrader.com/docu/">https://www.backtrader.com/docu/</a></li>
+          <li>Backtrader GitHub: <a href="https://github.com/mementum/backtrader">https://github.com/mementum/backtrader</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 55: Implementing SMA Crossover Strategy with <code class="language-plaintext highlighter-rouge">backtrader</code> (Part 1: Strategy Class)</strong>
+    <ul>
+      <li><strong>Topic:</strong> Writing your first strategy using the <code class="language-plaintext highlighter-rouge">backtrader</code> framework.</li>
+      <li><strong>Key Concepts:</strong> Creating a Strategy class inheriting from <code class="language-plaintext highlighter-rouge">bt.Strategy</code>. <code class="language-plaintext highlighter-rouge">__init__</code> method: defining indicators (e.g., <code class="language-plaintext highlighter-rouge">bt.indicators.SimpleMovingAverage</code>). <code class="language-plaintext highlighter-rouge">log</code> method for printing trade info. <code class="language-plaintext highlighter-rouge">next</code> method: core strategy logic (checking conditions, placing orders).</li>
+      <li><strong>Hands-on Activity:</strong> <strong>Project:</strong> Create a Python script using <code class="language-plaintext highlighter-rouge">backtrader</code>. Define a new strategy class for the SMA crossover (e.g., 20-day and 50-day SMAs). In the <code class="language-plaintext highlighter-rouge">__init__</code> method, define your SMAs. In the <code class="language-plaintext highlighter-rouge">next</code> method, implement the logic to check for crossovers. (No orders yet, just print when a crossover occurs).</li>
+      <li><strong>Recommended Resources:</strong> Backtrader documentation (Strategy section, Indicator section).</li>
+    </ul>
+  </li>
+  <li><strong>Day 56: Implementing SMA Crossover Strategy with <code class="language-plaintext highlighter-rouge">backtrader</code> (Part 2: Orders &amp; Cerebro)</strong>
+    <ul>
+      <li><strong>Topic:</strong> Adding order execution and running the backtest with <code class="language-plaintext highlighter-rouge">backtrader</code>.</li>
+      <li><strong>Key Concepts:</strong> <code class="language-plaintext highlighter-rouge">Cerebro</code> engine setup. Adding a Data Feed (e.g., using <code class="language-plaintext highlighter-rouge">bt.feeds.PandasData</code> with your CSV data or <code class="language-plaintext highlighter-rouge">bt.feeds.YahooFinanceCSV</code>). Adding the Strategy to Cerebro. Setting initial cash. <code class="language-plaintext highlighter-rouge">buy()</code> and <code class="language-plaintext highlighter-rouge">sell()</code> order methods. Running Cerebro. Basic plotting with <code class="language-plaintext highlighter-rouge">cerebro.plot()</code>.</li>
+      <li><strong>Hands-on Activity:</strong> <strong>Project:</strong> Extend your <code class="language-plaintext highlighter-rouge">backtrader</code> SMA crossover script:
+        <ol>
+          <li>Set up the Cerebro engine.</li>
+          <li>Load your stock data (e.g., from a CSV file you downloaded earlier).</li>
+          <li>In your strategy’s <code class="language-plaintext highlighter-rouge">next</code> method, use <code class="language-plaintext highlighter-rouge">self.buy()</code> when a buy signal occurs (if not already in market) and <code class="language-plaintext highlighter-rouge">self.sell()</code> or <code class="language-plaintext highlighter-rouge">self.close()</code> for sell signals/exits.</li>
+          <li>Run the backtest and use <code class="language-plaintext highlighter-rouge">cerebro.plot()</code> to visualize results.</li>
+        </ol>
+      </li>
+      <li><strong>Recommended Resources:</strong> Backtrader documentation (Cerebro, Data Feeds, Order Execution sections).</li>
+    </ul>
+  </li>
+  <li><strong>Day 57: Analyzing <code class="language-plaintext highlighter-rouge">backtrader</code> Results: Analyzers &amp; Observers</strong>
+    <ul>
+      <li><strong>Topic:</strong> Extracting detailed performance metrics and insights from <code class="language-plaintext highlighter-rouge">backtrader</code>.</li>
+      <li><strong>Key Concepts:</strong> <code class="language-plaintext highlighter-rouge">Analyzers</code> in <code class="language-plaintext highlighter-rouge">backtrader</code> (e.g., <code class="language-plaintext highlighter-rouge">SharpeRatio</code>, <code class="language-plaintext highlighter-rouge">DrawDown</code>, <code class="language-plaintext highlighter-rouge">TradeAnalyzer</code>, <code class="language-plaintext highlighter-rouge">SQN</code>). Adding analyzers to Cerebro. Accessing analyzer results. <code class="language-plaintext highlighter-rouge">Observers</code> for plotting additional data on charts (e.g., <code class="language-plaintext highlighter-rouge">Cash</code>, <code class="language-plaintext highlighter-rouge">Trades</code>).</li>
+      <li><strong>Hands-on Activity:</strong> Modify your <code class="language-plaintext highlighter-rouge">backtrader</code> script to include analyzers for Sharpe Ratio, Max Drawdown, and TradeAnalyzer. Print the results from these analyzers after running the backtest. Add the <code class="language-plaintext highlighter-rouge">Cash</code> and <code class="language-plaintext highlighter-rouge">Trades</code> observers and see how they appear on the plot.</li>
+      <li><strong>Recommended Resources:</strong> Backtrader documentation (Analyzers, Observers sections).</li>
+    </ul>
+  </li>
+  <li><strong>Day 58: Comparing Your Vectorized Backtest with <code class="language-plaintext highlighter-rouge">backtrader</code> Results</strong>
+    <ul>
+      <li><strong>Topic:</strong> Validating your understanding and implementation by comparing two different backtesting approaches.</li>
+      <li><strong>Key Concepts:</strong> Differences in implementation details (e.g., how trades are executed, how returns are calculated, handling of initial conditions). Understanding why results might differ slightly. Importance of clear assumptions in any backtest.</li>
+      <li><strong>Hands-on Activity:</strong> Compare the cumulative return plot and key performance metrics (Sharpe, MDD) from your manual vectorized backtester (from Day 53) with those from your <code class="language-plaintext highlighter-rouge">backtrader</code> implementation for the SMA crossover strategy on the same stock and period. Document any significant differences and try to understand their cause.</li>
+      <li><strong>Recommended Resources:</strong> Your Python scripts, <code class="language-plaintext highlighter-rouge">backtrader</code> documentation.</li>
+    </ul>
+  </li>
+  <li><strong>Day 59: Introduction to Other Backtesting Libraries (Zipline, PyAlgoTrade - Overview)</strong>
+    <ul>
+      <li><strong>Topic:</strong> Awareness of other popular Python backtesting frameworks.</li>
+      <li><strong>Key Concepts:</strong> <code class="language-plaintext highlighter-rouge">Zipline</code>: Powers Quantopian, event-driven, good for portfolio-level backtesting. <code class="language-plaintext highlighter-rouge">PyAlgoTrade</code>: Event-driven, older but still used. Brief overview of their features and typical use cases compared to <code class="language-plaintext highlighter-rouge">backtrader</code>.</li>
+      <li><strong>Hands-on Activity:</strong> Visit the GitHub pages or documentation for Zipline (Quantopian fork) and PyAlgoTrade. Read their introductory sections to get a feel for their structure and capabilities. (No coding required, just familiarization).</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Zipline (Community Maintained): <a href="https://github.com/stefan-jansen/zipline-reloaded">https://github.com/stefan-jansen/zipline-reloaded</a> (or search for active forks)</li>
+          <li>PyAlgoTrade GitHub: <a href="https://github.com/gbeced/pyalgotrade">https://github.com/gbeced/pyalgotrade</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 60: Review of Month 2 &amp; Backtesting Foundations</strong>
+    <ul>
+      <li><strong>Topic:</strong> Consolidating knowledge of practical strategies and backtesting in Python.</li>
+      <li><strong>Key Concepts:</strong> Review common trading strategies, Python data handling, backtesting concepts, performance metrics, and your experience with manual vectorized backtesting vs. <code class="language-plaintext highlighter-rouge">backtrader</code>.</li>
+      <li><strong>Hands-on Activity:</strong> Write a summary comparing your experience building a vectorized backtester manually versus using <code class="language-plaintext highlighter-rouge">backtrader</code>. What were the pros and cons of each? Which approach would you prefer for more complex strategies and why? Ensure your <code class="language-plaintext highlighter-rouge">backtrader</code> SMA crossover script is well-commented and saved. Continue paper trading, focusing on strategies with clear, testable rules.</li>
+    </ul>
+  </li>
+</ul>
+
+  </div>
+</article> 
+    </div>
+    <footer>
+        <p>© By yours truly, 🐻</p>
+    </footer>
+</body>
+</html>
+
+<!-- You might want to create a main.css or link to your primary CSS file -->
+<!-- The landing.html layout already links to landing_page.css --> 

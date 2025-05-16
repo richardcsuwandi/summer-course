@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎯 Common Trading Strategies - 90-day summer grind</title>
+    <link rel="stylesheet" href="/assets/css/main.css"> 
+</head>
+<body>
+    <nav class="main-nav">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/trading/">Trading</a></li>
+            <li><a href="/chinese/">Chinese</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <article class="page">
+  <!-- <h1>🎯 Common Trading Strategies</h1> Removed to avoid duplicate header -->
+  <div class="page-content">
+    <h1 id="-common-trading-strategies">🎯 Common Trading Strategies</h1>
+
+<!-- **Week 5 (Days 31-37): Common Trading Strategies & Python Data Handling** -->
+
+<ul>
+  <li><strong>Day 31: Swing Trading Strategies</strong>
+    <ul>
+      <li><strong>Topic:</strong> Capturing shorter-term market moves (a few days to a few weeks).</li>
+      <li><strong>Key Concepts:</strong> Identifying swings within a larger trend. Using technical indicators for entry/exit (e.g., MAs, RSI, Stochastics, support/resistance bounces). Typical holding periods. Risk management for swing trades.</li>
+      <li><strong>Hands-on Activity:</strong> Research 2-3 common swing trading setups (e.g., pullback to a moving average, RSI divergence confirmation). Back-test one setup manually on historical charts for 2 stocks over the past 6 months. Record hypothetical trades in your journal.</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Investopedia - Swing Trading: <a href="https://www.investopedia.com/terms/s/swingtrading.asp">https://www.investopedia.com/terms/s/swingtrading.asp</a></li>
+          <li>Book: “Mastering the Swing Trade” by Alan S. Farley.</li>
+          <li>YouTube channels focusing on swing trading strategies.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 32: Trend Following Strategies</strong>
+    <ul>
+      <li><strong>Topic:</strong> Strategies designed to profit from sustained directional market movements.</li>
+      <li><strong>Key Concepts:</strong> Identifying strong trends (e.g., using ADX, longer-term MAs). Entry signals (e.g., breakout from consolidation, MA crossover). Trailing stop-loss techniques to ride the trend. Challenges (whipsaws in ranging markets).</li>
+      <li><strong>Hands-on Activity:</strong> Identify 2 stocks that have been in strong uptrends or downtrends recently. Apply a simple trend following strategy (e.g., enter on a 20/50 EMA crossover, use a 20-period ATR trailing stop) on their historical charts. Note how long the trend lasted and how the strategy performed.</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Investopedia - Trend Trading: <a href="https://www.investopedia.com/terms/t/trendtrading.asp">https://www.investopedia.com/terms/t/trendtrading.asp</a></li>
+          <li>Book: “Trend Following” by Michael Covel.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 33: Breakout Trading Strategies</strong>
+    <ul>
+      <li><strong>Topic:</strong> Trading the price movement that occurs when a stock breaks out of a defined range or pattern.</li>
+      <li><strong>Key Concepts:</strong> Identifying key support/resistance levels or chart patterns (triangles, flags, ranges). Volume confirmation on breakouts. Managing false breakouts. Setting profit targets and stop-losses for breakout trades.</li>
+      <li><strong>Hands-on Activity:</strong> Look for 5 examples of breakouts from consolidation patterns (e.g., rectangles, triangles) on historical charts. Note the volume on the breakout day and the subsequent price movement. Paper trade a breakout strategy.</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Investopedia - Breakout: <a href="https://www.investopedia.com/terms/b/breakout.asp">https://www.investopedia.com/terms/b/breakout.asp</a></li>
+          <li>BabyPips - Breakout Trading (forex focused, but concepts apply): <a href="https://www.babypips.com/learn/forex/breakout-trading">https://www.babypips.com/learn/forex/breakout-trading</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 34: Range Trading (Mean Reversion) Strategies</strong>
+    <ul>
+      <li><strong>Topic:</strong> Profiting from price oscillations within a defined trading range.</li>
+      <li><strong>Key Concepts:</strong> Identifying well-defined support and resistance levels that form a trading range. Using oscillators (RSI, Stochastics) to identify overbought conditions near resistance and oversold conditions near support. Setting profit targets within the range and stop-losses outside the range.</li>
+      <li><strong>Hands-on Activity:</strong> Find 2 stocks that appear to be trading in a range. Apply RSI or Stochastics. Paper trade entries when the oscillator is oversold near support and exits near resistance (or vice-versa for short trades).</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Investopedia - Range Trading: <a href="https://www.investopedia.com/terms/r/rangeboundtrading.asp">https://www.investopedia.com/terms/r/rangeboundtrading.asp</a></li>
+          <li>Investopedia - Mean Reversion: <a href="https://www.investopedia.com/terms/m/meanreversion.asp">https://www.investopedia.com/terms/m/meanreversion.asp</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 35: Python for Data Acquisition: yfinance &amp; pandas-datareader</strong>
+    <ul>
+      <li><strong>Topic:</strong> Using Python to download historical stock price data.</li>
+      <li><strong>Key Concepts:</strong> <code class="language-plaintext highlighter-rouge">yfinance</code> library for accessing Yahoo Finance data. <code class="language-plaintext highlighter-rouge">pandas-datareader</code> for accessing various data sources (though Yahoo Finance via this can be less reliable than <code class="language-plaintext highlighter-rouge">yfinance</code> directly). Fetching OHLCV (Open, High, Low, Close, Volume) data. Adjusting for stock splits and dividends.</li>
+      <li><strong>Hands-on Activity:</strong> Write a Python script using <code class="language-plaintext highlighter-rouge">yfinance</code> to download 5 years of daily historical data for 3 different stocks. Save each dataset to a CSV file. Load one of the CSV files back into a Pandas DataFrame and display the first 5 rows.</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li><code class="language-plaintext highlighter-rouge">yfinance</code> PyPI page: <a href="https://pypi.org/project/yfinance/">https://pypi.org/project/yfinance/</a></li>
+          <li><code class="language-plaintext highlighter-rouge">pandas-datareader</code> Documentation: <a href="https://pandas-datareader.readthedocs.io/en/latest/">https://pandas-datareader.readthedocs.io/en/latest/</a></li>
+          <li>Tutorials on YouTube for “yfinance tutorial”.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 36: Data Cleaning &amp; Preparation with Pandas</strong>
+    <ul>
+      <li><strong>Topic:</strong> Ensuring your financial data is accurate and ready for analysis.</li>
+      <li><strong>Key Concepts:</strong> Handling missing data (NaN values) - identifying and deciding how to treat them (e.g., fill forward, backward fill, drop). Checking for outliers or erroneous data. Converting data types (e.g., date strings to datetime objects). Setting a DatetimeIndex.</li>
+      <li><strong>Hands-on Activity:</strong> Using the stock data downloaded on Day 35, check for any missing values in your DataFrames. Practice different methods of handling them (e.g., <code class="language-plaintext highlighter-rouge">fillna()</code>, <code class="language-plaintext highlighter-rouge">dropna()</code>). Ensure the 'Date' column is a DatetimeIndex.</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Pandas Documentation - Working with missing data: <a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html">https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html</a></li>
+          <li>Real Python - Pandas Data Cleaning: <a href="https://realpython.com/python-pandas-tricks/">https://realpython.com/python-pandas-tricks/</a> (search for cleaning sections)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 37: Review of Week 5 &amp; Strategy/Python Practice</strong>
+    <ul>
+      <li><strong>Topic:</strong> Consolidating knowledge of common strategies and basic data handling in Python.</li>
+      <li><strong>Key Concepts:</strong> Review swing, trend, breakout, and range trading. Review Python data acquisition and cleaning.</li>
+      <li><strong>Hands-on Activity:</strong> Choose one trading strategy from the week. Write down its rules very clearly. Then, using Python and the data you downloaded/cleaned, try to identify historical instances where the entry conditions for this strategy might have occurred. (No backtesting yet, just data exploration). Continue paper trading, focusing on one or two strategies from the week.</li>
+    </ul>
+  </li>
+</ul>
+
+
+  </div>
+</article> 
+    </div>
+    <footer>
+        <p>© By yours truly, 🐻</p>
+    </footer>
+</body>
+</html>
+
+<!-- You might want to create a main.css or link to your primary CSS file -->
+<!-- The landing.html layout already links to landing_page.css --> 

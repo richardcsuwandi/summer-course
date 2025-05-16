@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🧮 Advanced Topics &amp; Machine Learning in Trading - 90-day summer grind</title>
+    <link rel="stylesheet" href="/assets/css/main.css"> 
+</head>
+<body>
+    <nav class="main-nav">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/trading/">Trading</a></li>
+            <li><a href="/chinese/">Chinese</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <article class="page">
+  <!-- <h1>🧮 Advanced Topics &amp; Machine Learning in Trading</h1> Removed to avoid duplicate header -->
+  <div class="page-content">
+    <h1 id="-advanced-topics--machine-learning-in-trading">🧮 Advanced Topics &amp; Machine Learning in Trading</h1>
+
+<ul>
+  <li><strong>Day 75: Sentiment Analysis for Trading</strong>
+    <ul>
+      <li><strong>Topic:</strong> Exploring how market sentiment, derived from text sources, can be used in trading.</li>
+      <li><strong>Key Concepts:</strong> News Sentiment (analyzing financial news articles), Social Media Sentiment (analyzing platforms like X/Twitter, StockTwits). Using Natural Language Processing (NLP) basics to classify text as positive, negative, or neutral. Potential for sentiment as a confirming or leading indicator.</li>
+      <li><strong>Hands-on Activity:</strong> Explore a pre-built sentiment analysis tool or API (some offer free tiers for limited use, e.g., search for “free stock news sentiment API”). Alternatively, use Python’s NLTK (Natural Language Toolkit) or TextBlob library with a pre-trained model to analyze the sentiment of a few financial news headlines for a specific stock. Note the sentiment scores.</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Investopedia - Sentiment Analysis: <a href="https://www.investopedia.com/terms/s/sentiment-analysis.asp">https://www.investopedia.com/terms/s/sentiment-analysis.asp</a></li>
+          <li>NLTK Book (Chapter 6 for text classification): <a href="https://www.nltk.org/book/">https://www.nltk.org/book/</a></li>
+          <li>TextBlob Documentation: <a href="https://textblob.readthedocs.io/en/dev/">https://textblob.readthedocs.io/en/dev/</a></li>
+          <li>Towards Data Science - A Beginner’s Guide To Sentiment Analysis with Python: <a href="https://towardsdatascience.com/a-beginners-guide-to-sentiment-analysis-with-python-95e313e26135">https://towardsdatascience.com/a-beginners-guide-to-sentiment-analysis-with-python-95e313e26135</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 76: Introduction to Machine Learning for Trading</strong>
+    <ul>
+      <li><strong>Topic:</strong> Understanding the potential and challenges of applying Machine Learning (ML) to financial markets.</li>
+      <li><strong>Key Concepts:</strong> Supervised Learning (e.g., regression for price prediction, classification for buy/sell signals), Unsupervised Learning (e.g., clustering similar stocks). Common ML algorithms used in finance (e.g., Linear Regression, Logistic Regression, Support Vector Machines (SVM), Decision Trees, Random Forests - very high-level overview).</li>
+      <li><strong>Hands-on Activity:</strong> Read 2-3 introductory articles or blog posts on the application of machine learning in trading. Focus on understanding the types of problems ML can address in finance and the unique challenges (non-stationarity of financial data, low signal-to-noise ratio).</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Investopedia - How Machine Learning Is Used in Finance: <a href="https://www.investopedia.com/terms/m/machine-learning.asp">https://www.investopedia.com/terms/m/machine-learning.asp</a> (search for finance specific applications)</li>
+          <li>QuantInsti Blog - Machine Learning in Trading (various articles): <a href="https://blog.quantinsti.com/machine-learning/">https://blog.quantinsti.com/machine-learning/</a></li>
+          <li>Book: “Advances in Financial Machine Learning” by Marcos Lopez de Prado (highly advanced, but introduction/early chapters can provide context).</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 77: Feature Engineering for ML Trading Models</strong>
+    <ul>
+      <li><strong>Topic:</strong> Creating meaningful input variables (features) for machine learning models from raw financial data.</li>
+      <li><strong>Key Concepts:</strong> What is feature engineering? Why is it crucial for ML model performance? Examples of features: lagged returns, technical indicators (SMA, RSI, MACD values), volatility measures, price momentum, volume-based features.</li>
+      <li><strong>Hands-on Activity:</strong> Using one of your stock DataFrames in Python, brainstorm and implement the calculation of at least 5-7 different features that could potentially be used to predict next day’s price movement (e.g., 1-day lagged return, 5-day lagged return, 20-day SMA, RSI value, difference between price and 50-day SMA).</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Towards Data Science - Feature Engineering for Financial Time Series: <a href="https://towardsdatascience.com/feature-engineering-for-financial-time-series-predicting-stock-prices-with-python-5d4379ff4791">https://towardsdatascience.com/feature-engineering-for-financial-time-series-predicting-stock-prices-with-python-5d4379ff4791</a></li>
+          <li>Machine Learning Mastery - Feature Engineering: <a href="https://machinelearningmastery.com/discover-feature-engineering/">https://machinelearningmastery.com/discover-feature-engineering/</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 78: Building a Simple ML Model for Price Prediction (e.g., Logistic Regression using scikit-learn)</strong>
+    <ul>
+      <li><strong>Topic:</strong> Training a basic machine learning model to predict a binary outcome (e.g., price up/down).</li>
+      <li><strong>Key Concepts:</strong> Using <code class="language-plaintext highlighter-rouge">scikit-learn</code> Python library. Preparing data: defining features (X) and target variable (y - e.g., 1 if next day price up, 0 if down). Splitting data into training and testing sets. Training a simple model (e.g., Logistic Regression). Making predictions on the test set.</li>
+      <li><strong>Hands-on Activity:</strong> <strong>Project (Part 1):</strong> Using your features from Day 77 and a stock DataFrame:
+        <ol>
+          <li>Create a binary target variable (e.g., will the next day’s close be higher than today’s close?).</li>
+          <li>Split your data into a training set (e.g., first 70-80%) and a testing set (e.g., last 20-30%).</li>
+          <li>Train a Logistic Regression model using <code class="language-plaintext highlighter-rouge">scikit-learn</code> on the training data.</li>
+          <li>Make predictions on the testing data.
+Focus on the process, not on achieving high accuracy at this stage.</li>
+        </ol>
+      </li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Scikit-learn Documentation - Logistic Regression: <a href="https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html">https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html</a></li>
+          <li>Scikit-learn Documentation - Model selection (train_test_split): <a href="https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html">https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html</a></li>
+          <li>YouTube tutorials on “scikit-learn logistic regression for stock prediction”.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 79: Evaluating ML Model Performance &amp; Pitfalls</strong>
+    <ul>
+      <li><strong>Topic:</strong> Assessing how well your ML model performs and understanding common issues.</li>
+      <li><strong>Key Concepts:</strong> Evaluation metrics for classification: Accuracy, Precision, Recall, F1-score, Confusion Matrix. Understanding overfitting in ML models. The importance of out-of-sample testing and why financial predictions are hard.</li>
+      <li><strong>Hands-on Activity:</strong> <strong>Project (Part 2):</strong> For the Logistic Regression model trained on Day 78:
+        <ol>
+          <li>Calculate and interpret the accuracy, precision, recall, F1-score, and confusion matrix on the test set predictions.</li>
+          <li>Does the model perform better than random guessing? Reflect on the challenges.</li>
+        </ol>
+      </li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Scikit-learn Documentation - Classification Metrics: <a href="https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics">https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics</a></li>
+          <li>Google Developers - Machine Learning Crash Course - Classification: <a href="https://developers.google.com/machine-learning/crash-course/classification/accuracy">https://developers.google.com/machine-learning/crash-course/classification/accuracy</a> (and other metrics sections)</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 80: Alternative Data in Trading</strong>
+    <ul>
+      <li><strong>Topic:</strong> Exploring non-traditional data sources for gaining a trading edge.</li>
+      <li><strong>Key Concepts:</strong> What is alternative data? Examples: satellite imagery (tracking retailer parking lots, oil storage), credit card transaction data, web scraping data (e.g., product reviews, job postings), geolocation data, weather data. Challenges: cost, data quality, finding alpha.</li>
+      <li><strong>Hands-on Activity:</strong> Research 2-3 types of alternative data used in finance. For each, find an article or case study that describes how it has been used to generate trading insights. Consider the potential benefits and difficulties of using such data.</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>Investopedia - Alternative Data: <a href="https://www.investopedia.com/terms/a/alternative-data.asp">https://www.investopedia.com/terms/a/alternative-data.asp</a></li>
+          <li>AlternativeData.org - Resources and articles.</li>
+          <li>Financial news articles discussing hedge funds’ use of alternative data.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Day 81: Ethics in Algorithmic Trading</strong>
+    <ul>
+      <li><strong>Topic:</strong> Considering the ethical implications of automated and high-frequency trading.</li>
+      <li><strong>Key Concepts:</strong> Market manipulation (e.g., spoofing, layering), fair access to markets, impact of HFT on market stability, data privacy concerns with alternative data, algorithmic bias.</li>
+      <li><strong>Hands-on Activity:</strong> Read one or two articles or opinion pieces on the ethics of algorithmic trading or HFT. Formulate your own thoughts on 1-2 key ethical challenges in the field.</li>
+      <li><strong>Recommended Resources:</strong>
+        <ul>
+          <li>CFA Institute - Ethics in Practice: Algorithmic Trading: <a href="https://www.cfainstitute.org/en/research/ethics-in-practice/2019/algorithmic-trading">https://www.cfainstitute.org/en/research/ethics-in-practice/2019/algorithmic-trading</a></li>
+          <li>Search for articles on “algorithmic trading ethics” or “HFT market manipulation”.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+
+  </div>
+</article> 
+    </div>
+    <footer>
+        <p>© By yours truly, 🐻</p>
+    </footer>
+</body>
+</html>
+
+<!-- You might want to create a main.css or link to your primary CSS file -->
+<!-- The landing.html layout already links to landing_page.css --> 

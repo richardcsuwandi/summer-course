@@ -1,0 +1,18 @@
+title:
+email: 
+description:
+baseurl: "/trading"
+url: ""
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# ensure that the week markdown files are treated as pages
+include:
+  - "*.md"
+
+# navigation links
+header_pages:
+  - index.md 
