@@ -5,12 +5,11 @@ title: Week 1 - Everyday Greetings & Introductions
 
 # 🗣️ Week 1: Everyday Greetings & Introductions
 
-<details>
-<summary><h2>day 1</h2></summary>
+## day 1
 
 1.  幸会
     <details>
-    <summary></summary>
+    <summary>Details</summary>
     <ul>
     <li><strong>pinyin:</strong> xìnghuì</li>
     <li><strong>definition:</strong> nice to meet you (formal)</li>
@@ -128,14 +127,11 @@ title: Week 1 - Everyday Greetings & Introductions
     </ul>
     </details>
 
-</details>
-
-<details>
-<summary><h2>day 2</h2></summary>
+## day 2
 
 1.  告辞
     <details>
-    <summary></summary>
+    <summary>Details</summary>
     <ul>
     <li><strong>pinyin:</strong> gàocí</li>
     <li><strong>definition:</strong> to take leave; to bid farewell (formal).</li>
@@ -253,14 +249,11 @@ title: Week 1 - Everyday Greetings & Introductions
     </ul>
     </details>
 
-</details>
-
-<details>
-<summary><h2>day 3</h2></summary>
+## day 3
 
 1.  幸会幸会
     <details>
-    <summary></summary>
+    <summary>Details</summary>
     <ul>
     <li><strong>pinyin:</strong> xìnghuì xìnghuì</li>
     <li><strong>definition:</strong> very pleased to meet you (emphatic, often a response to 幸会).</li>
@@ -378,14 +371,11 @@ title: Week 1 - Everyday Greetings & Introductions
     </ul>
     </details>
 
-</details>
-
-<details>
-<summary><h2>day 4</h2></summary>
+## day 4
 
 1.  费心了
     <details>
-    <summary></summary>
+    <summary>Details</summary>
     <ul>
     <li><strong>pinyin:</strong> fèixīn le</li>
     <li><strong>definition:</strong> thank you for your trouble/effort (literally "you've expended your heart/mind").</li>
@@ -503,14 +493,11 @@ title: Week 1 - Everyday Greetings & Introductions
     </ul>
     </details>
 
-</details>
-
-<details>
-<summary><h2>day 5</h2></summary>
+## day 5
 
 1.  贵公司
     <details>
-    <summary></summary>
+    <summary>Details</summary>
     <ul>
     <li><strong>pinyin:</strong> guì gōngsī</li>
     <li><strong>definition:</strong> your esteemed company (polite).</li>
@@ -628,14 +615,11 @@ title: Week 1 - Everyday Greetings & Introductions
     </ul>
     </details>
 
-</details>
-
-<details>
-<summary><h2>day 6</h2></summary>
+## day 6
 
 1.  添麻烦了
     <details>
-    <summary></summary>
+    <summary>Details</summary>
     <ul>
     <li><strong>pinyin:</strong> tiān máfan le</li>
     <li><strong>definition:</strong> sorry to have caused you trouble.</li>
@@ -753,14 +737,11 @@ title: Week 1 - Everyday Greetings & Introductions
     </ul>
     </details>
 
-</details>
-
-<details>
-<summary><h2>day 7</h2></summary>
+## day 7
 
 1.  包涵
     <details>
-    <summary></summary>
+    <summary>Details</summary>
     <ul>
     <li><strong>pinyin:</strong> bāohan</li>
     <li><strong>definition:</strong> to forgive; to bear with; excuse.</li>
@@ -875,6 +856,4 @@ title: Week 1 - Everyday Greetings & Introductions
     <li><strong>usage:</strong> used to indicate that a particular phase of work or an event has concluded, though it may not be the absolute end.</li>
     <li><strong>example:</strong> 今天的会议到此告一段落，谢谢大家。(jīntiān de huìyì dàocǐ gào yī duànluò, xièxie dàjiā.) - today's meeting comes to an end here, thank you everyone.</li>
     </ul>
-    </details>
-
-</details> 
+    </details> 
