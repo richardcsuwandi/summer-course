@@ -7,504 +7,854 @@ title: Week 6 - Talking about Work & Daily Routines
 
 ## day 36
 
-1.  工作 (gōngzuò)
-    *   **pinyin:** gōngzuò
-    *   **definition:** work; job; to work
-    *   **usage:** activity involving mental or physical effort done in order to achieve a purpose or result; a paid position of regular employment.
-    *   **example:** 你在哪里工作？(nǐ zài nǎlǐ gōngzuò?) - where do you work? / 我的工作很忙。(wǒ de gōngzuò hěn máng.) - my job is very busy.
-    *   **contexts:** professional life, employment, daily activities.
+1.  工作
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> gōngzuò</li>
+    <li><strong>definition:</strong> work; job; to work</li>
+    <li><strong>usage:</strong> activity involving mental or physical effort done in order to achieve a purpose or result; a paid position of regular employment.</li>
+    <li><strong>example:</strong> 你在哪里工作？(nǐ zài nǎlǐ gōngzuò?) - where do you work? / 我的工作很忙。(wǒ de gōngzuò hěn máng.) - my job is very busy.</li>
+    <li><strong>contexts:</strong> professional life, employment, daily activities.</li>
+    </ul>
+    </details>
 
-2.  上班 (shàngbān)
-    *   **pinyin:** shàngbān
-    *   **definition:** to go to work; to be on duty
-    *   **usage:** to start work; to be at one's place of work.
-    *   **example:** 我每天早上八点上班。(wǒ měitiān zǎoshang bādiǎn shàngbān.) - i go to work at 8 am every day.
-    *   **contexts:** daily routines, work schedule.
+2.  上班
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shàngbān</li>
+    <li><strong>definition:</strong> to go to work; to be on duty</li>
+    <li><strong>usage:</strong> to start work; to be at one's place of work.</li>
+    <li><strong>example:</strong> 我每天早上八点上班。(wǒ měitiān zǎoshang bādiǎn shàngbān.) - i go to work at 8 am every day.</li>
+    <li><strong>contexts:</strong> daily routines, work schedule.</li>
+    </ul>
+    </details>
 
-3.  下班 (xiàbān)
-    *   **pinyin:** xiàbān
-    *   **definition:** to get off work; to finish work
-    *   **usage:** to leave one's place of work at the end of the working day.
-    *   **example:** 你通常几点下班？(nǐ tōngcháng jǐdiǎn xiàbān?) - what time do you usually get off work?
-    *   **contexts:** daily routines, work schedule.
+3.  下班
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> xiàbān</li>
+    <li><strong>definition:</strong> to get off work; to finish work</li>
+    <li><strong>usage:</strong> to leave one's place of work at the end of the working day.</li>
+    <li><strong>example:</strong> 你通常几点下班？(nǐ tōngcháng jǐdiǎn xiàbān?) - what time do you usually get off work?</li>
+    <li><strong>contexts:</strong> daily routines, work schedule.</li>
+    </ul>
+    </details>
 
-4.  公司 (gōngsī)
-    *   **pinyin:** gōngsī
-    *   **definition:** company; corporation; firm
-    *   **usage:** a commercial business.
-    *   **example:** 我在这家公司工作了五年。(wǒ zài zhè jiā gōngsī gōngzuò le wǔ nián.) - i have worked at this company for five years.
-    *   **contexts:** business, employment, professional settings.
+4.  公司
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> gōngsī</li>
+    <li><strong>definition:</strong> company; corporation; firm</li>
+    <li><strong>usage:</strong> a commercial business.</li>
+    <li><strong>example:</strong> 我在这家公司工作了五年。(wǒ zài zhè jiā gōngsī gōngzuò le wǔ nián.) - i have worked at this company for five years.</li>
+    <li><strong>contexts:</strong> business, employment, professional settings.</li>
+    </ul>
+    </details>
 
-5.  办公室 (bàngōngshì)
-    *   **pinyin:** bàngōngshì
-    *   **definition:** office
-    *   **usage:** a room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work.
-    *   **example:** 我的办公室在三楼。(wǒ de bàngōngshì zài sānlóu.) - my office is on the third floor.
-    *   **contexts:** workplace, business environment.
+5.  办公室
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> bàngōngshì</li>
+    <li><strong>definition:</strong> office</li>
+    <li><strong>usage:</strong> a room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work.</li>
+    <li><strong>example:</strong> 我的办公室在三楼。(wǒ de bàngōngshì zài sānlóu.) - my office is on the third floor.</li>
+    <li><strong>contexts:</strong> workplace, business environment.</li>
+    </ul>
+    </details>
 
-6.  同事 (tóngshì)
-    *   **pinyin:** tóngshì
-    *   **definition:** colleague; co-worker
-    *   **usage:** a person with whom one works in a profession or business.
-    *   **example:** 我和我的同事关系很好。(wǒ hé wǒ de tóngshì guānxì hěn hǎo.) - i have a good relationship with my colleagues.
-    *   **contexts:** workplace, professional relationships.
+6.  同事
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> tóngshì</li>
+    <li><strong>definition:</strong> colleague; co-worker</li>
+    <li><strong>usage:</strong> a person with whom one works in a profession or business.</li>
+    <li><strong>example:</strong> 我和我的同事关系很好。(wǒ hé wǒ de tóngshì guānxì hěn hǎo.) - i have a good relationship with my colleagues.</li>
+    <li><strong>contexts:</strong> workplace, professional relationships.</li>
+    </ul>
+    </details>
 
-7.  老板 (lǎobǎn)
-    *   **pinyin:** lǎobǎn
-    *   **definition:** boss; owner (of a business)
-    *   **usage:** a person who is in charge of a worker, group, or organization; the proprietor of a business.
-    *   **example:** 我们老板今天不在办公室。(wǒmen lǎobǎn jīntiān bù zài bàngōngshì.) - our boss is not in the office today.
-    *   **contexts:** workplace hierarchy, business.
+7.  老板
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> lǎobǎn</li>
+    <li><strong>definition:</strong> boss; owner (of a business)</li>
+    <li><strong>usage:</strong> a person who is in charge of a worker, group, or organization; the proprietor of a business.</li>
+    <li><strong>example:</strong> 我们老板今天不在办公室。(wǒmen lǎobǎn jīntiān bù zài bàngōngshì.) - our boss is not in the office today.</li>
+    <li><strong>contexts:</strong> workplace hierarchy, business.</li>
+    </ul>
+    </details>
 
-8.  经理 (jīnglǐ)
-    *   **pinyin:** jīnglǐ
-    *   **definition:** manager
-    *   **usage:** a person responsible for controlling or administering an organization or group of staff.
-    *   **example:** 他是这个部门的经理。(tā shì zhège bùmén de jīnglǐ.) - he is the manager of this department.
-    *   **contexts:** workplace hierarchy, business management.
+8.  经理
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jīnglǐ</li>
+    <li><strong>definition:</strong> manager</li>
+    <li><strong>usage:</strong> a person responsible for controlling or administering an organization or group of staff.</li>
+    <li><strong>example:</strong> 他是这个部门的经理。(tā shì zhège bùmén de jīnglǐ.) - he is the manager of this department.</li>
+    <li><strong>contexts:</strong> workplace hierarchy, business management.</li>
+    </ul>
+    </details>
 
-9.  职业 (zhíyè)
-    *   **pinyin:** zhíyè
-    *   **definition:** occupation; profession; career
-    *   **usage:** a paid occupation, especially one that involves prolonged training and a formal qualification.
-    *   **example:** 你的职业是什么？(nǐ de zhíyè shì shénme?) - what is your occupation?
-    *   **contexts:** employment, personal information, career planning.
+9.  职业
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zhíyè</li>
+    <li><strong>definition:</strong> occupation; profession; career</li>
+    <li><strong>usage:</strong> a paid occupation, especially one that involves prolonged training and a formal qualification.</li>
+    <li><strong>example:</strong> 你的职业是什么？(nǐ de zhíyè shì shénme?) - what is your occupation?</li>
+    <li><strong>contexts:</strong> employment, personal information, career planning.</li>
+    </ul>
+    </details>
 
-10. 职位 (zhíwèi)
-    *   **pinyin:** zhíwèi
-    *   **definition:** position; post (in a company)
-    *   **usage:** a specific role or job within an organization.
-    *   **example:** 我申请了这个公司的市场部职位。(wǒ shēnqǐng le zhège gōngsī de shìchǎngbù zhíwèi.) - i applied for a position in the marketing department of this company.
-    *   **contexts:** job searching, employment, workplace structure.
+10. 职位
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zhíwèi</li>
+    <li><strong>definition:</strong> position; post (in a company)</li>
+    <li><strong>usage:</strong> a specific role or job within an organization.</li>
+    <li><strong>example:</strong> 我申请了这个公司的市场部职位。(wǒ shēnqǐng le zhège gōngsī de shìchǎngbù zhíwèi.) - i applied for a position in the marketing department of this company.</li>
+    <li><strong>contexts:</strong> job searching, employment, workplace structure.</li>
+    </ul>
+    </details>
 
 ## day 37
 
-1.  日常生活 (rìcháng shēnghuó)
-    *   **pinyin:** rìcháng shēnghuó
-    *   **definition:** daily life; everyday life
-    *   **usage:** the way in which people typically live or the things they typically do.
-    *   **example:** 科技改变了我们的日常生活。(kējì gǎibiàn le wǒmen de rìcháng shēnghuó.) - technology has changed our daily lives.
-    *   **contexts:** general conversation, lifestyle, sociology.
+1.  日常生活
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> rìcháng shēnghuó</li>
+    <li><strong>definition:</strong> daily life; everyday life</li>
+    <li><strong>usage:</strong> the way in which people typically live or the things they typically do.</li>
+    <li><strong>example:</strong> 科技改变了我们的日常生活。(kējì gǎibiàn le wǒmen de rìcháng shēnghuó.) - technology has changed our daily lives.</li>
+    <li><strong>contexts:</strong> general conversation, lifestyle, sociology.</li>
+    </ul>
+    </details>
 
-2.  作息时间 (zuòxī shíjiān)
-    *   **pinyin:** zuòxī shíjiān
-    *   **definition:** daily routine; daily schedule (work and rest time)
-    *   **usage:** a regular schedule of work, rest, and other activities.
-    *   **example:** 规律的作息时间对健康很重要。(guīlǜ de zuòxī shíjiān duì jiànkāng hěn zhòngyào.) - a regular daily schedule is very important for health.
-    *   **contexts:** health, lifestyle, time management.
+2.  作息时间
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zuòxī shíjiān</li>
+    <li><strong>definition:</strong> daily routine; daily schedule (work and rest time)</li>
+    <li><strong>usage:</strong> a regular schedule of work, rest, and other activities.</li>
+    <li><strong>example:</strong> 规律的作息时间对健康很重要。(guīlǜ de zuòxī shíjiān duì jiànkāng hěn zhòngyào.) - a regular daily schedule is very important for health.</li>
+    <li><strong>contexts:</strong> health, lifestyle, time management.</li>
+    </ul>
+    </details>
 
-3.  起床 (qǐchuáng)
-    *   **pinyin:** qǐchuáng
-    *   **definition:** to get up (from bed)
-    *   **usage:** to rise from bed after sleeping.
-    *   **example:** 我通常早上七点起床。(wǒ tōngcháng zǎoshang qīdiǎn qǐchuáng.) - i usually get up at 7 am.
-    *   **contexts:** daily routines, morning activities.
+3.  起床
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> qǐchuáng</li>
+    <li><strong>definition:</strong> to get up (from bed)</li>
+    <li><strong>usage:</strong> to rise from bed after sleeping.</li>
+    <li><strong>example:</strong> 我通常早上七点起床。(wǒ tōngcháng zǎoshang qīdiǎn qǐchuáng.) - i usually get up at 7 am.</li>
+    <li><strong>contexts:</strong> daily routines, morning activities.</li>
+    </ul>
+    </details>
 
-4.  睡觉 (shuìjiào)
-    *   **pinyin:** shuìjiào
-    *   **definition:** to sleep; to go to bed
-    *   **usage:** to rest your mind and body by closing your eyes and becoming unconscious.
-    *   **example:** 我昨晚睡得很早。(wǒ zuówǎn shuì de hěn zǎo.) - i went to bed very early last night.
-    *   **contexts:** daily routines, night activities, health.
+4.  睡觉
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shuìjiào</li>
+    <li><strong>definition:</strong> to sleep; to go to bed</li>
+    <li><strong>usage:</strong> to rest your mind and body by closing your eyes and becoming unconscious.</li>
+    <li><strong>example:</strong> 我昨晚睡得很早。(wǒ zuówǎn shuì de hěn zǎo.) - i went to bed very early last night.</li>
+    <li><strong>contexts:</strong> daily routines, night activities, health.</li>
+    </ul>
+    </details>
 
-5.  刷牙 (shuāyá)
-    *   **pinyin:** shuāyá
-    *   **definition:** to brush teeth
-    *   **usage:** to clean one's teeth with a toothbrush.
-    *   **example:** 别忘了早晚刷牙。(bié wàng le zǎowǎn shuāyá.) - don't forget to brush your teeth in the morning and evening.
-    *   **contexts:** daily routines, personal hygiene.
+5.  刷牙
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shuāyá</li>
+    <li><strong>definition:</strong> to brush teeth</li>
+    <li><strong>usage:</strong> to clean one's teeth with a toothbrush.</li>
+    <li><strong>example:</strong> 别忘了早晚刷牙。(bié wàng le zǎowǎn shuāyá.) - don't forget to brush your teeth in the morning and evening.</li>
+    <li><strong>contexts:</strong> daily routines, personal hygiene.</li>
+    </ul>
+    </details>
 
-6.  洗脸 (xǐliǎn)
-    *   **pinyin:** xǐliǎn
-    *   **definition:** to wash one's face
-    *   **usage:** to clean one's face with water and often soap.
-    *   **example:** 我起床后先洗脸。(wǒ qǐchuáng hòu xiān xǐliǎn.) - i wash my face first after getting up.
-    *   **contexts:** daily routines, personal hygiene.
+6.  洗脸
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> xǐliǎn</li>
+    <li><strong>definition:</strong> to wash one's face</li>
+    <li><strong>usage:</strong> to clean one's face with water and often soap.</li>
+    <li><strong>example:</strong> 我起床后先洗脸。(wǒ qǐchuáng hòu xiān xǐliǎn.) - i wash my face first after getting up.</li>
+    <li><strong>contexts:</strong> daily routines, personal hygiene.</li>
+    </ul>
+    </details>
 
-7.  吃早饭 (chī zǎofàn)
-    *   **pinyin:** chī zǎofàn
-    *   **definition:** to eat breakfast
-    *   **usage:** to have the first meal of the day.
-    *   **example:** 你吃早饭了吗？(nǐ chī zǎofàn le ma?) - have you eaten breakfast?
-    *   **contexts:** daily routines, meals.
+7.  吃早饭
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> chī zǎofàn</li>
+    <li><strong>definition:</strong> to eat breakfast</li>
+    <li><strong>usage:</strong> to have the first meal of the day.</li>
+    <li><strong>example:</strong> 你吃早饭了吗？(nǐ chī zǎofàn le ma?) - have you eaten breakfast?</li>
+    <li><strong>contexts:</strong> daily routines, meals.</li>
+    </ul>
+    </details>
 
-8.  通勤 (tōngqín)
-    *   **pinyin:** tōngqín
-    *   **definition:** to commute; commute
-    *   **usage:** to travel some distance between one's home and place of work on a regular basis.
-    *   **example:** 我的通勤时间大约是一个小时。(wǒ de tōngqín shíjiān dàyuē shì yī gè xiǎoshí.) - my commute time is about one hour.
-    *   **contexts:** daily routines, work, transportation.
+8.  通勤
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> tōngqín</li>
+    <li><strong>definition:</strong> to commute; commute</li>
+    <li><strong>usage:</strong> to travel some distance between one's home and place of work on a regular basis.</li>
+    <li><strong>example:</strong> 我的通勤时间大约是一个小时。(wǒ de tōngqín shíjiān dàyuē shì yī gè xiǎoshí.) - my commute time is about one hour.</li>
+    <li><strong>contexts:</strong> daily routines, work, transportation.</li>
+    </ul>
+    </details>
 
-9.  开会 (kāihuì)
-    *   **pinyin:** kāihuì
-    *   **definition:** to have a meeting; to attend a meeting
-    *   **usage:** an occasion when people come together to discuss or decide something.
-    *   **example:** 我们下午三点要开会。(wǒmen xiàwǔ sāndiǎn yào kāihuì.) - we have a meeting at 3 pm.
-    *   **contexts:** workplace, business communication, scheduling.
+9.  开会
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> kāihuì</li>
+    <li><strong>definition:</strong> to have a meeting; to attend a meeting</li>
+    <li><strong>usage:</strong> an occasion when people come together to discuss or decide something.</li>
+    <li><strong>example:</strong> 我们下午三点要开会。(wǒmen xiàwǔ sāndiǎn yào kāihuì.) - we have a meeting at 3 pm.</li>
+    <li><strong>contexts:</strong> workplace, business communication, scheduling.</li>
+    </ul>
+    </details>
 
-10. 加班 (jiābān)
-    *   **pinyin:** jiābān
-    *   **definition:** to work overtime
-    *   **usage:** to work longer hours than usual or than are required by one's contract.
-    *   **example:** 我今天晚上可能要加班。(wǒ jīntiān wǎnshang kěnéng yào jiābān.) - i might have to work overtime tonight.
-    *   **contexts:** workplace, work culture, workload.
+10. 加班
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jiābān</li>
+    <li><strong>definition:</strong> to work overtime</li>
+    <li><strong>usage:</strong> to work longer hours than usual or than are required by one's contract.</li>
+    <li><strong>example:</strong> 我今天晚上可能要加班。(wǒ jīntiān wǎnshang kěnéng yào jiābān.) - i might have to work overtime tonight.</li>
+    <li><strong>contexts:</strong> workplace, work culture, workload.</li>
+    </ul>
+    </details>
 
 ## day 38
 
-1.  出差 (chūchāi)
-    *   **pinyin:** chūchāi
-    *   **definition:** to be on a business trip
-    *   **usage:** a journey undertaken for business purposes.
-    *   **example:** 他下周要去上海出差。(tā xiàzhōu yào qù shànghǎi chūchāi.) - he is going on a business trip to shanghai next week.
-    *   **contexts:** work, travel, business.
+1.  出差
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> chūchāi</li>
+    <li><strong>definition:</strong> to be on a business trip</li>
+    <li><strong>usage:</strong> a journey undertaken for business purposes.</li>
+    <li><strong>example:</strong> 他下周要去上海出差。(tā xiàzhōu yào qù shànghǎi chūchāi.) - he is going on a business trip to shanghai next week.</li>
+    <li><strong>contexts:</strong> work, travel, business.</li>
+    </ul>
+    </details>
 
-2.  项目 (xiàngmù)
-    *   **pinyin:** xiàngmù
-    *   **definition:** project; item; (sports) event
-    *   **usage:** an individual or collaborative enterprise that is carefully planned to achieve a particular aim.
-    *   **example:** 我们正在做一个新项目。(wǒmen zhèngzài zuò yī gè xīn xiàngmù.) - we are working on a new project.
-    *   **contexts:** work, business, planning, sports.
+2.  项目
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> xiàngmù</li>
+    <li><strong>definition:</strong> project; item; (sports) event</li>
+    <li><strong>usage:</strong> an individual or collaborative enterprise that is carefully planned to achieve a particular aim.</li>
+    <li><strong>example:</strong> 我们正在做一个新项目。(wǒmen zhèngzài zuò yī gè xīn xiàngmù.) - we are working on a new project.</li>
+    <li><strong>contexts:</strong> work, business, planning, sports.</li>
+    </ul>
+    </details>
 
-3.  报告 (bàogào)
-    *   **pinyin:** bàogào
-    *   **definition:** report; to report; to inform
-    *   **usage:** an account given of a particular matter, especially in the form of an official document, after thorough investigation or consideration by an appointed person or body.
-    *   **example:** 我需要明天交这份报告。(wǒ xūyào míngtiān jiāo zhè fèn bàogào.) - i need to submit this report tomorrow.
-    *   **contexts:** work, business communication, academics.
+3.  报告
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> bàogào</li>
+    <li><strong>definition:</strong> report; to report; to inform</li>
+    <li><strong>usage:</strong> an account given of a particular matter, especially in the form of an official document, after thorough investigation or consideration by an appointed person or body.</li>
+    <li><strong>example:</strong> 我需要明天交这份报告。(wǒ xūyào míngtiān jiāo zhè fèn bàogào.) - i need to submit this report tomorrow.</li>
+    <li><strong>contexts:</strong> work, business communication, academics.</li>
+    </ul>
+    </details>
 
-4.  邮件 (yóujiàn)
-    *   **pinyin:** yóujiàn
-    *   **definition:** email; mail; post
-    *   **usage:** messages distributed by electronic means from one computer user to one or more recipients via a network; letters and packages conveyed by the postal system.
-    *   **example:** 我刚收到一封重要的邮件。(wǒ gāng shōudào yī fēng zhòngyào de yóujiàn.) - i just received an important email.
-    *   **contexts:** communication, workplace, internet.
+4.  邮件
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yóujiàn</li>
+    <li><strong>definition:</strong> email; mail; post</li>
+    <li><strong>usage:</strong> messages distributed by electronic means from one computer user to one or more recipients via a network; letters and packages conveyed by the postal system.</li>
+    <li><strong>example:</strong> 我刚收到一封重要的邮件。(wǒ gāng shōudào yī fēng zhòngyào de yóujiàn.) - i just received an important email.</li>
+    <li><strong>contexts:</strong> communication, workplace, internet.</li>
+    </ul>
+    </details>
 
-5.  回复 (huífù)
-    *   **pinyin:** huífù
-    *   **definition:** to reply; to answer; reply (noun)
-    *   **usage:** to say or write something as an answer to someone or something.
-    *   **example:** 请尽快回复我的邮件。(qǐng jǐnkuài huífù wǒ de yóujiàn.) - please reply to my email as soon as possible.
-    *   **contexts:** communication, email, letters, conversations.
+5.  回复
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> huífù</li>
+    <li><strong>definition:</strong> to reply; to answer; reply (noun)</li>
+    <li><strong>usage:</strong> to say or write something as an answer to someone or something.</li>
+    <li><strong>example:</strong> 请尽快回复我的邮件。(qǐng jǐnkuài huífù wǒ de yóujiàn.) - please reply to my email as soon as possible.</li>
+    <li><strong>contexts:</strong> communication, email, letters, conversations.</li>
+    </ul>
+    </details>
 
-6.  截止日期 (jiézhǐ rìqī)
-    *   **pinyin:** jiézhǐ rìqī
-    *   **definition:** deadline; due date
-    *   **usage:** the latest time or date by which something should be completed.
-    *   **example:** 这个项目的截止日期是下周五。(zhège xiàngmù de jiézhǐ rìqī shì xiàzhōu wǔ.) - the deadline for this project is next friday.
-    *   **contexts:** work, projects, academics, scheduling.
+6.  截止日期
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jiézhǐ rìqī</li>
+    <li><strong>definition:</strong> deadline; due date</li>
+    <li><strong>usage:</strong> the latest time or date by which something should be completed.</li>
+    <li><strong>example:</strong> 这个项目的截止日期是下周五。(zhège xiàngmù de jiézhǐ rìqī shì xiàzhōu wǔ.) - the deadline for this project is next friday.</li>
+    <li><strong>contexts:</strong> work, projects, academics, scheduling.</li>
+    </ul>
+    </details>
 
-7.  任务 (rènwu)
-    *   **pinyin:** rènwu
-    *   **definition:** task; mission; assignment
-    *   **usage:** a piece of work to be done or undertaken.
-    *   **example:** 我今天有很多任务要完成。(wǒ jīntiān yǒu hěnduō rènwu yào wánchéng.) - i have many tasks to complete today.
-    *   **contexts:** work, projects, daily activities.
+7.  任务
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> rènwu</li>
+    <li><strong>definition:</strong> task; mission; assignment</li>
+    <li><strong>usage:</strong> a piece of work to be done or undertaken.</li>
+    <li><strong>example:</strong> 我今天有很多任务要完成。(wǒ jīntiān yǒu hěnduō rènwu yào wánchéng.) - i have many tasks to complete today.</li>
+    <li><strong>contexts:</strong> work, projects, daily activities.</li>
+    </ul>
+    </details>
 
-8.  计划 (jìhuà)
-    *   **pinyin:** jìhuà
-    *   **definition:** plan; project; to plan; to map out
-    *   **usage:** a detailed proposal for doing or achieving something; to decide on and make arrangements for in advance.
-    *   **example:** 我们需要制定一个详细的计划。(wǒmen xūyào zhìdìng yī gè xiángxì de jìhuà.) - we need to make a detailed plan.
-    *   **contexts:** work, projects, personal life, scheduling.
+8.  计划
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jìhuà</li>
+    <li><strong>definition:</strong> plan; project; to plan; to map out</li>
+    <li><strong>usage:</strong> a detailed proposal for doing or achieving something; to decide on and make arrangements for in advance.</li>
+    <li><strong>example:</strong> 我们需要制定一个详细的计划。(wǒmen xūyào zhìdìng yī gè xiángxì de jìhuà.) - we need to make a detailed plan.</li>
+    <li><strong>contexts:</strong> work, projects, personal life, scheduling.</li>
+    </ul>
+    </details>
 
-9.  安排 (ānpái)
-    *   **pinyin:** ānpái
-    *   **definition:** to arrange; to plan; arrangement
-    *   **usage:** to organize or make plans for (a future event or activity).
-    *   **example:** 会议的日程已经安排好了。(huìyì de rìchéng yǐjīng ānpái hǎo le.) - the schedule for the meeting has been arranged.
-    *   **contexts:** scheduling, planning, events, work.
+9.  安排
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> ānpái</li>
+    <li><strong>definition:</strong> to arrange; to plan; arrangement</li>
+    <li><strong>usage:</strong> to organize or make plans for (a future event or activity).</li>
+    <li><strong>example:</strong> 会议的日程已经安排好了。(huìyì de rìchéng yǐjīng ānpái hǎo le.) - the schedule for the meeting has been arranged.</li>
+    <li><strong>contexts:</strong> scheduling, planning, events, work.</li>
+    </ul>
+    </details>
 
-10. 压力 (yālì)
-    *   **pinyin:** yālì
-    *   **definition:** pressure; stress
-    *   **usage:** a state of mental or emotional strain or tension resulting from adverse or demanding circumstances.
-    *   **example:** 我最近工作压力很大。(wǒ zuìjìn gōngzuò yālì hěn dà.) - i have been under a lot of work pressure recently.
-    *   **contexts:** work, life, psychology, health.
+10. 压力
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yālì</li>
+    <li><strong>definition:</strong> pressure; stress</li>
+    <li><strong>usage:</strong> a state of mental or emotional strain or tension resulting from adverse or demanding circumstances.</li>
+    <li><strong>example:</strong> 我最近工作压力很大。(wǒ zuìjìn gōngzuò yālì hěn dà.) - i have been under a lot of work pressure recently.</li>
+    <li><strong>contexts:</strong> work, life, psychology, health.</li>
+    </ul>
+    </details>
 
 ## day 39
 
-1.  效率 (xiàolǜ)
-    *   **pinyin:** xiàolǜ
-    *   **definition:** efficiency
-    *   **usage:** the state or quality of being efficient; achieving maximum productivity with minimum wasted effort or expense.
-    *   **example:** 我们需要提高工作效率。(wǒmen xūyào tígāo gōngzuò xiàolǜ.) - we need to improve work efficiency.
-    *   **contexts:** work, productivity, business, time management.
+1.  效率
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> xiàolǜ</li>
+    <li><strong>definition:</strong> efficiency</li>
+    <li><strong>usage:</strong> the state or quality of being efficient; achieving maximum productivity with minimum wasted effort or expense.</li>
+    <li><strong>example:</strong> 我们需要提高工作效率。(wǒmen xūyào tígāo gōngzuò xiàolǜ.) - we need to improve work efficiency.</li>
+    <li><strong>contexts:</strong> work, productivity, business, time management.</li>
+    </ul>
+    </details>
 
-2.  经验 (jīngyàn)
-    *   **pinyin:** jīngyàn
-    *   **definition:** experience (knowledge or skill from doing something)
-    *   **usage:** practical contact with and observation of facts or events; the knowledge or skill acquired by experience over a period of time, especially that gained in a particular profession or activity.
-    *   **example:** 他有丰富的工作经验。(tā yǒu fēngfù de gōngzuò jīngyàn.) - he has rich work experience.
-    *   **contexts:** work, skills, personal development, job applications.
+2.  经验
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jīngyàn</li>
+    <li><strong>definition:</strong> experience (knowledge or skill from doing something)</li>
+    <li><strong>usage:</strong> practical contact with and observation of facts or events; the knowledge or skill acquired by experience over a period of time, especially that gained in a particular profession or activity.</li>
+    <li><strong>example:</strong> 他有丰富的工作经验。(tā yǒu fēngfù de gōngzuò jīngyàn.) - he has rich work experience.</li>
+    <li><strong>contexts:</strong> work, skills, personal development, job applications.</li>
+    </ul>
+    </details>
 
-3.  薪水 (xīnshui)
-    *   **pinyin:** xīnshui
-    *   **definition:** salary; wage; pay
-    *   **usage:** a fixed regular payment, typically paid on a monthly basis but often expressed as an annual sum, made by an employer to an employee.
-    *   **example:** 我对现在的薪水不太满意。(wǒ duì xiànzài de xīnshui bù tài mǎnyì.) - i am not very satisfied with my current salary.
-    *   **contexts:** employment, finance, job negotiation.
+3.  薪水
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> xīnshui</li>
+    <li><strong>definition:</strong> salary; wage; pay</li>
+    <li><strong>usage:</strong> a fixed regular payment, typically paid on a monthly basis but often expressed as an annual sum, made by an employer to an employee.</li>
+    <li><strong>example:</strong> 我对现在的薪水不太满意。(wǒ duì xiànzài de xīnshui bù tài mǎnyì.) - i am not very satisfied with my current salary.</li>
+    <li><strong>contexts:</strong> employment, finance, job negotiation.</li>
+    </ul>
+    </details>
 
-4.  奖金 (jiǎngjīn)
-    *   **pinyin:** jiǎngjīn
-    *   **definition:** bonus; premium (monetary award)
-    *   **usage:** a sum of money added to a person's wages as a reward for good performance.
-    *   **example:** 公司年底会发奖金。(gōngsī niándǐ huì fā jiǎngjīn.) - the company will give out bonuses at the end of the year.
-    *   **contexts:** employment, compensation, rewards.
+4.  奖金
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jiǎngjīn</li>
+    <li><strong>definition:</strong> bonus; premium (monetary award)</li>
+    <li><strong>usage:</strong> a sum of money added to a person's wages as a reward for good performance.</li>
+    <li><strong>example:</strong> 公司年底会发奖金。(gōngsī niándǐ huì fā jiǎngjīn.) - the company will give out bonuses at the end of the year.</li>
+    <li><strong>contexts:</strong> employment, compensation, rewards.</li>
+    </ul>
+    </details>
 
-5.  福利 (fúlì)
-    *   **pinyin:** fúlì
-    *   **definition:** (social) welfare; benefits (from a job)
-    *   **usage:** an advantage or profit gained from something; financial or other assistance to an individual or family from a city, state, or national government.
-    *   **example:** 这家公司的员工福利很好。(zhè jiā gōngsī de yuángōng fúlì hěn hǎo.) - the employee benefits at this company are very good.
-    *   **contexts:** employment, social security, company policies.
+5.  福利
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> fúlì</li>
+    <li><strong>definition:</strong> (social) welfare; benefits (from a job)</li>
+    <li><strong>usage:</strong> an advantage or profit gained from something; financial or other assistance to an individual or family from a city, state, or national government.</li>
+    <li><strong>example:</strong> 这家公司的员工福利很好。(zhè jiā gōngsī de yuángōng fúlì hěn hǎo.) - the employee benefits at this company are very good.</li>
+    <li><strong>contexts:</strong> employment, social security, company policies.</li>
+    </ul>
+    </details>
 
-6.  辞职 (cízhí)
-    *   **pinyin:** cízhí
-    *   **definition:** to resign; to quit one's job
-    *   **usage:** to voluntarily leave a job or office.
-    *   **example:** 他决定辞职去追求自己的梦想。(tā juédìng cízhí qù zhuīqiú zìjǐ de mèngxiǎng.) - he decided to resign to pursue his dreams.
-    *   **contexts:** employment, career changes.
+6.  辞职
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> cízhí</li>
+    <li><strong>definition:</strong> to resign; to quit one's job</li>
+    <li><strong>usage:</strong> to voluntarily leave a job or office.</li>
+    <li><strong>example:</strong> 他决定辞职去追求自己的梦想。(tā juédìng cízhí qù zhuīqiú zìjǐ de mèngxiǎng.) - he decided to resign to pursue his dreams.</li>
+    <li><strong>contexts:</strong> employment, career changes.</li>
+    </ul>
+    </details>
 
-7.  招聘 (zhāopìn)
-    *   **pinyin:** zhāopìn
-    *   **definition:** to recruit; recruitment; to invite applications for a job
-    *   **usage:** the process of finding and hiring the best-qualified candidate for a job opening, in a timely and cost-effective manner.
-    *   **example:** 我们公司正在招聘新的工程师。(wǒmen gōngsī zhèngzài zhāopìn xīn de gōngchéngshī.) - our company is currently recruiting new engineers.
-    *   **contexts:** employment, human resources, job market.
+7.  招聘
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zhāopìn</li>
+    <li><strong>definition:</strong> to recruit; recruitment; to invite applications for a job</li>
+    <li><strong>usage:</strong> the process of finding and hiring the best-qualified candidate for a job opening, in a timely and cost-effective manner.</li>
+    <li><strong>example:</strong> 我们公司正在招聘新的工程师。(wǒmen gōngsī zhèngzài zhāopìn xīn de gōngchéngshī.) - our company is currently recruiting new engineers.</li>
+    <li><strong>contexts:</strong> employment, human resources, job market.</li>
+    </ul>
+    </details>
 
-8.  面试 (miànshì)
-    *   **pinyin:** miànshì
-    *   **definition:** interview (for a job, etc.); to interview
-    *   **usage:** a formal meeting in which one or more persons question, consult, or evaluate another person.
-    *   **example:** 我明天有一个重要的面试。(wǒ míngtiān yǒu yī gè zhòngyào de miànshì.) - i have an important interview tomorrow.
-    *   **contexts:** job application process, recruitment.
+8.  面试
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> miànshì</li>
+    <li><strong>definition:</strong> interview (for a job, etc.); to interview</li>
+    <li><strong>usage:</strong> a formal meeting in which one or more persons question, consult, or evaluate another person.</li>
+    <li><strong>example:</strong> 我明天有一个重要的面试。(wǒ míngtiān yǒu yī gè zhòngyào de miànshì.) - i have an important interview tomorrow.</li>
+    <li><strong>contexts:</strong> job application process, recruitment.</li>
+    </ul>
+    </details>
 
-9.  简历 (jiǎnlì)
-    *   **pinyin:** jiǎnlì
-    *   **definition:** resume; curriculum vitae (CV)
-    *   **usage:** a brief account of a person's education, qualifications, and previous experience, typically sent with a job application.
-    *   **example:** 请把你的简历发给我。(qǐng bǎ nǐ de jiǎnlì fā gěi wǒ.) - please send me your resume.
-    *   **contexts:** job application, career, professional documents.
+9.  简历
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jiǎnlì</li>
+    <li><strong>definition:</strong> resume; curriculum vitae (CV)</li>
+    <li><strong>usage:</strong> a brief account of a person's education, qualifications, and previous experience, typically sent with a job application.</li>
+    <li><strong>example:</strong> 请把你的简历发给我。(qǐng bǎ nǐ de jiǎnlì fā gěi wǒ.) - please send me your resume.</li>
+    <li><strong>contexts:</strong> job application, career, professional documents.</li>
+    </ul>
+    </details>
 
-10. 退休 (tuìxiū)
-    *   **pinyin:** tuìxiū
-    *   **definition:** to retire; retirement
-    *   **usage:** to leave one's job and cease to work, typically on reaching the normal age for stopping work.
-    *   **example:** 他计划明年退休。(tā jìhuà míngnián tuìxiū.) - he plans to retire next year.
-    *   **contexts:** employment, life stages, pensions.
+10. 退休
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> tuìxiū</li>
+    <li><strong>definition:</strong> to retire; retirement</li>
+    <li><strong>usage:</strong> to leave one's job and cease to work, typically on reaching the normal age for stopping work.</li>
+    <li><strong>example:</strong> 他计划明年退休。(tā jìhuà míngnián tuìxiū.) - he plans to retire next year.</li>
+    <li><strong>contexts:</strong> employment, life stages, pensions.</li>
+    </ul>
+    </details>
 
 ## day 40
 
-1.  团队合作 (tuánduì hézuò)
-    *   **pinyin:** tuánduì hézuò
-    *   **definition:** teamwork; team cooperation
-    *   **usage:** the combined action of a group of people, especially when effective and efficient.
-    *   **example:** 团队合作对于项目的成功非常重要。(tuánduì hézuò duìyú xiàngmù de chénggōng fēicháng zhòngyào.) - teamwork is very important for the success of a project.
-    *   **contexts:** workplace, projects, sports, collaboration.
+1.  团队合作
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> tuánduì hézuò</li>
+    <li><strong>definition:</strong> teamwork; team cooperation</li>
+    <li><strong>usage:</strong> the combined action of a group of people, especially when effective and efficient.</li>
+    <li><strong>example:</strong> 团队合作对于项目的成功非常重要。(tuánduì hézuò duìyú xiàngmù de chénggōng fēicháng zhòngyào.) - teamwork is very important for the success of a project.</li>
+    <li><strong>contexts:</strong> workplace, projects, sports, collaboration.</li>
+    </ul>
+    </details>
 
-2.  沟通 (gōutōng)
-    *   **pinyin:** gōutōng
-    *   **definition:** to communicate; communication
-    *   **usage:** the imparting or exchanging of information or news.
-    *   **example:** 良好的沟通有助于解决问题。(liánghǎo de gōutōng yǒuzhù yú jiějué wèntí.) - good communication helps to solve problems.
-    *   **contexts:** workplace, relationships, general interaction.
+2.  沟通
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> gōutōng</li>
+    <li><strong>definition:</strong> to communicate; communication</li>
+    <li><strong>usage:</strong> the imparting or exchanging of information or news.</li>
+    <li><strong>example:</strong> 良好的沟通有助于解决问题。(liánghǎo de gōutōng yǒuzhù yú jiějué wèntí.) - good communication helps to solve problems.</li>
+    <li><strong>contexts:</strong> workplace, relationships, general interaction.</li>
+    </ul>
+    </details>
 
-3.  讨论 (tǎolùn)
-    *   **pinyin:** tǎolùn
-    *   **definition:** to discuss; discussion
-    *   **usage:** to talk about (something) with another person or group of people.
-    *   **example:** 我们需要开会讨论一下这个方案。(wǒmen xūyào kāihuì tǎolùn yīxià zhège fāng'àn.) - we need to have a meeting to discuss this proposal.
-    *   **contexts:** meetings, problem-solving, academic settings.
+3.  讨论
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> tǎolùn</li>
+    <li><strong>definition:</strong> to discuss; discussion</li>
+    <li><strong>usage:</strong> to talk about (something) with another person or group of people.</li>
+    <li><strong>example:</strong> 我们需要开会讨论一下这个方案。(wǒmen xūyào kāihuì tǎolùn yīxià zhège fāng'àn.) - we need to have a meeting to discuss this proposal.</li>
+    <li><strong>contexts:</strong> meetings, problem-solving, academic settings.</li>
+    </ul>
+    </details>
 
-4.  客户 (kèhù)
-    *   **pinyin:** kèhù
-    *   **definition:** client; customer
-    *   **usage:** a person or organization using the services of a lawyer or other professional person or company.
-    *   **example:** 我们要努力满足客户的需求。(wǒmen yào nǔlì mǎnzú kèhù de xūqiú.) - we must strive to meet the needs of our clients.
-    *   **contexts:** business, sales, customer service, professional services.
+4.  客户
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> kèhù</li>
+    <li><strong>definition:</strong> client; customer</li>
+    <li><strong>usage:</strong> a person or organization using the services of a lawyer or other professional person or company.</li>
+    <li><strong>example:</strong> 我们要努力满足客户的需求。(wǒmen yào nǔlì mǎnzú kèhù de xūqiú.) - we must strive to meet the needs of our clients.</li>
+    <li><strong>contexts:</strong> business, sales, customer service, professional services.</li>
+    </ul>
+    </details>
 
-5.  市场 (shìchǎng)
-    *   **pinyin:** shìchǎng
-    *   **definition:** market (as in marketplace or the market for a product)
-    *   **usage:** an area or arena in which commercial dealings are conducted; demand for a particular commodity or service.
-    *   **example:** 我们需要对目标市场进行调研。(wǒmen xūyào duì mùbiāo shìchǎng jìnxíng diàoyán.) - we need to conduct research on the target market.
-    *   **contexts:** business, economics, marketing, sales.
+5.  市场
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shìchǎng</li>
+    <li><strong>definition:</strong> market (as in marketplace or the market for a product)</li>
+    <li><strong>usage:</strong> an area or arena in which commercial dealings are conducted; demand for a particular commodity or service.</li>
+    <li><strong>example:</strong> 我们需要对目标市场进行调研。(wǒmen xūyào duì mùbiāo shìchǎng jìnxíng diàoyán.) - we need to conduct research on the target market.</li>
+    <li><strong>contexts:</strong> business, economics, marketing, sales.</li>
+    </ul>
+    </details>
 
-6.  竞争 (jìngzhēng)
-    *   **pinyin:** jìngzhēng
-    *   **definition:** to compete; competition
-    *   **usage:** the activity or condition of striving to gain or win something by defeating or establishing superiority over others.
-    *   **example:** 市场竞争非常激烈。(shìchǎng jìngzhēng fēicháng jīliè.) - the market competition is very fierce.
-    *   **contexts:** business, sports, economics.
+6.  竞争
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jìngzhēng</li>
+    <li><strong>definition:</strong> to compete; competition</li>
+    <li><strong>usage:</strong> the activity or condition of striving to gain or win something by defeating or establishing superiority over others.</li>
+    <li><strong>example:</strong> 市场竞争非常激烈。(shìchǎng jìngzhēng fēicháng jīliè.) - the market competition is very fierce.</li>
+    <li><strong>contexts:</strong> business, sports, economics.</li>
+    </ul>
+    </details>
 
-7.  合作 (hézuò)
-    *   **pinyin:** hézuò
-    *   **definition:** to cooperate; to collaborate; cooperation
-    *   **usage:** the process of working together to the same end.
-    *   **example:** 我们期待与贵公司有更多的合作机会。(wǒmen qīdài yǔ guì gōngsī yǒu gèng duō de hézuò jīhuì.) - we look forward to more cooperation opportunities with your company.
-    *   **contexts:** business, projects, international relations.
+7.  合作
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> hézuò</li>
+    <li><strong>definition:</strong> to cooperate; to collaborate; cooperation</li>
+    <li><strong>usage:</strong> the process of working together to the same end.</li>
+    <li><strong>example:</strong> 我们期待与贵公司有更多的合作机会。(wǒmen qīdài yǔ guì gōngsī yǒu gèng duō de hézuò jīhuì.) - we look forward to more cooperation opportunities with your company.</li>
+    <li><strong>contexts:</strong> business, projects, international relations.</li>
+    </ul>
+    </details>
 
-8.  目标 (mùbiāo)
-    *   **pinyin:** mùbiāo
-    *   **definition:** target; goal; objective
-    *   **usage:** a person, object, or place selected as the aim of an attack; a desired aim or result.
-    *   **example:** 我们今年的销售目标是增长20%。(wǒmen jīnnián de xiāoshòu mùbiāo shì zēngzhǎng bǎifēzhī èrshí.) - our sales target for this year is a 20% increase.
-    *   **contexts:** business, personal development, planning, sports.
+8.  目标
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> mùbiāo</li>
+    <li><strong>definition:</strong> target; goal; objective</li>
+    <li><strong>usage:</strong> a person, object, or place selected as the aim of an attack; a desired aim or result.</li>
+    <li><strong>example:</strong> 我们今年的销售目标是增长20%。(wǒmen jīnnián de xiāoshòu mùbiāo shì zēngzhǎng bǎifēzhī èrshí.) - our sales target for this year is a 20% increase.</li>
+    <li><strong>contexts:</strong> business, personal development, planning, sports.</li>
+    </ul>
+    </details>
 
-9.  成功 (chénggōng)
-    *   **pinyin:** chénggōng
-    *   **definition:** success; to succeed
-    *   **usage:** the accomplishment of an aim or purpose.
-    *   **example:** 祝你成功！(zhù nǐ chénggōng!) - wish you success!
-    *   **contexts:** general encouragement, achievements, results.
+9.  成功
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> chénggōng</li>
+    <li><strong>definition:</strong> success; to succeed</li>
+    <li><strong>usage:</strong> the accomplishment of an aim or purpose.</li>
+    <li><strong>example:</strong> 祝你成功！(zhù nǐ chénggōng!) - wish you success!</li>
+    <li><strong>contexts:</strong> general encouragement, achievements, results.</li>
+    </ul>
+    </details>
 
-10. 失败 (shībài)
-    *   **pinyin:** shībài
-    *   **definition:** failure; to fail
-    *   **usage:** lack of success; the neglect or omission of expected or required action.
-    *   **example:** 失败是成功之母。(shībài shì chénggōng zhī mǔ.) - failure is the mother of success (proverb).
-    *   **contexts:** results, learning, challenges.
+10. 失败
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shībài</li>
+    <li><strong>definition:</strong> failure; to fail</li>
+    <li><strong>usage:</strong> lack of success; the neglect or omission of expected or required action.</li>
+    <li><strong>example:</strong> 失败是成功之母。(shībài shì chénggōng zhī mǔ.) - failure is the mother of success (proverb).</li>
+    <li><strong>contexts:</strong> results, learning, challenges.</li>
+    </ul>
+    </details>
 
 ## day 41
 
-1.  周末 (zhōumò)
-    *   **pinyin:** zhōumò
-    *   **definition:** weekend
-    *   **usage:** saturday and sunday, especially regarded as a time for leisure.
-    *   **example:** 你周末有什么安排？(nǐ zhōumò yǒu shénme ānpái?) - what are your plans for the weekend?
-    *   **contexts:** daily life, leisure, planning.
+1.  周末
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zhōumò</li>
+    <li><strong>definition:</strong> weekend</li>
+    <li><strong>usage:</strong> saturday and sunday, especially regarded as a time for leisure.</li>
+    <li><strong>example:</strong> 你周末有什么安排？(nǐ zhōumò yǒu shénme ānpái?) - what are your plans for the weekend?</li>
+    <li><strong>contexts:</strong> daily life, leisure, planning.</li>
+    </ul>
+    </details>
 
-2.  平时 (píngshí)
-    *   **pinyin:** píngshí
-    *   **definition:** ordinarily; in normal times; usually
-    *   **usage:** at ordinary or usual times; as a general rule.
-    *   **example:** 我平时喜欢看书。(wǒ píngshí xǐhuān kànshū.) - i usually like to read books.
-    *   **contexts:** daily routines, habits, general descriptions.
+2.  平时
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> píngshí</li>
+    <li><strong>definition:</strong> ordinarily; in normal times; usually</li>
+    <li><strong>usage:</strong> at ordinary or usual times; as a general rule.</li>
+    <li><strong>example:</strong> 我平时喜欢看书。(wǒ píngshí xǐhuān kànshū.) - i usually like to read books.</li>
+    <li><strong>contexts:</strong> daily routines, habits, general descriptions.</li>
+    </ul>
+    </details>
 
-3.  有空 (yǒukòng)
-    *   **pinyin:** yǒukòng
-    *   **definition:** to have free time; to be available
-    *   **usage:** to have time available for leisure or other activities.
-    *   **example:** 你明天有空吗？我们一起吃饭吧。(nǐ míngtiān yǒukòng ma? wǒmen yīqǐ chīfàn ba.) - are you free tomorrow? let's have a meal together.
-    *   **contexts:** social invitations, planning, availability.
+3.  有空
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yǒukòng</li>
+    <li><strong>definition:</strong> to have free time; to be available</li>
+    <li><strong>usage:</strong> to have time available for leisure or other activities.</li>
+    <li><strong>example:</strong> 你明天有空吗？我们一起吃饭吧。(nǐ míngtiān yǒukòng ma? wǒmen yīqǐ chīfàn ba.) - are you free tomorrow? let's have a meal together.</li>
+    <li><strong>contexts:</strong> social invitations, planning, availability.</li>
+    </ul>
+    </details>
 
-4.  忙 (máng)
-    *   **pinyin:** máng
-    *   **definition:** busy
-    *   **usage:** having a great deal to do; occupied.
-    *   **example:** 我今天特别忙。(wǒ jīntiān tèbié máng.) - i am especially busy today.
-    *   **contexts:** daily life, work, personal status.
+4.  忙
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> máng</li>
+    <li><strong>definition:</strong> busy</li>
+    <li><strong>usage:</strong> having a great deal to do; occupied.</li>
+    <li><strong>example:</strong> 我今天特别忙。(wǒ jīntiān tèbié máng.) - i am especially busy today.</li>
+    <li><strong>contexts:</strong> daily life, work, personal status.</li>
+    </ul>
+    </details>
 
-5.  闲 (xián)
-    *   **pinyin:** xián
-    *   **definition:** idle; not busy; free (time)
-    *   **usage:** not occupied or in use; (of time) not taken up by work or other duties.
-    *   **example:** 我这个周末比较闲。(wǒ zhège zhōumò bǐjiào xián.) - i am relatively free this weekend.
-    *   **contexts:** leisure, daily life, personal status.
+5.  闲
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> xián</li>
+    <li><strong>definition:</strong> idle; not busy; free (time)</li>
+    <li><strong>usage:</strong> not occupied or in use; (of time) not taken up by work or other duties.</li>
+    <li><strong>example:</strong> 我这个周末比较闲。(wǒ zhège zhōumò bǐjiào xián.) - i am relatively free this weekend.</li>
+    <li><strong>contexts:</strong> leisure, daily life, personal status.</li>
+    </ul>
+    </details>
 
-6.  做家务 (zuò jiāwù)
-    *   **pinyin:** zuò jiāwù
-    *   **definition:** to do housework; to do chores
-    *   **usage:** routine tasks done in and around the home, such as cleaning, cooking, and washing clothes.
-    *   **example:** 我周末通常会做家务。(wǒ zhōumò tōngcháng huì zuò jiāwù.) - i usually do housework on weekends.
-    *   **contexts:** daily routines, home life, responsibilities.
+6.  做家务
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zuò jiāwù</li>
+    <li><strong>definition:</strong> to do housework; to do chores</li>
+    <li><strong>usage:</strong> routine tasks done in and around the home, such as cleaning, cooking, and washing clothes.</li>
+    <li><strong>example:</strong> 我周末通常会做家务。(wǒ zhōumò tōngcháng huì zuò jiāwù.) - i usually do housework on weekends.</li>
+    <li><strong>contexts:</strong> daily routines, home life, responsibilities.</li>
+    </ul>
+    </details>
 
-7.  打扫 (dǎsǎo)
-    *   **pinyin:** dǎsǎo
-    *   **definition:** to clean; to sweep
-    *   **usage:** to make (something) free of dirt, marks, or mess, especially by wiping, brushing, or an application of detergent.
-    *   **example:** 我需要打扫一下房间。(wǒ xūyào dǎsǎo yīxià fángjiān.) - i need to clean the room.
-    *   **contexts:** housework, cleanliness.
+7.  打扫
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> dǎsǎo</li>
+    <li><strong>definition:</strong> to clean; to sweep</li>
+    <li><strong>usage:</strong> to make (something) free of dirt, marks, or mess, especially by wiping, brushing, or an application of detergent.</li>
+    <li><strong>example:</strong> 我需要打扫一下房间。(wǒ xūyào dǎsǎo yīxià fángjiān.) - i need to clean the room.</li>
+    <li><strong>contexts:</strong> housework, cleanliness.</li>
+    </ul>
+    </details>
 
-8.  洗衣服 (xǐ yīfu)
-    *   **pinyin:** xǐ yīfu
-    *   **definition:** to wash clothes; to do laundry
-    *   **usage:** to clean clothes, typically with water and detergent.
-    *   **example:** 我每周洗一次衣服。(wǒ měi zhōu xǐ yīcì yīfu.) - i do laundry once a week.
-    *   **contexts:** housework, daily routines.
+8.  洗衣服
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> xǐ yīfu</li>
+    <li><strong>definition:</strong> to wash clothes; to do laundry</li>
+    <li><strong>usage:</strong> to clean clothes, typically with water and detergent.</li>
+    <li><strong>example:</strong> 我每周洗一次衣服。(wǒ měi zhōu xǐ yīcì yīfu.) - i do laundry once a week.</li>
+    <li><strong>contexts:</strong> housework, daily routines.</li>
+    </ul>
+    </details>
 
-9.  买菜 (mǎicài)
-    *   **pinyin:** mǎicài
-    *   **definition:** to buy groceries (specifically vegetables, meat, etc. for cooking)
-    *   **usage:** to purchase food items from a market or store for cooking meals.
-    *   **example:** 我下午要去市场买菜。(wǒ xiàwǔ yào qù shìchǎng mǎicài.) - i am going to the market to buy groceries this afternoon.
-    *   **contexts:** daily routines, cooking, errands.
+9.  买菜
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> mǎicài</li>
+    <li><strong>definition:</strong> to buy groceries (specifically vegetables, meat, etc. for cooking)</li>
+    <li><strong>usage:</strong> to purchase food items from a market or store for cooking meals.</li>
+    <li><strong>example:</strong> 我下午要去市场买菜。(wǒ xiàwǔ yào qù shìchǎng mǎicài.) - i am going to the market to buy groceries this afternoon.</li>
+    <li><strong>contexts:</strong> daily routines, cooking, errands.</li>
+    </ul>
+    </details>
 
-10. 遛狗 (liùgǒu)
-    *   **pinyin:** liùgǒu
-    *   **definition:** to walk a dog
-    *   **usage:** to take a dog for a walk for exercise or so that it can relieve itself.
-    *   **example:** 他每天早晚都遛狗。(tā měitiān zǎowǎn dōu liùgǒu.) - he walks his dog every morning and evening.
-    *   **contexts:** pet care, daily routines.
+10. 遛狗
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> liùgǒu</li>
+    <li><strong>definition:</strong> to walk a dog</li>
+    <li><strong>usage:</strong> to take a dog for a walk for exercise or so that it can relieve itself.</li>
+    <li><strong>example:</strong> 他每天早晚都遛狗。(tā měitiān zǎowǎn dōu liùgǒu.) - he walks his dog every morning and evening.</li>
+    <li><strong>contexts:</strong> pet care, daily routines.</li>
+    </ul>
+    </details>
 
 ## day 42
 
-1.  会议纪要 (huìyì jìyào)
-    *   **pinyin:** huìyì jìyào
-    *   **definition:** meeting minutes
-    *   **usage:** a written record of the proceedings of a meeting.
-    *   **example:** 请整理一下昨天的会议纪要。(qǐng zhěnglǐ yīxià zuótiān de huìyì jìyào.) - please sort out the minutes from yesterday's meeting.
-    *   **contexts:** business meetings, formal documentation, workplace.
+1.  会议纪要
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> huìyì jìyào</li>
+    <li><strong>definition:</strong> meeting minutes</li>
+    <li><strong>usage:</strong> a written record of the proceedings of a meeting.</li>
+    <li><strong>example:</strong> 请整理一下昨天的会议纪要。(qǐng zhěnglǐ yīxià zuótiān de huìyì jìyào.) - please sort out the minutes from yesterday's meeting.</li>
+    <li><strong>contexts:</strong> business meetings, formal documentation, workplace.</li>
+    </ul>
+    </details>
 
-2.  演示文稿 (yǎnshì wéngǎo)
-    *   **pinyin:** yǎnshì wéngǎo
-    *   **definition:** presentation (e.g., powerpoint); slideshow
-    *   **usage:** a speech or talk in which a new product, idea, or piece of work is shown and explained to an audience.
-    *   **example:** 我正在准备明天的演示文稿。(wǒ zhèngzài zhǔnbèi míngtiān de yǎnshì wéngǎo.) - i am preparing the presentation for tomorrow.
-    *   **contexts:** business meetings, academic presentations, public speaking.
+2.  演示文稿
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yǎnshì wéngǎo</li>
+    <li><strong>definition:</strong> presentation (e.g., powerpoint); slideshow</li>
+    <li><strong>usage:</strong> a speech or talk in which a new product, idea, or piece of work is shown and explained to an audience.</li>
+    <li><strong>example:</strong> 我正在准备明天的演示文稿。(wǒ zhèngzài zhǔnbèi míngtiān de yǎnshì wéngǎo.) - i am preparing the presentation for tomorrow.</li>
+    <li><strong>contexts:</strong> business meetings, academic presentations, public speaking.</li>
+    </ul>
+    </details>
 
-3.  数据分析 (shùjù fēnxī)
-    *   **pinyin:** shùjù fēnxī
-    *   **definition:** data analysis
-    *   **usage:** the process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.
-    *   **example:** 这份报告包含了详细的数据分析。(zhè fèn bàogào bāohán le xiángxì de shùjù fēnxī.) - this report includes detailed data analysis.
-    *   **contexts:** business, research, technology, finance.
+3.  数据分析
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shùjù fēnxī</li>
+    <li><strong>definition:</strong> data analysis</li>
+    <li><strong>usage:</strong> the process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.</li>
+    <li><strong>example:</strong> 这份报告包含了详细的数据分析。(zhè fèn bàogào bāohán le xiángxì de shùjù fēnxī.) - this report includes detailed data analysis.</li>
+    <li><strong>contexts:</strong> business, research, technology, finance.</li>
+    </ul>
+    </details>
 
-4.  市场调研 (shìchǎng diàoyán)
-    *   **pinyin:** shìchǎng diàoyán
-    *   **definition:** market research
-    *   **usage:** the action or activity of gathering information about consumers' needs and preferences.
-    *   **example:** 在推出新产品前，我们需要进行市场调研。(zài tuīchū xīn chǎnpǐn qián, wǒmen xūyào jìnxíng shìchǎng diàoyán.) - before launching a new product, we need to conduct market research.
-    *   **contexts:** business, marketing, product development.
+4.  市场调研
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shìchǎng diàoyán</li>
+    <li><strong>definition:</strong> market research</li>
+    <li><strong>usage:</strong> the action or activity of gathering information about consumers' needs and preferences.</li>
+    <li><strong>example:</strong> 在推出新产品前，我们需要进行市场调研。(zài tuīchū xīn chǎnpǐn qián, wǒmen xūyào jìnxíng shìchǎng diàoyán.) - before launching a new product, we need to conduct market research.</li>
+    <li><strong>contexts:</strong> business, marketing, product development.</li>
+    </ul>
+    </details>
 
-5.  商业计划书 (shāngyè jìhuàshū)
-    *   **pinyin:** shāngyè jìhuàshū
-    *   **definition:** business plan
-    *   **usage:** a formal written document containing business goals, the methods on how these goals can be attained, and the time frame within which these goals need to be achieved.
-    *   **example:** 他正在为他的新公司写商业计划书。(tā zhèngzài wèi tā de xīn gōngsī xiě shāngyè jìhuàshū.) - he is writing a business plan for his new company.
-    *   **contexts:** entrepreneurship, startups, business development, finance.
+5.  商业计划书
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shāngyè jìhuàshū</li>
+    <li><strong>definition:</strong> business plan</li>
+    <li><strong>usage:</strong> a formal written document containing business goals, the methods on how these goals can be attained, and the time frame within which these goals need to be achieved.</li>
+    <li><strong>example:</strong> 他正在为他的新公司写商业计划书。(tā zhèngzài wèi tā de xīn gōngsī xiě shāngyè jìhuàshū.) - he is writing a business plan for his new company.</li>
+    <li><strong>contexts:</strong> entrepreneurship, startups, business development, finance.</li>
+    </ul>
+    </details>
 
-6.  合同 (hétong)
-    *   **pinyin:** hétong
-    *   **definition:** contract (agreement)
-    *   **usage:** a written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.
-    *   **example:** 我们需要签一份正式的合同。(wǒmen xūyào qiān yī fèn zhèngshì de hétong.) - we need to sign a formal contract.
-    *   **contexts:** business, legal matters, employment, agreements.
+6.  合同
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> hétong</li>
+    <li><strong>definition:</strong> contract (agreement)</li>
+    <li><strong>usage:</strong> a written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.</li>
+    <li><strong>example:</strong> 我们需要签一份正式的合同。(wǒmen xūyào qiān yī fèn zhèngshì de hétong.) - we need to sign a formal contract.</li>
+    <li><strong>contexts:</strong> business, legal matters, employment, agreements.</li>
+    </ul>
+    </details>
 
-7.  谈判 (tánpàn)
-    *   **pinyin:** tánpàn
-    *   **definition:** to negotiate; negotiation
-    *   **usage:** discussion aimed at reaching an agreement.
-    *   **example:** 双方正在就合同条款进行谈判。(shuāngfāng zhèngzài jiù hétong tiáokuǎn jìnxíng tánpàn.) - both parties are negotiating the terms of the contract.
-    *   **contexts:** business, diplomacy, legal disputes, deal-making.
+7.  谈判
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> tánpàn</li>
+    <li><strong>definition:</strong> to negotiate; negotiation</li>
+    <li><strong>usage:</strong> discussion aimed at reaching an agreement.</li>
+    <li><strong>example:</strong> 双方正在就合同条款进行谈判。(shuāngfāng zhèngzài jiù hétong tiáokuǎn jìnxíng tánpàn.) - both parties are negotiating the terms of the contract.</li>
+    <li><strong>contexts:</strong> business, diplomacy, legal disputes, deal-making.</li>
+    </ul>
+    </details>
 
-8.  截止 (jiézhǐ)
-    *   **pinyin:** jiézhǐ
-    *   **definition:** to end; to close; cut-off point (e.g. for applications)
-    *   **usage:** to bring or come to an end; a fixed limit or ending point.
-    *   **example:** 报名截止日期是本月底。(bàomíng jiézhǐ rìqī shì běnyuè dǐ.) - the deadline for registration is the end of this month.
-    *   **contexts:** deadlines, applications, events.
+8.  截止
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jiézhǐ</li>
+    <li><strong>definition:</strong> to end; to close; cut-off point (e.g. for applications)</li>
+    <li><strong>usage:</strong> to bring or come to an end; a fixed limit or ending point.</li>
+    <li><strong>example:</strong> 报名截止日期是本月底。(bàomíng jiézhǐ rìqī shì běnyuè dǐ.) - the deadline for registration is the end of this month.</li>
+    <li><strong>contexts:</strong> deadlines, applications, events.</li>
+    </ul>
+    </details>
 
-9.  处理 (chǔlǐ)
-    *   **pinyin:** chǔlǐ
-    *   **definition:** to handle; to deal with; to process (e.g. data, an application)
-    *   **usage:** to take action to deal with (a problem, a person, a task, etc.).
-    *   **example:** 我需要处理一些紧急文件。(wǒ xūyào chǔlǐ yīxiē jǐnjí wénjiàn.) - i need to handle some urgent documents.
-    *   **contexts:** work, problem-solving, administration, data processing.
+9.  处理
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> chǔlǐ</li>
+    <li><strong>definition:</strong> to handle; to deal with; to process (e.g. data, an application)</li>
+    <li><strong>usage:</strong> to take action to deal with (a problem, a person, a task, etc.).</li>
+    <li><strong>example:</strong> 我需要处理一些紧急文件。(wǒ xūyào chǔlǐ yīxiē jǐnjí wénjiàn.) - i need to handle some urgent documents.</li>
+    <li><strong>contexts:</strong> work, problem-solving, administration, data processing.</li>
+    </ul>
+    </details>
 
-10. 日程 (rìchéng)
-    *   **pinyin:** rìchéng
-    *   **definition:** schedule; itinerary
-    *   **usage:** a plan for carrying out a process or procedure, giving lists of intended events and times.
-    *   **example:** 我今天的日程排得很满。(wǒ jīntiān de rìchéng pái de hěn mǎn.) - my schedule for today is very full.
-    *   **contexts:** work, travel, planning, daily life. 
+10. 日程
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> rìchéng</li>
+    <li><strong>definition:</strong> schedule; itinerary</li>
+    <li><strong>usage:</strong> a plan for carrying out a process or procedure, giving lists of intended events and times.</li>
+    <li><strong>example:</strong> 我今天的日程排得很满。(wǒ jīntiān de rìchéng pái de hěn mǎn.) - my schedule for today is very full.</li>
+    <li><strong>contexts:</strong> work, travel, planning, daily life. </li>
+    </ul>
+    </details>

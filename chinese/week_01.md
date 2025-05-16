@@ -10,7 +10,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 1.  幸会
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> xìnghuì</li>
     <li><strong>definition:</strong> nice to meet you (formal)</li>
@@ -22,7 +22,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 2.  久仰大名
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> jiǔyǎng dàmíng</li>
     <li><strong>definition:</strong> i've heard so much about you; i've long admired your great name.</li>
@@ -34,7 +34,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 3.  保持联系
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> bǎochí liánxì</li>
     <li><strong>definition:</strong> keep in touch</li>
@@ -46,7 +46,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 4.  请多关照
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> qǐng duō guānzhào</li>
     <li><strong>definition:</strong> please take care of me; please look after me (often used when starting a new job or joining a new group).</li>
@@ -58,7 +58,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 5.  不好意思
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> bù hǎoyìsi</li>
     <li><strong>definition:</strong> excuse me; sorry; to feel embarrassed.</li>
@@ -70,7 +70,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 6.  麻烦你了
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> máfan nǐ le</li>
     <li><strong>definition:</strong> sorry to bother you; thank you for your trouble.</li>
@@ -82,7 +82,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 7.  没什么
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> méi shénme</li>
     <li><strong>definition:</strong> it's nothing; not a problem; you're welcome.</li>
@@ -94,7 +94,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 8.  怎么称呼
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> zěnme chēnghu</li>
     <li><strong>definition:</strong> how should i address you?; what's your name? (polite).</li>
@@ -106,7 +106,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 9.  最近怎么样？
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> zuìjìn zěnmeyàng?</li>
     <li><strong>definition:</strong> how have you been lately?</li>
@@ -118,7 +118,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 10. 有空常联系
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> yǒu kòng cháng liánxì</li>
     <li><strong>definition:</strong> let's keep in touch when you have time.</li>
@@ -135,7 +135,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 1.  告辞
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> gàocí</li>
     <li><strong>definition:</strong> to take leave; to bid farewell (formal).</li>
@@ -147,7 +147,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 2.  失陪一下
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> shīpéi yīxià</li>
     <li><strong>definition:</strong> excuse me for a moment (i have to leave your company briefly).</li>
@@ -159,7 +159,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 3.  荣幸
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> róngxìng</li>
     <li><strong>definition:</strong> honored; privileged.</li>
@@ -171,7 +171,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 4.  哪里哪里
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> nǎlǐ nǎlǐ</li>
     <li><strong>definition:</strong> not at all (a polite reply to a compliment, literally "where? where?").</li>
@@ -183,7 +183,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 5.  过奖了
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> guòjiǎng le</li>
     <li><strong>definition:</strong> you flatter me; you've overpraised me.</li>
@@ -195,7 +195,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 6.  请指教
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> qǐng zhǐjiào</li>
     <li><strong>definition:</strong> please give me guidance/advice.</li>
@@ -207,7 +207,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 7.  献丑了
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> xiànchǒu le</li>
     <li><strong>definition:</strong> i'm about to make a fool of myself (said before a performance or showing one's work, out of modesty).</li>
@@ -219,7 +219,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 8.  借过一下
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> jièguò yīxià</li>
     <li><strong>definition:</strong> excuse me, let me pass.</li>
@@ -231,7 +231,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 9.  随时联系
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> suíshí liánxì</li>
     <li><strong>definition:</strong> contact me anytime.</li>
@@ -243,7 +243,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 10. 初次见面
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> chūcì jiànmiàn</li>
     <li><strong>definition:</strong> to meet for the first time.</li>
@@ -260,7 +260,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 1.  幸会幸会
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> xìnghuì xìnghuì</li>
     <li><strong>definition:</strong> very pleased to meet you (emphatic, often a response to 幸会).</li>
@@ -272,7 +272,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 2.  您贵姓？
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> nín guìxìng?</li>
     <li><strong>definition:</strong> what is your honorable surname? (polite way to ask for someone's last name).</li>
@@ -284,7 +284,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 3.  免贵姓
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> miǎn guì xìng</li>
     <li><strong>definition:</strong> my surname is... (humble reply to 您贵姓？).</li>
@@ -296,7 +296,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 4.  回头见
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> huítóu jiàn</li>
     <li><strong>definition:</strong> see you later; see you again soon.</li>
@@ -308,7 +308,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 5.  改天再聊
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> gǎitiān zài liáo</li>
     <li><strong>definition:</strong> let's talk another day; chat some other time.</li>
@@ -320,7 +320,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 6.  打扰了
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> dǎrǎo le</li>
     <li><strong>definition:</strong> sorry to have bothered you.</li>
@@ -332,7 +332,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 7.  别客气
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> bié kèqi</li>
     <li><strong>definition:</strong> don't be so polite; you're welcome; make yourself at home.</li>
@@ -344,7 +344,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 8.  收到
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> shōudào</li>
     <li><strong>definition:</strong> received; got it.</li>
@@ -356,7 +356,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 9.  明白了
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> míngbai le</li>
     <li><strong>definition:</strong> understood; i get it.</li>
@@ -368,7 +368,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 10. 有什么可以帮忙的吗？
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> yǒu shénme kěyǐ bāngmáng de ma?</li>
     <li><strong>definition:</strong> is there anything i can help you with?</li>
@@ -385,7 +385,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 1.  费心了
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> fèixīn le</li>
     <li><strong>definition:</strong> thank you for your trouble/effort (literally "you've expended your heart/mind").</li>
@@ -397,7 +397,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 2.  多多指点
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> duōduō zhǐdiǎn</li>
     <li><strong>definition:</strong> please give me a lot of guidance.</li>
@@ -409,7 +409,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 3.  不敢当
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> bù gǎndāng</li>
     <li><strong>definition:</strong> i don't deserve such praise/honor; you flatter me.</li>
@@ -421,7 +421,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 4.  有劳了
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> yǒuláo le</li>
     <li><strong>definition:</strong> sorry to trouble you (often said when someone is about to do something for you, or has just done it).</li>
@@ -433,7 +433,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 5.  慢走
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> màn zǒu</li>
     <li><strong>definition:</strong> take care; bye (said to a departing guest, literally "walk slowly").</li>
@@ -445,7 +445,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 6.  借光
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> jièguāng</li>
     <li><strong>definition:</strong> excuse me (may i pass); may i trouble you (literally "borrow light").</li>
@@ -457,7 +457,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 7.  请稍等
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> qǐng shāo děng</li>
     <li><strong>definition:</strong> please wait a moment.</li>
@@ -469,7 +469,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 8.  我叫...
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> wǒ jiào...</li>
     <li><strong>definition:</strong> my name is...</li>
@@ -481,7 +481,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 9.  你是哪位？
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> nǐ shì nǎ wèi?</li>
     <li><strong>definition:</strong> who are you?; who is this? (polite, "位" is a polite measure word for people).</li>
@@ -493,7 +493,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 10. 有缘再见
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> yǒuyuán zàijiàn</li>
     <li><strong>definition:</strong> see you again if fate permits.</li>
@@ -510,7 +510,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 1.  贵公司
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> guì gōngsī</li>
     <li><strong>definition:</strong> your esteemed company (polite).</li>
@@ -522,7 +522,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 2.  敝公司
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> bì gōngsī</li>
     <li><strong>definition:</strong> my humble company (polite).</li>
@@ -534,7 +534,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 3.  幸亏
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> xìngkuī</li>
     <li><strong>definition:</strong> fortunately; luckily.</li>
@@ -546,7 +546,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 4.  耽误您时间了
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> dānwu nín shíjiān le</li>
     <li><strong>definition:</strong> sorry for taking up your time.</li>
@@ -558,7 +558,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 5.  请便
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> qǐng biàn</li>
     <li><strong>definition:</strong> please do as you wish; feel free.</li>
@@ -570,7 +570,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 6.  哪里的话
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> nǎlǐ de huà</li>
     <li><strong>definition:</strong> not at all!; don't mention it! (a polite reply to thanks or a compliment).</li>
@@ -582,7 +582,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 7.  言重了
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> yánzhòng le</li>
     <li><strong>definition:</strong> you're exaggerating; that's too serious a compliment/criticism.</li>
@@ -594,7 +594,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 8.  期待与您合作
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> qīdài yǔ nín hézuò</li>
     <li><strong>definition:</strong> looking forward to cooperating with you.</li>
@@ -606,7 +606,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 9.  失敬失敬
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> shīJìng shīJìng</li>
     <li><strong>definition:</strong> my apologies for not recognizing you (or your importance) sooner; i've been disrespectful (often used when you realize you've been speaking to someone important without knowing).</li>
@@ -618,7 +618,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 10. 保持微笑
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> bǎochí wēixiào</li>
     <li><strong>definition:</strong> keep smiling.</li>
@@ -635,7 +635,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 1.  添麻烦了
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> tiān máfan le</li>
     <li><strong>definition:</strong> sorry to have caused you trouble.</li>
@@ -647,7 +647,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 2.  辛苦了
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> xīnkǔ le</li>
     <li><strong>definition:</strong> thank you for your hard work; you've worked hard.</li>
@@ -659,7 +659,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 3.  小意思
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> xiǎo yìsi</li>
     <li><strong>definition:</strong> just a small token (of appreciation); it's nothing.</li>
@@ -671,7 +671,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 4.  随时恭候
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> suíshí gōnghòu</li>
     <li><strong>definition:</strong> i'll be waiting for you anytime (very polite and formal).</li>
@@ -683,7 +683,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 5.  后会有期
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> hòuhuìyǒuqī</li>
     <li><strong>definition:</strong> we'll meet again someday; until we meet again.</li>
@@ -695,7 +695,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 6.  请留步
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> qǐng liúbù</li>
     <li><strong>definition:</strong> please don't bother to see me out; no need to escort me (said by a departing guest).</li>
@@ -707,7 +707,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 7.  久违了
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> jiǔwéi le</li>
     <li><strong>definition:</strong> long time no see (more formal/literary than 好久不见).</li>
@@ -719,7 +719,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 8.  承蒙关照
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> chéngméng guānzhào</li>
     <li><strong>definition:</strong> thank you for your care/patronage (very formal).</li>
@@ -731,7 +731,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 9.  一路顺风
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> yīlù shùnfēng</li>
     <li><strong>definition:</strong> have a pleasant journey; bon voyage.</li>
@@ -743,7 +743,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 10. 借您吉言
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> jiè nín jíyán</li>
     <li><strong>definition:</strong> i hope your auspicious words come true; thank you for your good wishes.</li>
@@ -760,7 +760,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 1.  包涵
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> bāohan</li>
     <li><strong>definition:</strong> to forgive; to bear with; excuse.</li>
@@ -772,7 +772,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 2.  指正
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> zhǐzhèng</li>
     <li><strong>definition:</strong> to point out errors for correction; to critique (humbly requesting it).</li>
@@ -784,7 +784,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 3.  通融一下
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> tōngróng yīxià</li>
     <li><strong>definition:</strong> to make an exception; be flexible.</li>
@@ -796,7 +796,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 4.  不情之请
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> bùqíngzhīqǐng</li>
     <li><strong>definition:</strong> an unreasonable request; my presumptuous request.</li>
@@ -808,7 +808,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 5.  有何贵干？
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> yǒu hé guìgàn?</li>
     <li><strong>definition:</strong> what is your honorable business?; what can i do for you? (formal).</li>
@@ -820,7 +820,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 6.  托您的福
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> tuō nín de fú</li>
     <li><strong>definition:</strong> thanks to your good fortune/blessing (used to attribute one's own good luck or success to another person).</li>
@@ -832,7 +832,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 7.  请多包涵
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> qǐng duō bāohan</li>
     <li><strong>definition:</strong> please excuse/forgive me (for any inconvenience or mistake).</li>
@@ -844,7 +844,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 8.  恭候大驾
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> gōnghòu dàjià</li>
     <li><strong>definition:</strong> respectfully waiting for your arrival (very formal, to an honored guest).</li>
@@ -856,7 +856,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 9.  恕我直言
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> shù wǒ zhíyán</li>
     <li><strong>definition:</strong> forgive me for speaking frankly; if i may be so bold.</li>
@@ -868,7 +868,7 @@ title: Week 1 - Everyday Greetings & Introductions
 
 10. 告一段落
     <details>
-    <summary>Details</summary>
+    <summary></summary>
     <ul>
     <li><strong>pinyin:</strong> gào yī duànluò</li>
     <li><strong>definition:</strong> to come to an end for the time being; to reach a temporary stopping point.</li>

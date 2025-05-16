@@ -7,504 +7,854 @@ title: Week 9 - Current Events & Media
 
 ## day 57
 
-1.  新闻 (xīnwén)
-    *   **pinyin:** xīnwén
-    *   **definition:** news
-    *   **usage:** newly received or noteworthy information, especially about recent events.
-    *   **example:** 你今天看新闻了吗？(nǐ jīntiān kàn xīnwén le ma?) - did you watch the news today?
-    *   **contexts:** media, daily information, current affairs.
+1.  新闻
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> xīnwén</li>
+    <li><strong>definition:</strong> news</li>
+    <li><strong>usage:</strong> newly received or noteworthy information, especially about recent events.</li>
+    <li><strong>example:</strong> 你今天看新闻了吗？(nǐ jīntiān kàn xīnwén le ma?) - did you watch the news today?</li>
+    <li><strong>contexts:</strong> media, daily information, current affairs.</li>
+    </ul>
+    </details>
 
-2.  头条 (tóutiáo)
-    *   **pinyin:** tóutiáo
-    *   **definition:** headline; lead story
-    *   **usage:** the heading or title of an article or page in a newspaper or magazine; the main story in a news broadcast.
-    *   **example:** 这条新闻是今天的头条。(zhè tiáo xīnwén shì jīntiān de tóutiáo.) - this news is today's headline.
-    *   **contexts:** newspapers, news websites, broadcasting.
+2.  头条
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> tóutiáo</li>
+    <li><strong>definition:</strong> headline; lead story</li>
+    <li><strong>usage:</strong> the heading or title of an article or page in a newspaper or magazine; the main story in a news broadcast.</li>
+    <li><strong>example:</strong> 这条新闻是今天的头条。(zhè tiáo xīnwén shì jīntiān de tóutiáo.) - this news is today's headline.</li>
+    <li><strong>contexts:</strong> newspapers, news websites, broadcasting.</li>
+    </ul>
+    </details>
 
-3.  报道 (bàodào)
-    *   **pinyin:** bàodào
-    *   **definition:** to report (news); report (noun)
-    *   **usage:** to give a spoken or written account of something that one has observed, heard, done, or investigated.
-    *   **example:** 记者正在现场报道。(jìzhě zhèngzài xiànchǎng bàodào.) - the reporter is reporting live from the scene. / 这篇报道很客观。(zhè piān bàodào hěn kèguān.) - this report is very objective.
-    *   **contexts:** journalism, media, information dissemination.
+3.  报道
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> bàodào</li>
+    <li><strong>definition:</strong> to report (news); report (noun)</li>
+    <li><strong>usage:</strong> to give a spoken or written account of something that one has observed, heard, done, or investigated.</li>
+    <li><strong>example:</strong> 记者正在现场报道。(jìzhě zhèngzài xiànchǎng bàodào.) - the reporter is reporting live from the scene. / 这篇报道很客观。(zhè piān bàodào hěn kèguān.) - this report is very objective.</li>
+    <li><strong>contexts:</strong> journalism, media, information dissemination.</li>
+    </ul>
+    </details>
 
-4.  记者 (jìzhě)
-    *   **pinyin:** jìzhě
-    *   **definition:** journalist; reporter
-    *   **usage:** a person who writes for newspapers, magazines, or news websites or prepares news to be broadcast.
-    *   **example:** 他是一名经验丰富的战地记者。(tā shì yī míng jīngyàn fēngfù de zhàndì jìzhě.) - he is an experienced war correspondent.
-    *   **contexts:** media, journalism, news gathering.
+4.  记者
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jìzhě</li>
+    <li><strong>definition:</strong> journalist; reporter</li>
+    <li><strong>usage:</strong> a person who writes for newspapers, magazines, or news websites or prepares news to be broadcast.</li>
+    <li><strong>example:</strong> 他是一名经验丰富的战地记者。(tā shì yī míng jīngyàn fēngfù de zhàndì jìzhě.) - he is an experienced war correspondent.</li>
+    <li><strong>contexts:</strong> media, journalism, news gathering.</li>
+    </ul>
+    </details>
 
-5.  媒体 (méitǐ)
-    *   **pinyin:** méitǐ
-    *   **definition:** media (e.g., newspapers, television, internet)
-    *   **usage:** the main means of mass communication (broadcasting, publishing, and the internet) regarded collectively.
-    *   **example:** 社交媒体对年轻人的影响很大。(shèjiāo méitǐ duì niánqīngrén de yǐngxiǎng hěn dà.) - social media has a great influence on young people.
-    *   **contexts:** communication, information, society, technology.
+5.  媒体
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> méitǐ</li>
+    <li><strong>definition:</strong> media (e.g., newspapers, television, internet)</li>
+    <li><strong>usage:</strong> the main means of mass communication (broadcasting, publishing, and the internet) regarded collectively.</li>
+    <li><strong>example:</strong> 社交媒体对年轻人的影响很大。(shèjiāo méitǐ duì niánqīngrén de yǐngxiǎng hěn dà.) - social media has a great influence on young people.</li>
+    <li><strong>contexts:</strong> communication, information, society, technology.</li>
+    </ul>
+    </details>
 
-6.  电视台 (diànshìtái)
-    *   **pinyin:** diànshìtái
-    *   **definition:** television station
-    *   **usage:** a company that broadcasts television programs.
-    *   **example:** 这家电视台制作了很多优秀的纪录片。(zhè jiā diànshìtái zhìzuò le hěnduō yōuxiù de jìlùpiàn.) - this television station has produced many excellent documentaries.
-    *   **contexts:** media, broadcasting, entertainment, news.
+6.  电视台
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> diànshìtái</li>
+    <li><strong>definition:</strong> television station</li>
+    <li><strong>usage:</strong> a company that broadcasts television programs.</li>
+    <li><strong>example:</strong> 这家电视台制作了很多优秀的纪录片。(zhè jiā diànshìtái zhìzuò le hěnduō yōuxiù de jìlùpiàn.) - this television station has produced many excellent documentaries.</li>
+    <li><strong>contexts:</strong> media, broadcasting, entertainment, news.</li>
+    </ul>
+    </details>
 
-7.  广播 (guǎngbō)
-    *   **pinyin:** guǎngbō
-    *   **definition:** broadcast; to broadcast; radio program
-    *   **usage:** transmit (a program or some information) by radio or television.
-    *   **example:** 我喜欢在开车时听广播。(wǒ xǐhuān zài kāichē shí tīng guǎngbō.) - i like to listen to the radio when driving.
-    *   **contexts:** media, radio, news, entertainment.
+7.  广播
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> guǎngbō</li>
+    <li><strong>definition:</strong> broadcast; to broadcast; radio program</li>
+    <li><strong>usage:</strong> transmit (a program or some information) by radio or television.</li>
+    <li><strong>example:</strong> 我喜欢在开车时听广播。(wǒ xǐhuān zài kāichē shí tīng guǎngbō.) - i like to listen to the radio when driving.</li>
+    <li><strong>contexts:</strong> media, radio, news, entertainment.</li>
+    </ul>
+    </details>
 
-8.  报纸 (bàozhǐ)
-    *   **pinyin:** bàozhǐ
-    *   **definition:** newspaper
-    *   **usage:** a printed publication (usually issued daily or weekly) consisting of folded unstapled sheets and containing news, feature articles, advertisements, and correspondence.
-    *   **example:** 我爷爷每天早上都看报纸。(wǒ yéye měitiān zǎoshang dōu kàn bàozhǐ.) - my grandpa reads the newspaper every morning.
-    *   **contexts:** media, news, traditional media.
+8.  报纸
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> bàozhǐ</li>
+    <li><strong>definition:</strong> newspaper</li>
+    <li><strong>usage:</strong> a printed publication (usually issued daily or weekly) consisting of folded unstapled sheets and containing news, feature articles, advertisements, and correspondence.</li>
+    <li><strong>example:</strong> 我爷爷每天早上都看报纸。(wǒ yéye měitiān zǎoshang dōu kàn bàozhǐ.) - my grandpa reads the newspaper every morning.</li>
+    <li><strong>contexts:</strong> media, news, traditional media.</li>
+    </ul>
+    </details>
 
-9.  杂志 (zázhì)
-    *   **pinyin:** zázhì
-    *   **definition:** magazine; journal
-    *   **usage:** a periodical publication containing articles and illustrations, typically covering a particular subject or area of interest.
-    *   **example:** 我订阅了这本时尚杂志。(wǒ dìngyuè le zhè běn shíshàng zázhì.) - i subscribed to this fashion magazine.
-    *   **contexts:** media, publishing, specific interests (fashion, science, etc.).
+9.  杂志
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zázhì</li>
+    <li><strong>definition:</strong> magazine; journal</li>
+    <li><strong>usage:</strong> a periodical publication containing articles and illustrations, typically covering a particular subject or area of interest.</li>
+    <li><strong>example:</strong> 我订阅了这本时尚杂志。(wǒ dìngyuè le zhè běn shíshàng zázhì.) - i subscribed to this fashion magazine.</li>
+    <li><strong>contexts:</strong> media, publishing, specific interests (fashion, science, etc.).</li>
+    </ul>
+    </details>
 
-10. 消息 (xiāoxi)
-    *   **pinyin:** xiāoxi
-    *   **definition:** news; information; message
-    *   **usage:** a piece of information about recent events; a communication in writing, in speech, or by signals.
-    *   **example:** 我有一个好消息要告诉你。(wǒ yǒu yī gè hǎo xiāoxi yào gàosu nǐ.) - i have good news to tell you.
-    *   **contexts:** communication, daily life, general information.
+10. 消息
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> xiāoxi</li>
+    <li><strong>definition:</strong> news; information; message</li>
+    <li><strong>usage:</strong> a piece of information about recent events; a communication in writing, in speech, or by signals.</li>
+    <li><strong>example:</strong> 我有一个好消息要告诉你。(wǒ yǒu yī gè hǎo xiāoxi yào gàosu nǐ.) - i have good news to tell you.</li>
+    <li><strong>contexts:</strong> communication, daily life, general information.</li>
+    </ul>
+    </details>
 
 ## day 58
 
-1.  时事 (shíshì)
-    *   **pinyin:** shíshì
-    *   **definition:** current events; current affairs
-    *   **usage:** important political or social events happening in the world at the present time.
-    *   **example:** 我们应该关注国际时事。(wǒmen yīnggāi guānzhù guójì shíshì.) - we should pay attention to international current events.
-    *   **contexts:** news, politics, social issues, global affairs.
+1.  时事
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shíshì</li>
+    <li><strong>definition:</strong> current events; current affairs</li>
+    <li><strong>usage:</strong> important political or social events happening in the world at the present time.</li>
+    <li><strong>example:</strong> 我们应该关注国际时事。(wǒmen yīnggāi guānzhù guójì shíshì.) - we should pay attention to international current events.</li>
+    <li><strong>contexts:</strong> news, politics, social issues, global affairs.</li>
+    </ul>
+    </details>
 
-2.  政治 (zhèngzhì)
-    *   **pinyin:** zhèngzhì
-    *   **definition:** politics; political
-    *   **usage:** the activities associated with the governance of a country or other area, especially the debate or conflict among individuals or parties having or hoping to achieve power.
-    *   **example:** 他对政治很感兴趣。(tā duì zhèngzhì hěn gǎn xìngqù.) - he is very interested in politics.
-    *   **contexts:** government, current events, social studies.
+2.  政治
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zhèngzhì</li>
+    <li><strong>definition:</strong> politics; political</li>
+    <li><strong>usage:</strong> the activities associated with the governance of a country or other area, especially the debate or conflict among individuals or parties having or hoping to achieve power.</li>
+    <li><strong>example:</strong> 他对政治很感兴趣。(tā duì zhèngzhì hěn gǎn xìngqù.) - he is very interested in politics.</li>
+    <li><strong>contexts:</strong> government, current events, social studies.</li>
+    </ul>
+    </details>
 
-3.  经济 (jīngjì)
-    *   **pinyin:** jīngjì
-    *   **definition:** economy; economic
-    *   **usage:** the state of a country or region in terms of the production and consumption of goods and services and the supply of money.
-    *   **example:** 全球经济面临许多挑战。(quánqiú jīngjì miànlín xǔduō tiǎozhàn.) - the global economy faces many challenges.
-    *   **contexts:** finance, business, current events, government policy.
+3.  经济
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jīngjì</li>
+    <li><strong>definition:</strong> economy; economic</li>
+    <li><strong>usage:</strong> the state of a country or region in terms of the production and consumption of goods and services and the supply of money.</li>
+    <li><strong>example:</strong> 全球经济面临许多挑战。(quánqiú jīngjì miànlín xǔduō tiǎozhàn.) - the global economy faces many challenges.</li>
+    <li><strong>contexts:</strong> finance, business, current events, government policy.</li>
+    </ul>
+    </details>
 
-4.  社会 (shèhuì)
-    *   **pinyin:** shèhuì
-    *   **definition:** society; social
-    *   **usage:** the aggregate of people living together in a more or less ordered community.
-    *   **example:** 我们生活在一个多元化的社会。(wǒmen shēnghuó zài yī gè duōyuánhuà de shèhuì.) - we live in a diverse society.
-    *   **contexts:** culture, current events, sociology, daily life.
+4.  社会
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shèhuì</li>
+    <li><strong>definition:</strong> society; social</li>
+    <li><strong>usage:</strong> the aggregate of people living together in a more or less ordered community.</li>
+    <li><strong>example:</strong> 我们生活在一个多元化的社会。(wǒmen shēnghuó zài yī gè duōyuánhuà de shèhuì.) - we live in a diverse society.</li>
+    <li><strong>contexts:</strong> culture, current events, sociology, daily life.</li>
+    </ul>
+    </details>
 
-5.  文化 (wénhuà)
-    *   **pinyin:** wénhuà
-    *   **definition:** culture; civilization
-    *   **usage:** the arts and other manifestations of human intellectual achievement regarded collectively; the ideas, customs, and social behaviour of a particular people or society.
-    *   **example:** 我对中国文化很着迷。(wǒ duì zhōngguó wénhuà hěn zháomí.) - i am fascinated by chinese culture.
-    *   **contexts:** arts, customs, traditions, society, travel.
+5.  文化
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> wénhuà</li>
+    <li><strong>definition:</strong> culture; civilization</li>
+    <li><strong>usage:</strong> the arts and other manifestations of human intellectual achievement regarded collectively; the ideas, customs, and social behaviour of a particular people or society.</li>
+    <li><strong>example:</strong> 我对中国文化很着迷。(wǒ duì zhōngguó wénhuà hěn zháomí.) - i am fascinated by chinese culture.</li>
+    <li><strong>contexts:</strong> arts, customs, traditions, society, travel.</li>
+    </ul>
+    </details>
 
-6.  环境 (huánjìng)
-    *   **pinyin:** huánjìng
-    *   **definition:** environment; surroundings
-    *   **usage:** the surroundings or conditions in which a person, animal, or plant lives or operates.
-    *   **example:** 保护环境人人有责。(bǎohù huánjìng rénrén yǒuzé.) - everyone is responsible for protecting the environment.
-    *   **contexts:** nature, pollution, conservation, current events.
+6.  环境
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> huánjìng</li>
+    <li><strong>definition:</strong> environment; surroundings</li>
+    <li><strong>usage:</strong> the surroundings or conditions in which a person, animal, or plant lives or operates.</li>
+    <li><strong>example:</strong> 保护环境人人有责。(bǎohù huánjìng rénrén yǒuzé.) - everyone is responsible for protecting the environment.</li>
+    <li><strong>contexts:</strong> nature, pollution, conservation, current events.</li>
+    </ul>
+    </details>
 
-7.  科技 (kējì)
-    *   **pinyin:** kējì
-    *   **definition:** science and technology
-    *   **usage:** the application of scientific knowledge for practical purposes, especially in industry.
-    *   **example:** 科技发展日新月异。(kējì fāzhǎn rìxīnyuèyì.) - science and technology are developing rapidly.
-    *   **contexts:** innovation, industry, education, current events.
+7.  科技
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> kējì</li>
+    <li><strong>definition:</strong> science and technology</li>
+    <li><strong>usage:</strong> the application of scientific knowledge for practical purposes, especially in industry.</li>
+    <li><strong>example:</strong> 科技发展日新月异。(kējì fāzhǎn rìxīnyuèyì.) - science and technology are developing rapidly.</li>
+    <li><strong>contexts:</strong> innovation, industry, education, current events.</li>
+    </ul>
+    </details>
 
-8.  热门话题 (rèmén huàtí)
-    *   **pinyin:** rèmén huàtí
-    *   **definition:** hot topic; popular subject of discussion
-    *   **usage:** a subject that many people are talking or writing about.
-    *   **example:** 环境保护是当前的一个热门话题。(huánjìng bǎohù shì dāngqián de yī gè rèmén huàtí.) - environmental protection is currently a hot topic.
-    *   **contexts:** news, social media, discussions, current events.
+8.  热门话题
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> rèmén huàtí</li>
+    <li><strong>definition:</strong> hot topic; popular subject of discussion</li>
+    <li><strong>usage:</strong> a subject that many people are talking or writing about.</li>
+    <li><strong>example:</strong> 环境保护是当前的一个热门话题。(huánjìng bǎohù shì dāngqián de yī gè rèmén huàtí.) - environmental protection is currently a hot topic.</li>
+    <li><strong>contexts:</strong> news, social media, discussions, current events.</li>
+    </ul>
+    </details>
 
-9.  争议 (zhēngyì)
-    *   **pinyin:** zhēngyì
-    *   **definition:** controversy; dispute; to dispute
-    *   **usage:** prolonged public disagreement or heated discussion.
-    *   **example:** 这个议题引起了很大争议。(zhège yìtí yǐnqǐ le hěndà zhēngyì.) - this issue has caused great controversy.
-    *   **contexts:** news, debates, legal issues, social issues.
+9.  争议
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zhēngyì</li>
+    <li><strong>definition:</strong> controversy; dispute; to dispute</li>
+    <li><strong>usage:</strong> prolonged public disagreement or heated discussion.</li>
+    <li><strong>example:</strong> 这个议题引起了很大争议。(zhège yìtí yǐnqǐ le hěndà zhēngyì.) - this issue has caused great controversy.</li>
+    <li><strong>contexts:</strong> news, debates, legal issues, social issues.</li>
+    </ul>
+    </details>
 
-10. 观点 (guāndiǎn)
-    *   **pinyin:** guāndiǎn
-    *   **definition:** point of view; viewpoint; standpoint
-    *   **usage:** a particular attitude or way of considering a matter.
-    *   **example:** 对于这个问题，每个人都有不同的观点。(duìyú zhège wèntí, měige rén dōu yǒu bùtóng de guāndiǎn.) - everyone has different viewpoints on this issue.
-    *   **contexts:** discussions, debates, opinions, articles.
+10. 观点
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> guāndiǎn</li>
+    <li><strong>definition:</strong> point of view; viewpoint; standpoint</li>
+    <li><strong>usage:</strong> a particular attitude or way of considering a matter.</li>
+    <li><strong>example:</strong> 对于这个问题，每个人都有不同的观点。(duìyú zhège wèntí, měige rén dōu yǒu bùtóng de guāndiǎn.) - everyone has different viewpoints on this issue.</li>
+    <li><strong>contexts:</strong> discussions, debates, opinions, articles.</li>
+    </ul>
+    </details>
 
 ## day 59
 
-1.  采访 (cǎifǎng)
-    *   **pinyin:** cǎifǎng
-    *   **definition:** to interview; to gather news; interview (noun)
-    *   **usage:** a meeting of people face to face, especially for consultation; to question (someone) to discover their opinions or get information.
-    *   **example:** 记者对获奖者进行了采访。(jìzhě duì huòjiǎngzhě jìnxíng le cǎifǎng.) - the reporter interviewed the award winner.
-    *   **contexts:** journalism, research, media production.
+1.  采访
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> cǎifǎng</li>
+    <li><strong>definition:</strong> to interview; to gather news; interview (noun)</li>
+    <li><strong>usage:</strong> a meeting of people face to face, especially for consultation; to question (someone) to discover their opinions or get information.</li>
+    <li><strong>example:</strong> 记者对获奖者进行了采访。(jìzhě duì huòjiǎngzhě jìnxíng le cǎifǎng.) - the reporter interviewed the award winner.</li>
+    <li><strong>contexts:</strong> journalism, research, media production.</li>
+    </ul>
+    </details>
 
-2.  评论 (pínglùn)
-    *   **pinyin:** pínglùn
-    *   **definition:** to comment on; to discuss; commentary; review
-    *   **usage:** express an opinion or reaction; a spoken or written discussion expressing an opinion.
-    *   **example:** 他对这部电影的评论很中肯。(tā duì zhè bù diànyǐng de pínglùn hěn zhòngkěn.) - his review of this movie is very pertinent.
-    *   **contexts:** media, arts, literature, online discussions.
+2.  评论
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> pínglùn</li>
+    <li><strong>definition:</strong> to comment on; to discuss; commentary; review</li>
+    <li><strong>usage:</strong> express an opinion or reaction; a spoken or written discussion expressing an opinion.</li>
+    <li><strong>example:</strong> 他对这部电影的评论很中肯。(tā duì zhè bù diànyǐng de pínglùn hěn zhòngkěn.) - his review of this movie is very pertinent.</li>
+    <li><strong>contexts:</strong> media, arts, literature, online discussions.</li>
+    </ul>
+    </details>
 
-3.  专栏 (zhuānlán)
-    *   **pinyin:** zhuānlán
-    *   **definition:** special column (in a newspaper or magazine)
-    *   **usage:** a regular feature or article in a newspaper or magazine, typically on a particular subject or by a particular person.
-    *   **example:** 他在报纸上有一个关于美食的专栏。(tā zài bàozhǐ shàng yǒu yī gè guānyú měishí de zhuānlán.) - he has a food column in the newspaper.
-    *   **contexts:** newspapers, magazines, online publications.
+3.  专栏
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zhuānlán</li>
+    <li><strong>definition:</strong> special column (in a newspaper or magazine)</li>
+    <li><strong>usage:</strong> a regular feature or article in a newspaper or magazine, typically on a particular subject or by a particular person.</li>
+    <li><strong>example:</strong> 他在报纸上有一个关于美食的专栏。(tā zài bàozhǐ shàng yǒu yī gè guānyú měishí de zhuānlán.) - he has a food column in the newspaper.</li>
+    <li><strong>contexts:</strong> newspapers, magazines, online publications.</li>
+    </ul>
+    </details>
 
-4.  编辑 (biānjí)
-    *   **pinyin:** biānjí
-    *   **definition:** editor; to edit
-    *   **usage:** a person who is in charge of and determines the final content of a text, particularly a newspaper or magazine; prepare (written material) for publication by correcting, condensing, or otherwise modifying it.
-    *   **example:** 这篇文章需要编辑一下才能发表。(zhè piān wénzhāng xūyào biānjí yīxià cáinéng fābiǎo.) - this article needs to be edited before it can be published.
-    *   **contexts:** publishing, media, writing, film.
+4.  编辑
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> biānjí</li>
+    <li><strong>definition:</strong> editor; to edit</li>
+    <li><strong>usage:</strong> a person who is in charge of and determines the final content of a text, particularly a newspaper or magazine; prepare (written material) for publication by correcting, condensing, or otherwise modifying it.</li>
+    <li><strong>example:</strong> 这篇文章需要编辑一下才能发表。(zhè piān wénzhāng xūyào biānjí yīxià cáinéng fābiǎo.) - this article needs to be edited before it can be published.</li>
+    <li><strong>contexts:</strong> publishing, media, writing, film.</li>
+    </ul>
+    </details>
 
-5.  主播 (zhǔbō)
-    *   **pinyin:** zhǔbō
-    *   **definition:** anchor (of a TV program, radio show, etc.); livestreamer
-    *   **usage:** a person who presents a radio or television program; a person who broadcasts live video online.
-    *   **example:** 她是著名的新闻主播。(tā shì zhùmíng de xīnwén zhǔbō.) - she is a famous news anchor.
-    *   **contexts:** television, radio, internet, live streaming.
+5.  主播
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zhǔbō</li>
+    <li><strong>definition:</strong> anchor (of a TV program, radio show, etc.); livestreamer</li>
+    <li><strong>usage:</strong> a person who presents a radio or television program; a person who broadcasts live video online.</li>
+    <li><strong>example:</strong> 她是著名的新闻主播。(tā shì zhùmíng de xīnwén zhǔbō.) - she is a famous news anchor.</li>
+    <li><strong>contexts:</strong> television, radio, internet, live streaming.</li>
+    </ul>
+    </details>
 
-6.  观众 (guānzhòng)
-    *   **pinyin:** guānzhòng
-    *   **definition:** audience; spectators; viewers
-    *   **usage:** the assembled spectators or listeners at a public event, such as a play, movie, concert, or meeting.
-    *   **example:** 现场观众反应热烈。(xiànchǎng guānzhòng fǎnyìng rèliè.) - the live audience responded enthusiastically.
-    *   **contexts:** performances, sports, television, cinema.
+6.  观众
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> guānzhòng</li>
+    <li><strong>definition:</strong> audience; spectators; viewers</li>
+    <li><strong>usage:</strong> the assembled spectators or listeners at a public event, such as a play, movie, concert, or meeting.</li>
+    <li><strong>example:</strong> 现场观众反应热烈。(xiànchǎng guānzhòng fǎnyìng rèliè.) - the live audience responded enthusiastically.</li>
+    <li><strong>contexts:</strong> performances, sports, television, cinema.</li>
+    </ul>
+    </details>
 
-7.  读者 (dúzhě)
-    *   **pinyin:** dúzhě
-    *   **definition:** reader
-    *   **usage:** a person who reads or who is fond of reading.
-    *   **example:** 这本书有很多年轻读者。(zhè běn shū yǒu hěnduō niánqīng dúzhě.) - this book has many young readers.
-    *   **contexts:** literature, publishing, libraries, media.
+7.  读者
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> dúzhě</li>
+    <li><strong>definition:</strong> reader</li>
+    <li><strong>usage:</strong> a person who reads or who is fond of reading.</li>
+    <li><strong>example:</strong> 这本书有很多年轻读者。(zhè běn shū yǒu hěnduō niánqīng dúzhě.) - this book has many young readers.</li>
+    <li><strong>contexts:</strong> literature, publishing, libraries, media.</li>
+    </ul>
+    </details>
 
-8.  听众 (tīngzhòng)
-    *   **pinyin:** tīngzhòng
-    *   **definition:** audience (for a radio program, podcast, speech, etc.); listeners
-    *   **usage:** people who listen to a radio program, podcast, speech, or musical performance.
-    *   **example:** 这个播客有很多忠实听众。(zhège bōkè yǒu hěnduō zhōngshí tīngzhòng.) - this podcast has many loyal listeners.
-    *   **contexts:** radio, podcasts, speeches, music.
+8.  听众
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> tīngzhòng</li>
+    <li><strong>definition:</strong> audience (for a radio program, podcast, speech, etc.); listeners</li>
+    <li><strong>usage:</strong> people who listen to a radio program, podcast, speech, or musical performance.</li>
+    <li><strong>example:</strong> 这个播客有很多忠实听众。(zhège bōkè yǒu hěnduō zhōngshí tīngzhòng.) - this podcast has many loyal listeners.</li>
+    <li><strong>contexts:</strong> radio, podcasts, speeches, music.</li>
+    </ul>
+    </details>
 
-9.  订阅 (dìngyuè)
-    *   **pinyin:** dìngyuè
-    *   **definition:** to subscribe (to a newspaper, magazine, service, etc.)
-    *   **usage:** arrange to receive something regularly by paying in advance.
-    *   **example:** 我订阅了这个频道。(wǒ dìngyuè le zhège píndào.) - i subscribed to this channel (e.g., youtube channel).
-    *   **contexts:** media, publications, online services, streaming.
+9.  订阅
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> dìngyuè</li>
+    <li><strong>definition:</strong> to subscribe (to a newspaper, magazine, service, etc.)</li>
+    <li><strong>usage:</strong> arrange to receive something regularly by paying in advance.</li>
+    <li><strong>example:</strong> 我订阅了这个频道。(wǒ dìngyuè le zhège píndào.) - i subscribed to this channel (e.g., youtube channel).</li>
+    <li><strong>contexts:</strong> media, publications, online services, streaming.</li>
+    </ul>
+    </details>
 
-10. 发布 (fābù)
-    *   **pinyin:** fābù
-    *   **definition:** to release; to issue; to announce; to publish
-    *   **usage:** to make (information) available to the public.
-    *   **example:** 公司发布了最新的财报。(gōngsī fābù le zuìxīn de cáibào.) - the company released its latest financial report.
-    *   **contexts:** news, official announcements, product launches, publications.
+10. 发布
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> fābù</li>
+    <li><strong>definition:</strong> to release; to issue; to announce; to publish</li>
+    <li><strong>usage:</strong> to make (information) available to the public.</li>
+    <li><strong>example:</strong> 公司发布了最新的财报。(gōngsī fābù le zuìxīn de cáibào.) - the company released its latest financial report.</li>
+    <li><strong>contexts:</strong> news, official announcements, product launches, publications.</li>
+    </ul>
+    </details>
 
 ## day 60
 
-1.  纪录片 (jìlùpiàn)
-    *   **pinyin:** jìlùpiàn
-    *   **definition:** documentary film or program
-    *   **usage:** a movie or a television or radio program that provides a factual record or report.
-    *   **example:** 我喜欢看关于自然历史的纪录片。(wǒ xǐhuān kàn guānyú zìrán lìshǐ de jìlùpiàn.) - i like watching documentaries about natural history.
-    *   **contexts:** film, television, education, factual content.
+1.  纪录片
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jìlùpiàn</li>
+    <li><strong>definition:</strong> documentary film or program</li>
+    <li><strong>usage:</strong> a movie or a television or radio program that provides a factual record or report.</li>
+    <li><strong>example:</strong> 我喜欢看关于自然历史的纪录片。(wǒ xǐhuān kàn guānyú zìrán lìshǐ de jìlùpiàn.) - i like watching documentaries about natural history.</li>
+    <li><strong>contexts:</strong> film, television, education, factual content.</li>
+    </ul>
+    </details>
 
-2.  电视剧 (diànshìjù)
-    *   **pinyin:** diànshìjù
-    *   **definition:** TV series; TV drama
-    *   **usage:** a serialized program of a dramatic nature, broadcast on television.
-    *   **example:** 这部电视剧最近很火。(zhè bù diànshìjù zuìjìn hěn huǒ.) - this tv series is very popular recently.
-    *   **contexts:** entertainment, television, popular culture.
+2.  电视剧
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> diànshìjù</li>
+    <li><strong>definition:</strong> TV series; TV drama</li>
+    <li><strong>usage:</strong> a serialized program of a dramatic nature, broadcast on television.</li>
+    <li><strong>example:</strong> 这部电视剧最近很火。(zhè bù diànshìjù zuìjìn hěn huǒ.) - this tv series is very popular recently.</li>
+    <li><strong>contexts:</strong> entertainment, television, popular culture.</li>
+    </ul>
+    </details>
 
-3.  综艺节目 (zōngyì jiémù)
-    *   **pinyin:** zōngyì jiémù
-    *   **definition:** variety show (TV program)
-    *   **usage:** a television program that includes a variety of acts, especially musical performances and comedy skits.
-    *   **example:** 他参加了一个很受欢迎的综艺节目。(tā cānjiā le yī gè hěn shòuhuānyíng de zōngyì jiémù.) - he participated in a very popular variety show.
-    *   **contexts:** entertainment, television, celebrities.
+3.  综艺节目
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zōngyì jiémù</li>
+    <li><strong>definition:</strong> variety show (TV program)</li>
+    <li><strong>usage:</strong> a television program that includes a variety of acts, especially musical performances and comedy skits.</li>
+    <li><strong>example:</strong> 他参加了一个很受欢迎的综艺节目。(tā cānjiā le yī gè hěn shòuhuānyíng de zōngyì jiémù.) - he participated in a very popular variety show.</li>
+    <li><strong>contexts:</strong> entertainment, television, celebrities.</li>
+    </ul>
+    </details>
 
-4.  真人秀 (zhēnrénxiù)
-    *   **pinyin:** zhēnrénxiù
-    *   **definition:** reality show
-    *   **usage:** television programs in which real people are continuously filmed, designed to be entertaining rather than informative.
-    *   **example:** 我不太喜欢看真人秀节目。(wǒ bù tài xǐhuān kàn zhēnrénxiù jiémù.) - i don't really like watching reality shows.
-    *   **contexts:** entertainment, television, popular culture.
+4.  真人秀
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zhēnrénxiù</li>
+    <li><strong>definition:</strong> reality show</li>
+    <li><strong>usage:</strong> television programs in which real people are continuously filmed, designed to be entertaining rather than informative.</li>
+    <li><strong>example:</strong> 我不太喜欢看真人秀节目。(wǒ bù tài xǐhuān kàn zhēnrénxiù jiémù.) - i don't really like watching reality shows.</li>
+    <li><strong>contexts:</strong> entertainment, television, popular culture.</li>
+    </ul>
+    </details>
 
-5.  广告 (guǎnggào)
-    *   **pinyin:** guǎnggào
-    *   **definition:** advertisement; commercial
-    *   **usage:** a notice or announcement in a public medium promoting a product, service, or event or publicizing a job vacancy.
-    *   **example:** 电视节目中间插播了很多广告。(diànshì jiémù zhōngjiān chābō le hěnduō guǎnggào.) - there are many commercials inserted during the tv program.
-    *   **contexts:** marketing, media, business, consumerism.
+5.  广告
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> guǎnggào</li>
+    <li><strong>definition:</strong> advertisement; commercial</li>
+    <li><strong>usage:</strong> a notice or announcement in a public medium promoting a product, service, or event or publicizing a job vacancy.</li>
+    <li><strong>example:</strong> 电视节目中间插播了很多广告。(diànshì jiémù zhōngjiān chābō le hěnduō guǎnggào.) - there are many commercials inserted during the tv program.</li>
+    <li><strong>contexts:</strong> marketing, media, business, consumerism.</li>
+    </ul>
+    </details>
 
-6.  标题党 (biāotí dǎng)
-    *   **pinyin:** biāotí dǎng
-    *   **definition:** clickbait (person or content)
-    *   **usage:** (online content, especially an article) whose main purpose is to attract attention and encourage visitors to click on a link to a particular web page.
-    *   **example:** 不要被标题党骗了，内容可能很无聊。(búyào bèi biāotí dǎng piàn le, nèiróng kěnéng hěn wúliáo.) - don't be fooled by clickbait, the content might be very boring.
-    *   **contexts:** internet, online news, social media, digital literacy.
+6.  标题党
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> biāotí dǎng</li>
+    <li><strong>definition:</strong> clickbait (person or content)</li>
+    <li><strong>usage:</strong> (online content, especially an article) whose main purpose is to attract attention and encourage visitors to click on a link to a particular web page.</li>
+    <li><strong>example:</strong> 不要被标题党骗了，内容可能很无聊。(búyào bèi biāotí dǎng piàn le, nèiróng kěnéng hěn wúliáo.) - don't be fooled by clickbait, the content might be very boring.</li>
+    <li><strong>contexts:</strong> internet, online news, social media, digital literacy.</li>
+    </ul>
+    </details>
 
-7.  假新闻 (jiǎ xīnwén)
-    *   **pinyin:** jiǎ xīnwén
-    *   **definition:** fake news
-    *   **usage:** false or misleading information presented as news.
-    *   **example:** 我们要学会辨别假新闻。(wǒmen yào xuéhuì biànbié jiǎ xīnwén.) - we need to learn to identify fake news.
-    *   **contexts:** media literacy, internet, social issues, politics.
+7.  假新闻
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jiǎ xīnwén</li>
+    <li><strong>definition:</strong> fake news</li>
+    <li><strong>usage:</strong> false or misleading information presented as news.</li>
+    <li><strong>example:</strong> 我们要学会辨别假新闻。(wǒmen yào xuéhuì biànbié jiǎ xīnwén.) - we need to learn to identify fake news.</li>
+    <li><strong>contexts:</strong> media literacy, internet, social issues, politics.</li>
+    </ul>
+    </details>
 
-8.  谣言 (yáoyán)
-    *   **pinyin:** yáoyán
-    *   **definition:** rumor; gossip
-    *   **usage:** a currently circulating story or report of uncertain or doubtful truth.
-    *   **example:** 不要轻易相信网上的谣言。(búyào qīngyì xiāngxìn wǎngshàng de yáoyán.) - don't easily believe rumors online.
-    *   **contexts:** social interaction, internet, misinformation.
+8.  谣言
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yáoyán</li>
+    <li><strong>definition:</strong> rumor; gossip</li>
+    <li><strong>usage:</strong> a currently circulating story or report of uncertain or doubtful truth.</li>
+    <li><strong>example:</strong> 不要轻易相信网上的谣言。(búyào qīngyì xiāngxìn wǎngshàng de yáoyán.) - don't easily believe rumors online.</li>
+    <li><strong>contexts:</strong> social interaction, internet, misinformation.</li>
+    </ul>
+    </details>
 
-9.  客观 (kèguān)
-    *   **pinyin:** kèguān
-    *   **definition:** objective (not influenced by personal feelings)
-    *   **usage:** (of a person or their judgment) not influenced by personal feelings or opinions in considering and representing facts.
-    *   **example:** 新闻报道应该力求客观公正。(xīnwén bàodào yīnggāi lìqiú kèguān gōngzhèng.) - news reports should strive to be objective and fair.
-    *   **contexts:** journalism, research, decision-making, discussions.
+9.  客观
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> kèguān</li>
+    <li><strong>definition:</strong> objective (not influenced by personal feelings)</li>
+    <li><strong>usage:</strong> (of a person or their judgment) not influenced by personal feelings or opinions in considering and representing facts.</li>
+    <li><strong>example:</strong> 新闻报道应该力求客观公正。(xīnwén bàodào yīnggāi lìqiú kèguān gōngzhèng.) - news reports should strive to be objective and fair.</li>
+    <li><strong>contexts:</strong> journalism, research, decision-making, discussions.</li>
+    </ul>
+    </details>
 
-10. 主观 (zhǔguān)
-    *   **pinyin:** zhǔguān
-    *   **definition:** subjective (based on personal feelings or opinions)
-    *   **usage:** based on or influenced by personal feelings, tastes, or opinions.
-    *   **example:** 对艺术的评价往往带有主观色彩。(duì yìshù de píngjià wǎngwǎng dàiyǒu zhǔguān sècǎi.) - the evaluation of art often carries subjective colors.
-    *   **contexts:** opinions, art criticism, personal judgment.
+10. 主观
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zhǔguān</li>
+    <li><strong>definition:</strong> subjective (based on personal feelings or opinions)</li>
+    <li><strong>usage:</strong> based on or influenced by personal feelings, tastes, or opinions.</li>
+    <li><strong>example:</strong> 对艺术的评价往往带有主观色彩。(duì yìshù de píngjià wǎngwǎng dàiyǒu zhǔguān sècǎi.) - the evaluation of art often carries subjective colors.</li>
+    <li><strong>contexts:</strong> opinions, art criticism, personal judgment.</li>
+    </ul>
+    </details>
 
 ## day 61
 
-1.  审查 (shěnchá)
-    *   **pinyin:** shěnchá
-    *   **definition:** to censor; to examine; to inspect; censorship
-    *   **usage:** to examine (a book, film, etc.) officially and suppress unacceptable parts of it.
-    *   **example:** 所有出版物在发行前都要经过审查。(suǒyǒu chūbǎnwù zài fāxíng qián dōu yào jīngguò shěnchá.) - all publications must undergo censorship before distribution.
-    *   **contexts:** media, publishing, government, information control.
+1.  审查
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shěnchá</li>
+    <li><strong>definition:</strong> to censor; to examine; to inspect; censorship</li>
+    <li><strong>usage:</strong> to examine (a book, film, etc.) officially and suppress unacceptable parts of it.</li>
+    <li><strong>example:</strong> 所有出版物在发行前都要经过审查。(suǒyǒu chūbǎnwù zài fāxíng qián dōu yào jīngguò shěnchá.) - all publications must undergo censorship before distribution.</li>
+    <li><strong>contexts:</strong> media, publishing, government, information control.</li>
+    </ul>
+    </details>
 
-2.  言论自由 (yánlùn zìyóu)
-    *   **pinyin:** yánlùn zìyóu
-    *   **definition:** freedom of speech
-    *   **usage:** the right to express any opinions without censorship or restraint.
-    *   **example:** 言论自由是公民的基本权利之一。(yánlùn zìyóu shì gōngmín de jīběn quánlì zhīyī.) - freedom of speech is one of the fundamental rights of citizens.
-    *   **contexts:** human rights, law, politics, media.
+2.  言论自由
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yánlùn zìyóu</li>
+    <li><strong>definition:</strong> freedom of speech</li>
+    <li><strong>usage:</strong> the right to express any opinions without censorship or restraint.</li>
+    <li><strong>example:</strong> 言论自由是公民的基本权利之一。(yánlùn zìyóu shì gōngmín de jīběn quánlì zhīyī.) - freedom of speech is one of the fundamental rights of citizens.</li>
+    <li><strong>contexts:</strong> human rights, law, politics, media.</li>
+    </ul>
+    </details>
 
-3.  舆论 (yúlùn)
-    *   **pinyin:** yúlùn
-    *   **definition:** public opinion
-    *   **usage:** views prevalent among the general public.
-    *   **example:** 这件事引起了强烈的社会舆论。(zhè jiàn shì yǐnqǐ le qiángliè de shèhuì yúlùn.) - this matter has aroused strong public opinion.
-    *   **contexts:** media, politics, social issues, current events.
+3.  舆论
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yúlùn</li>
+    <li><strong>definition:</strong> public opinion</li>
+    <li><strong>usage:</strong> views prevalent among the general public.</li>
+    <li><strong>example:</strong> 这件事引起了强烈的社会舆论。(zhè jiàn shì yǐnqǐ le qiángliè de shèhuì yúlùn.) - this matter has aroused strong public opinion.</li>
+    <li><strong>contexts:</strong> media, politics, social issues, current events.</li>
+    </ul>
+    </details>
 
-4.  宣传 (xuānchuán)
-    *   **pinyin:** xuānchuán
-    *   **definition:** propaganda; to disseminate; to give publicity to
-    *   **usage:** information, especially of a biased or misleading nature, used to promote or publicize a particular political cause or point of view.
-    *   **example:** 他们利用各种媒体进行宣传。(tāmen lìyòng gèzhǒng méitǐ jìnxíng xuānchuán.) - they use various media for propaganda.
-    *   **contexts:** politics, marketing, public relations, media.
+4.  宣传
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> xuānchuán</li>
+    <li><strong>definition:</strong> propaganda; to disseminate; to give publicity to</li>
+    <li><strong>usage:</strong> information, especially of a biased or misleading nature, used to promote or publicize a particular political cause or point of view.</li>
+    <li><strong>example:</strong> 他们利用各种媒体进行宣传。(tāmen lìyòng gèzhǒng méitǐ jìnxíng xuānchuán.) - they use various media for propaganda.</li>
+    <li><strong>contexts:</strong> politics, marketing, public relations, media.</li>
+    </ul>
+    </details>
 
-5.  曝光 (bàoguāng)
-    *   **pinyin:** bàoguāng
-    *   **definition:** to expose (a scandal, etc.); exposure (e.g., to light, to public view)
-    *   **usage:** to make (something) visible by uncovering it; to reveal the truth about (someone or something bad or dishonest).
-    *   **example:** 这位官员的贪腐行为被媒体曝光了。(zhè wèi guānyuán de tānfǔ xíngwéi bèi méitǐ bàoguāng le.) - this official's corrupt behavior was exposed by the media.
-    *   **contexts:** journalism, scandals, photography, public relations.
+5.  曝光
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> bàoguāng</li>
+    <li><strong>definition:</strong> to expose (a scandal, etc.); exposure (e.g., to light, to public view)</li>
+    <li><strong>usage:</strong> to make (something) visible by uncovering it; to reveal the truth about (someone or something bad or dishonest).</li>
+    <li><strong>example:</strong> 这位官员的贪腐行为被媒体曝光了。(zhè wèi guānyuán de tānfǔ xíngwéi bèi méitǐ bàoguāng le.) - this official's corrupt behavior was exposed by the media.</li>
+    <li><strong>contexts:</strong> journalism, scandals, photography, public relations.</li>
+    </ul>
+    </details>
 
-6.  炒作 (chǎozuò)
-    *   **pinyin:** chǎozuò
-    *   **definition:** to hype; to create media buzz; sensationalize
-    *   **usage:** extravagant or intensive publicity or promotion.
-    *   **example:** 这部电影在上映前进行了大量炒作。(zhè bù diànyǐng zài shàngyìng qián jìnxíng le dàliàng chǎozuò.) - this movie was heavily hyped before its release.
-    *   **contexts:** entertainment industry, marketing, media, public figures.
+6.  炒作
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> chǎozuò</li>
+    <li><strong>definition:</strong> to hype; to create media buzz; sensationalize</li>
+    <li><strong>usage:</strong> extravagant or intensive publicity or promotion.</li>
+    <li><strong>example:</strong> 这部电影在上映前进行了大量炒作。(zhè bù diànyǐng zài shàngyìng qián jìnxíng le dàliàng chǎozuò.) - this movie was heavily hyped before its release.</li>
+    <li><strong>contexts:</strong> entertainment industry, marketing, media, public figures.</li>
+    </ul>
+    </details>
 
-7.  跟踪报道 (gēnzōng bàodào)
-    *   **pinyin:** gēnzōng bàodào
-    *   **definition:** follow-up report; to track and report
-    *   **usage:** a news report that provides further information or developments on a story that has already been reported.
-    *   **example:** 记者会对事件进行跟踪报道。(jìzhě huì duì shìjiàn jìnxíng gēnzōng bàodào.) - reporters will conduct follow-up reports on the incident.
-    *   **contexts:** journalism, news, ongoing events.
+7.  跟踪报道
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> gēnzōng bàodào</li>
+    <li><strong>definition:</strong> follow-up report; to track and report</li>
+    <li><strong>usage:</strong> a news report that provides further information or developments on a story that has already been reported.</li>
+    <li><strong>example:</strong> 记者会对事件进行跟踪报道。(jìzhě huì duì shìjiàn jìnxíng gēnzōng bàodào.) - reporters will conduct follow-up reports on the incident.</li>
+    <li><strong>contexts:</strong> journalism, news, ongoing events.</li>
+    </ul>
+    </details>
 
-8.  独家新闻 (dújiā xīnwén)
-    *   **pinyin:** dújiā xīnwén
-    *   **definition:** exclusive news; scoop
-    *   **usage:** a news report obtained and published by one newspaper or news organization before others.
-    *   **example:** 这家报纸刊登了关于那起丑闻的独家新闻。(zhè jiā bàozhǐ kāndēng le guānyú nà qǐ chǒuwén de dújiā xīnwén.) - this newspaper published an exclusive story on that scandal.
-    *   **contexts:** journalism, media competition, breaking news.
+8.  独家新闻
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> dújiā xīnwén</li>
+    <li><strong>definition:</strong> exclusive news; scoop</li>
+    <li><strong>usage:</strong> a news report obtained and published by one newspaper or news organization before others.</li>
+    <li><strong>example:</strong> 这家报纸刊登了关于那起丑闻的独家新闻。(zhè jiā bàozhǐ kāndēng le guānyú nà qǐ chǒuwén de dújiā xīnwén.) - this newspaper published an exclusive story on that scandal.</li>
+    <li><strong>contexts:</strong> journalism, media competition, breaking news.</li>
+    </ul>
+    </details>
 
-9.  发布会 (fābùhuì)
-    *   **pinyin:** fābùhuì
-    *   **definition:** press conference; launch event
-    *   **usage:** an interview given to journalists by a prominent person in order to make an announcement or answer questions.
-    *   **example:** 公司明天将举行新产品发布会。(gōngsī míngtiān jiāng jǔxíng xīn chǎnpǐn fābùhuì.) - the company will hold a new product launch event tomorrow.
-    *   **contexts:** public relations, corporate announcements, product launches, government.
+9.  发布会
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> fābùhuì</li>
+    <li><strong>definition:</strong> press conference; launch event</li>
+    <li><strong>usage:</strong> an interview given to journalists by a prominent person in order to make an announcement or answer questions.</li>
+    <li><strong>example:</strong> 公司明天将举行新产品发布会。(gōngsī míngtiān jiāng jǔxíng xīn chǎnpǐn fābùhuì.) - the company will hold a new product launch event tomorrow.</li>
+    <li><strong>contexts:</strong> public relations, corporate announcements, product launches, government.</li>
+    </ul>
+    </details>
 
-10. 知情权 (zhīqíngquán)
-    *   **pinyin:** zhīqíngquán
-    *   **definition:** right to know; right to information
-    *   **usage:** the legal or ethical right of individuals to access information held by public bodies or, in some contexts, private entities.
-    *   **example:** 公众有权了解政府的决策过程，这是他们的知情权。(gōngzhòng yǒuquán liǎojiě zhèngfǔ de juécè guòchéng, zhè shì tāmen de zhīqíngquán.) - the public has the right to understand the government's decision-making process, this is their right to know.
-    *   **contexts:** law, human rights, government transparency, media ethics.
+10. 知情权
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zhīqíngquán</li>
+    <li><strong>definition:</strong> right to know; right to information</li>
+    <li><strong>usage:</strong> the legal or ethical right of individuals to access information held by public bodies or, in some contexts, private entities.</li>
+    <li><strong>example:</strong> 公众有权了解政府的决策过程，这是他们的知情权。(gōngzhòng yǒuquán liǎojiě zhèngfǔ de juécè guòchéng, zhè shì tāmen de zhīqíngquán.) - the public has the right to understand the government's decision-making process, this is their right to know.</li>
+    <li><strong>contexts:</strong> law, human rights, government transparency, media ethics.</li>
+    </ul>
+    </details>
 
 ## day 62
 
-1.  社交媒体 (shèjiāo méitǐ)
-    *   **pinyin:** shèjiāo méitǐ
-    *   **definition:** social media
-    *   **usage:** websites and applications that enable users to create and share content or to participate in social networking.
-    *   **example:** 如今，社交媒体已成为人们获取信息的重要渠道。(rújīn, shèjiāo méitǐ yǐ chéngwéi rénmen huòqǔ xìnxī de zhòngyào qúdào.) - nowadays, social media has become an important channel for people to obtain information.
-    *   **contexts:** internet, communication, technology, modern life.
+1.  社交媒体
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shèjiāo méitǐ</li>
+    <li><strong>definition:</strong> social media</li>
+    <li><strong>usage:</strong> websites and applications that enable users to create and share content or to participate in social networking.</li>
+    <li><strong>example:</strong> 如今，社交媒体已成为人们获取信息的重要渠道。(rújīn, shèjiāo méitǐ yǐ chéngwéi rénmen huòqǔ xìnxī de zhòngyào qúdào.) - nowadays, social media has become an important channel for people to obtain information.</li>
+    <li><strong>contexts:</strong> internet, communication, technology, modern life.</li>
+    </ul>
+    </details>
 
-2.  微博 (wēibó)
-    *   **pinyin:** wēibó
-    *   **definition:** weibo (chinese microblogging website, similar to twitter)
-    *   **usage:** a chinese microblogging platform.
-    *   **example:** 很多明星和名人都开通了微博。(hěnduō míngxīng hé míngrén dōu kāitōng le wēibó.) - many celebrities and famous people have weibo accounts.
-    *   **contexts:** social media in china, internet, communication.
+2.  微博
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> wēibó</li>
+    <li><strong>definition:</strong> weibo (chinese microblogging website, similar to twitter)</li>
+    <li><strong>usage:</strong> a chinese microblogging platform.</li>
+    <li><strong>example:</strong> 很多明星和名人都开通了微博。(hěnduō míngxīng hé míngrén dōu kāitōng le wēibó.) - many celebrities and famous people have weibo accounts.</li>
+    <li><strong>contexts:</strong> social media in china, internet, communication.</li>
+    </ul>
+    </details>
 
-3.  微信 (wēixìn)
-    *   **pinyin:** wēixìn
-    *   **definition:** wechat (chinese multi-purpose messaging, social media and mobile payment app)
-    *   **usage:** a popular chinese messaging and social media app.
-    *   **example:** 我们用微信联系吧。(wǒmen yòng wēixìn liánxì ba.) - let's contact each other via wechat.
-    *   **contexts:** communication in china, social media, mobile payments.
+3.  微信
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> wēixìn</li>
+    <li><strong>definition:</strong> wechat (chinese multi-purpose messaging, social media and mobile payment app)</li>
+    <li><strong>usage:</strong> a popular chinese messaging and social media app.</li>
+    <li><strong>example:</strong> 我们用微信联系吧。(wǒmen yòng wēixìn liánxì ba.) - let's contact each other via wechat.</li>
+    <li><strong>contexts:</strong> communication in china, social media, mobile payments.</li>
+    </ul>
+    </details>
 
-4.  公众号 (gōngzhònghào)
-    *   **pinyin:** gōngzhònghào
-    *   **definition:** official account (on wechat, for businesses, media, etc.)
-    *   **usage:** a type of account on wechat that allows organizations or individuals to broadcast messages to subscribers.
-    *   **example:** 我关注了很多有趣的微信公众号。(wǒ guānzhù le hěnduō yǒuqù de wēixìn gōngzhònghào.) - i follow many interesting wechat official accounts.
-    *   **contexts:** wechat, media, marketing, information dissemination.
+4.  公众号
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> gōngzhònghào</li>
+    <li><strong>definition:</strong> official account (on wechat, for businesses, media, etc.)</li>
+    <li><strong>usage:</strong> a type of account on wechat that allows organizations or individuals to broadcast messages to subscribers.</li>
+    <li><strong>example:</strong> 我关注了很多有趣的微信公众号。(wǒ guānzhù le hěnduō yǒuqù de wēixìn gōngzhònghào.) - i follow many interesting wechat official accounts.</li>
+    <li><strong>contexts:</strong> wechat, media, marketing, information dissemination.</li>
+    </ul>
+    </details>
 
-5.  朋友圈 (péngyouquān)
-    *   **pinyin:** péngyouquān
-    *   **definition:** wechat moments (social feed feature on wechat)
-    *   **usage:** a feature on wechat where users can post updates, photos, and videos visible to their contacts.
-    *   **example:** 他在朋友圈分享了旅行的照片。(tā zài péngyouquān fēnxiǎng le lǚxíng de zhàopiàn.) - he shared his travel photos on wechat moments.
-    *   **contexts:** wechat, social networking, daily life.
+5.  朋友圈
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> péngyouquān</li>
+    <li><strong>definition:</strong> wechat moments (social feed feature on wechat)</li>
+    <li><strong>usage:</strong> a feature on wechat where users can post updates, photos, and videos visible to their contacts.</li>
+    <li><strong>example:</strong> 他在朋友圈分享了旅行的照片。(tā zài péngyouquān fēnxiǎng le lǚxíng de zhàopiàn.) - he shared his travel photos on wechat moments.</li>
+    <li><strong>contexts:</strong> wechat, social networking, daily life.</li>
+    </ul>
+    </details>
 
-6.  点赞 (diǎnzàn)
-    *   **pinyin:** diǎnzàn
-    *   **definition:** to like (on social media); to give a thumbs-up
-    *   **usage:** to show approval or appreciation for content on social media by clicking a "like" button.
-    *   **example:** 别忘了给我的新帖子点赞！(bié wàng le gěi wǒ de xīn tiězi diǎnzàn!) - don't forget to like my new post!
-    *   **contexts:** social media, internet, online interaction.
+6.  点赞
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> diǎnzàn</li>
+    <li><strong>definition:</strong> to like (on social media); to give a thumbs-up</li>
+    <li><strong>usage:</strong> to show approval or appreciation for content on social media by clicking a "like" button.</li>
+    <li><strong>example:</strong> 别忘了给我的新帖子点赞！(bié wàng le gěi wǒ de xīn tiězi diǎnzàn!) - don't forget to like my new post!</li>
+    <li><strong>contexts:</strong> social media, internet, online interaction.</li>
+    </ul>
+    </details>
 
-7.  转发 (zhuǎnfā)
-    *   **pinyin:** zhuǎnfā
-    *   **definition:** to forward (a message, email); to share/repost (on social media)
-    *   **usage:** to send on (a letter or email that has been received) to a new address; to share someone else's post on social media.
-    *   **example:** 这篇文章很有价值，我把它转发给了我的朋友。(zhè piān wénzhāng hěn yǒu jiàzhí, wǒ bǎ tā zhuǎnfā gěi le wǒ de péngyǒu.) - this article is very valuable, i forwarded it to my friends.
-    *   **contexts:** social media, email, communication.
+7.  转发
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zhuǎnfā</li>
+    <li><strong>definition:</strong> to forward (a message, email); to share/repost (on social media)</li>
+    <li><strong>usage:</strong> to send on (a letter or email that has been received) to a new address; to share someone else's post on social media.</li>
+    <li><strong>example:</strong> 这篇文章很有价值，我把它转发给了我的朋友。(zhè piān wénzhāng hěn yǒu jiàzhí, wǒ bǎ tā zhuǎnfā gěi le wǒ de péngyǒu.) - this article is very valuable, i forwarded it to my friends.</li>
+    <li><strong>contexts:</strong> social media, email, communication.</li>
+    </ul>
+    </details>
 
-8.  粉丝 (fěnsī)
-    *   **pinyin:** fěnsī
-    *   **definition:** fans; followers (on social media)
-    *   **usage:** enthusiastic devotees of a celebrity, team, or pursuit; people who subscribe to see updates from a particular social media account.
-    *   **example:** 这位歌手有很多忠实的粉丝。(zhè wèi gēshǒu yǒu hěnduō zhōngshí de fěnsī.) - this singer has many loyal fans.
-    *   **contexts:** celebrities, social media, sports, entertainment.
+8.  粉丝
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> fěnsī</li>
+    <li><strong>definition:</strong> fans; followers (on social media)</li>
+    <li><strong>usage:</strong> enthusiastic devotees of a celebrity, team, or pursuit; people who subscribe to see updates from a particular social media account.</li>
+    <li><strong>example:</strong> 这位歌手有很多忠实的粉丝。(zhè wèi gēshǒu yǒu hěnduō zhōngshí de fěnsī.) - this singer has many loyal fans.</li>
+    <li><strong>contexts:</strong> celebrities, social media, sports, entertainment.</li>
+    </ul>
+    </details>
 
-9.  网红 (wǎnghóng)
-    *   **pinyin:** wǎnghóng
-    *   **definition:** internet celebrity; influencer
-    *   **usage:** a person who has become famous through the internet.
-    *   **example:** 他是一位拥有百万粉丝的网红。(tā shì yī wèi yōngyǒu bǎiwàn fěnsī de wǎnghóng.) - he is an internet celebrity with millions of followers.
-    *   **contexts:** internet, social media, marketing, popular culture.
+9.  网红
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> wǎnghóng</li>
+    <li><strong>definition:</strong> internet celebrity; influencer</li>
+    <li><strong>usage:</strong> a person who has become famous through the internet.</li>
+    <li><strong>example:</strong> 他是一位拥有百万粉丝的网红。(tā shì yī wèi yōngyǒu bǎiwàn fěnsī de wǎnghóng.) - he is an internet celebrity with millions of followers.</li>
+    <li><strong>contexts:</strong> internet, social media, marketing, popular culture.</li>
+    </ul>
+    </details>
 
-10. 直播 (zhíbō)
-    *   **pinyin:** zhíbō
-    *   **definition:** live broadcast; livestreaming; to broadcast live
-    *   **usage:** (of a television or radio program, or an internet broadcast) broadcast as it happens.
-    *   **example:** 今晚八点有足球比赛直播。(jīnwǎn bādiǎn yǒu zúqiú bǐsài zhíbō.) - there will be a live broadcast of the football match at 8 pm tonight.
-    *   **contexts:** internet, television, sports, entertainment, e-commerce.
+10. 直播
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zhíbō</li>
+    <li><strong>definition:</strong> live broadcast; livestreaming; to broadcast live</li>
+    <li><strong>usage:</strong> (of a television or radio program, or an internet broadcast) broadcast as it happens.</li>
+    <li><strong>example:</strong> 今晚八点有足球比赛直播。(jīnwǎn bādiǎn yǒu zúqiú bǐsài zhíbō.) - there will be a live broadcast of the football match at 8 pm tonight.</li>
+    <li><strong>contexts:</strong> internet, television, sports, entertainment, e-commerce.</li>
+    </ul>
+    </details>
 
 ## day 63
 
-1.  网络暴力 (wǎngluò bàolì)
-    *   **pinyin:** wǎngluò bàolì
-    *   **definition:** cyberbullying; online violence
-    *   **usage:** the use of electronic communication to bully a person, typically by sending messages of an intimidating or threatening nature.
-    *   **example:** 网络暴力对受害者造成严重的心理伤害。(wǎngluò bàolì duì shòuhàizhě zàochéng yánzhòng de xīnlǐ shānghài.) - cyberbullying causes severe psychological harm to victims.
-    *   **contexts:** internet, social issues, mental health, law.
+1.  网络暴力
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> wǎngluò bàolì</li>
+    <li><strong>definition:</strong> cyberbullying; online violence</li>
+    <li><strong>usage:</strong> the use of electronic communication to bully a person, typically by sending messages of an intimidating or threatening nature.</li>
+    <li><strong>example:</strong> 网络暴力对受害者造成严重的心理伤害。(wǎngluò bàolì duì shòuhàizhě zàochéng yánzhòng de xīnlǐ shānghài.) - cyberbullying causes severe psychological harm to victims.</li>
+    <li><strong>contexts:</strong> internet, social issues, mental health, law.</li>
+    </ul>
+    </details>
 
-2.  人肉搜索 (rénròu sōusuǒ)
-    *   **pinyin:** rénròu sōusuǒ
-    *   **definition:** human flesh search engine (online vigilantism, doxxing)
-    *   **usage:** a chinese neologism for the phenomenon of distributed, crowdsourced research on the internet, often used to identify and expose individuals to public shaming.
-    *   **example:** 人肉搜索侵犯了个人隐私。(rénròu sōusuǒ qīnfàn le gèrén yǐnsī.) - human flesh search engines violate personal privacy.
-    *   **contexts:** internet culture in china, privacy, ethics, social issues.
+2.  人肉搜索
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> rénròu sōusuǒ</li>
+    <li><strong>definition:</strong> human flesh search engine (online vigilantism, doxxing)</li>
+    <li><strong>usage:</strong> a chinese neologism for the phenomenon of distributed, crowdsourced research on the internet, often used to identify and expose individuals to public shaming.</li>
+    <li><strong>example:</strong> 人肉搜索侵犯了个人隐私。(rénròu sōusuǒ qīnfàn le gèrén yǐnsī.) - human flesh search engines violate personal privacy.</li>
+    <li><strong>contexts:</strong> internet culture in china, privacy, ethics, social issues.</li>
+    </ul>
+    </details>
 
-3.  隐私 (yǐnsī)
-    *   **pinyin:** yǐnsī
-    *   **definition:** privacy
-    *   **usage:** a state in which one is not observed or disturbed by other people.
-    *   **example:** 我们应该尊重他人的隐私。(wǒmen yīnggāi zūnzhòng tārén de yǐnsī.) - we should respect others' privacy.
-    *   **contexts:** personal rights, internet, law, ethics.
+3.  隐私
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yǐnsī</li>
+    <li><strong>definition:</strong> privacy</li>
+    <li><strong>usage:</strong> a state in which one is not observed or disturbed by other people.</li>
+    <li><strong>example:</strong> 我们应该尊重他人的隐私。(wǒmen yīnggāi zūnzhòng tārén de yǐnsī.) - we should respect others' privacy.</li>
+    <li><strong>contexts:</strong> personal rights, internet, law, ethics.</li>
+    </ul>
+    </details>
 
-4.  版权 (bǎnquán)
-    *   **pinyin:** bǎnquán
-    *   **definition:** copyright
-    *   **usage:** the exclusive legal right, given to an originator or an assignee to print, publish, perform, film, or record literary, artistic, or musical material, and to authorize others to do the same.
-    *   **example:** 这部作品受版权保护。(zhè bù zuòpǐn shòu bǎnquán bǎohù.) - this work is protected by copyright.
-    *   **contexts:** intellectual property, publishing, arts, law, media.
+4.  版权
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> bǎnquán</li>
+    <li><strong>definition:</strong> copyright</li>
+    <li><strong>usage:</strong> the exclusive legal right, given to an originator or an assignee to print, publish, perform, film, or record literary, artistic, or musical material, and to authorize others to do the same.</li>
+    <li><strong>example:</strong> 这部作品受版权保护。(zhè bù zuòpǐn shòu bǎnquán bǎohù.) - this work is protected by copyright.</li>
+    <li><strong>contexts:</strong> intellectual property, publishing, arts, law, media.</li>
+    </ul>
+    </details>
 
-5.  侵权 (qīnquán)
-    *   **pinyin:** qīnquán
-    *   **definition:** infringement (of rights, e.g., copyright, patent); to infringe upon
-    *   **usage:** the action of breaking the terms of a law, agreement, etc.; violation.
-    *   **example:** 未经许可复制软件属于侵权行为。(wèijīng xǔkě fùzhì ruǎnjiàn shǔyú qīnquán xíngwéi.) - copying software without permission is an act of infringement.
-    *   **contexts:** law, intellectual property, business.
+5.  侵权
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> qīnquán</li>
+    <li><strong>definition:</strong> infringement (of rights, e.g., copyright, patent); to infringe upon</li>
+    <li><strong>usage:</strong> the action of breaking the terms of a law, agreement, etc.; violation.</li>
+    <li><strong>example:</strong> 未经许可复制软件属于侵权行为。(wèijīng xǔkě fùzhì ruǎnjiàn shǔyú qīnquán xíngwéi.) - copying software without permission is an act of infringement.</li>
+    <li><strong>contexts:</strong> law, intellectual property, business.</li>
+    </ul>
+    </details>
 
-6.  可信度 (kěxìndù)
-    *   **pinyin:** kěxìndù
-    *   **definition:** credibility; reliability
-    *   **usage:** the quality of being trusted and believed in.
-    *   **example:** 我们需要评估这些信息的来源和可信度。(wǒmen xūyào pínggū zhèxiē xìnxī de láiyuán hé kěxìndù.) - we need to assess the source and credibility of this information.
-    *   **contexts:** information, news, research, sources.
+6.  可信度
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> kěxìndù</li>
+    <li><strong>definition:</strong> credibility; reliability</li>
+    <li><strong>usage:</strong> the quality of being trusted and believed in.</li>
+    <li><strong>example:</strong> 我们需要评估这些信息的来源和可信度。(wǒmen xūyào pínggū zhèxiē xìnxī de láiyuán hé kěxìndù.) - we need to assess the source and credibility of this information.</li>
+    <li><strong>contexts:</strong> information, news, research, sources.</li>
+    </ul>
+    </details>
 
-7.  事实核查 (shìshí héchá)
-    *   **pinyin:** shìshí héchá
-    *   **definition:** fact-checking
-    *   **usage:** the process of verifying the factual accuracy of information reported or claims made.
-    *   **example:** 在传播信息之前进行事实核查很重要。(zài chuánbō xìnxī zhīqián jìnxíng shìshí héchá hěn zhòngyào.) - it is important to conduct fact-checking before disseminating information.
-    *   **contexts:** journalism, media literacy, research, internet.
+7.  事实核查
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shìshí héchá</li>
+    <li><strong>definition:</strong> fact-checking</li>
+    <li><strong>usage:</strong> the process of verifying the factual accuracy of information reported or claims made.</li>
+    <li><strong>example:</strong> 在传播信息之前进行事实核查很重要。(zài chuánbō xìnxī zhīqián jìnxíng shìshí héchá hěn zhòngyào.) - it is important to conduct fact-checking before disseminating information.</li>
+    <li><strong>contexts:</strong> journalism, media literacy, research, internet.</li>
+    </ul>
+    </details>
 
-8.  公信力 (gōngxìnlì)
-    *   **pinyin:** gōngxìnlì
-    *   **definition:** public credibility; trustworthiness (of an organization or media)
-    *   **usage:** the extent to which an organization or media outlet is trusted by the public.
-    *   **example:** 媒体的公信力对其生存至关重要。(méitǐ de gōngxìnlì duì qí shēngcún zhìguān zhòngyào.) - the public credibility of the media is crucial for its survival.
-    *   **contexts:** media ethics, public trust, journalism, institutions.
+8.  公信力
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> gōngxìnlì</li>
+    <li><strong>definition:</strong> public credibility; trustworthiness (of an organization or media)</li>
+    <li><strong>usage:</strong> the extent to which an organization or media outlet is trusted by the public.</li>
+    <li><strong>example:</strong> 媒体的公信力对其生存至关重要。(méitǐ de gōngxìnlì duì qí shēngcún zhìguān zhòngyào.) - the public credibility of the media is crucial for its survival.</li>
+    <li><strong>contexts:</strong> media ethics, public trust, journalism, institutions.</li>
+    </ul>
+    </details>
 
-9.  深度报道 (shēndù bàodào)
-    *   **pinyin:** shēndù bàodào
-    *   **definition:** in-depth report; investigative journalism
-    *   **usage:** a news report that goes beyond surface-level information to provide a comprehensive and detailed account of an event or issue.
-    *   **example:** 这家杂志以其深度报道而闻名。(zhè jiā zázhì yǐ qí shēndù bàodào ér wénmíng.) - this magazine is famous for its in-depth reporting.
-    *   **contexts:** journalism, news analysis, current affairs.
+9.  深度报道
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shēndù bàodào</li>
+    <li><strong>definition:</strong> in-depth report; investigative journalism</li>
+    <li><strong>usage:</strong> a news report that goes beyond surface-level information to provide a comprehensive and detailed account of an event or issue.</li>
+    <li><strong>example:</strong> 这家杂志以其深度报道而闻名。(zhè jiā zázhì yǐ qí shēndù bàodào ér wénmíng.) - this magazine is famous for its in-depth reporting.</li>
+    <li><strong>contexts:</strong> journalism, news analysis, current affairs.</li>
+    </ul>
+    </details>
 
-10. 舆论导向 (yúlùn dǎoxiàng)
-    *   **pinyin:** yúlùn dǎoxiàng
-    *   **definition:** guidance of public opinion; media framing
-    *   **usage:** the way in which the media or other institutions attempt to influence or shape public opinion on a particular issue.
-    *   **example:** 媒体在舆论导向方面扮演着重要角色。(méitǐ zài yúlùn dǎoxiàng fāngmiàn bànyǎnzhe zhòngyào juésè.) - the media plays an important role in guiding public opinion.
-    *   **contexts:** media studies, politics, communication, sociology. 
+10. 舆论导向
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yúlùn dǎoxiàng</li>
+    <li><strong>definition:</strong> guidance of public opinion; media framing</li>
+    <li><strong>usage:</strong> the way in which the media or other institutions attempt to influence or shape public opinion on a particular issue.</li>
+    <li><strong>example:</strong> 媒体在舆论导向方面扮演着重要角色。(méitǐ zài yúlùn dǎoxiàng fāngmiàn bànyǎnzhe zhòngyào juésè.) - the media plays an important role in guiding public opinion.</li>
+    <li><strong>contexts:</strong> media studies, politics, communication, sociology. </li>
+    </ul>
+    </details>

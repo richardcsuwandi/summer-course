@@ -7,504 +7,854 @@ title: Week 2 - Hobbies & Leisure Activities
 
 ## day 8
 
-1.  爱好 (àihào)
-    *   **pinyin:** àihào
-    *   **definition:** hobby; to like
-    *   **usage:** refers to a regular activity done for enjoyment, typically during one's leisure time. can also be used as a verb meaning "to be fond of."
-    *   **example:** 我最大的爱好是摄影。(wǒ zuìdà de àihào shì shèyǐng.) - my biggest hobby is photography.
-    *   **contexts:** casual conversation, talking about personal interests, social interactions.
+1.  爱好
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> àihào</li>
+    <li><strong>definition:</strong> hobby; to like</li>
+    <li><strong>usage:</strong> refers to a regular activity done for enjoyment, typically during one's leisure time. can also be used as a verb meaning "to be fond of."</li>
+    <li><strong>example:</strong> 我最大的爱好是摄影。(wǒ zuìdà de àihào shì shèyǐng.) - my biggest hobby is photography.</li>
+    <li><strong>contexts:</strong> casual conversation, talking about personal interests, social interactions.</li>
+    </ul>
+    </details>
 
-2.  消遣 (xiāoqiǎn)
-    *   **pinyin:** xiāoqiǎn
-    *   **definition:** pastime; to while away time; to amuse oneself
-    *   **usage:** an activity that helps someone relax or pass the time pleasantly.
-    *   **example:** 听音乐是她主要的消遣方式。(tīng yīnyuè shì tā zhǔyào de xiāoqiǎn fāngshì.) - listening to music is her main pastime.
-    *   **contexts:** casual conversation, discussing leisure, media.
+2.  消遣
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> xiāoqiǎn</li>
+    <li><strong>definition:</strong> pastime; to while away time; to amuse oneself</li>
+    <li><strong>usage:</strong> an activity that helps someone relax or pass the time pleasantly.</li>
+    <li><strong>example:</strong> 听音乐是她主要的消遣方式。(tīng yīnyuè shì tā zhǔyào de xiāoqiǎn fāngshì.) - listening to music is her main pastime.</li>
+    <li><strong>contexts:</strong> casual conversation, discussing leisure, media.</li>
+    </ul>
+    </details>
 
-3.  娱乐 (yúlè)
-    *   **pinyin:** yúlè
-    *   **definition:** entertainment; amusement; to entertain
-    *   **usage:** activities that provide amusement or enjoyment, often more organized or public than a simple消遣.
-    *   **example:** 这个城市有很多娱乐场所。(zhège chéngshì yǒu hěnduō yúlè chǎngsuǒ.) - this city has many entertainment venues.
-    *   **contexts:** media, discussing public entertainment, planning outings.
+3.  娱乐
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yúlè</li>
+    <li><strong>definition:</strong> entertainment; amusement; to entertain</li>
+    <li><strong>usage:</strong> activities that provide amusement or enjoyment, often more organized or public than a simple消遣.</li>
+    <li><strong>example:</strong> 这个城市有很多娱乐场所。(zhège chéngshì yǒu hěnduō yúlè chǎngsuǒ.) - this city has many entertainment venues.</li>
+    <li><strong>contexts:</strong> media, discussing public entertainment, planning outings.</li>
+    </ul>
+    </details>
 
-4.  休闲 (xiūxián)
-    *   **pinyin:** xiūxián
-    *   **definition:** leisure; relaxation; to take a rest
-    *   **usage:** refers to free time and activities done for relaxation and enjoyment.
-    *   **example:** 我喜欢在周末做一些休闲活动。(wǒ xǐhuān zài zhōumò zuò yīxiē xiūxián huódòng.) - i like to do some leisure activities on weekends.
-    *   **contexts:** travel, lifestyle, casual conversation.
+4.  休闲
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> xiūxián</li>
+    <li><strong>definition:</strong> leisure; relaxation; to take a rest</li>
+    <li><strong>usage:</strong> refers to free time and activities done for relaxation and enjoyment.</li>
+    <li><strong>example:</strong> 我喜欢在周末做一些休闲活动。(wǒ xǐhuān zài zhōumò zuò yīxiē xiūxián huódòng.) - i like to do some leisure activities on weekends.</li>
+    <li><strong>contexts:</strong> travel, lifestyle, casual conversation.</li>
+    </ul>
+    </details>
 
-5.  健身 (jiànshēn)
-    *   **pinyin:** jiànshēn
-    *   **definition:** to keep fit; to work out; fitness
-    *   **usage:** physical activities aimed at improving health and physical condition.
-    *   **example:** 他每周去三次健身房健身。(tā měi zhōu qù sāncì jiànshēnfáng jiànshēn.) - he goes to the gym to work out three times a week.
-    *   **contexts:** health, sports, daily routines.
+5.  健身
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jiànshēn</li>
+    <li><strong>definition:</strong> to keep fit; to work out; fitness</li>
+    <li><strong>usage:</strong> physical activities aimed at improving health and physical condition.</li>
+    <li><strong>example:</strong> 他每周去三次健身房健身。(tā měi zhōu qù sāncì jiànshēnfáng jiànshēn.) - he goes to the gym to work out three times a week.</li>
+    <li><strong>contexts:</strong> health, sports, daily routines.</li>
+    </ul>
+    </details>
 
-6.  户外活动 (hùwài huódòng)
-    *   **pinyin:** hùwài huódòng
-    *   **definition:** outdoor activities
-    *   **usage:** recreational activities that take place outdoors.
-    *   **example:** 春天是进行户外活动的好时节。(chūntiān shì jìnxíng hùwài huódòng de hǎo shíjié.) - spring is a good season for outdoor activities.
-    *   **contexts:** travel, sports, lifestyle.
+6.  户外活动
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> hùwài huódòng</li>
+    <li><strong>definition:</strong> outdoor activities</li>
+    <li><strong>usage:</strong> recreational activities that take place outdoors.</li>
+    <li><strong>example:</strong> 春天是进行户外活动的好时节。(chūntiān shì jìnxíng hùwài huódòng de hǎo shíjié.) - spring is a good season for outdoor activities.</li>
+    <li><strong>contexts:</strong> travel, sports, lifestyle.</li>
+    </ul>
+    </details>
 
-7.  旅游 (lǚyóu)
-    *   **pinyin:** lǚyóu
-    *   **definition:** to travel; tourism; journey
-    *   **usage:** the activity of traveling to and staying in places outside one's usual environment for leisure, business or other purposes.
-    *   **example:** 我计划夏天去欧洲旅游。(wǒ jìhuà xiàtiān qù ōuzhōu lǚyóu.) - i plan to travel to europe in the summer.
-    *   **contexts:** travel, holidays, casual conversation.
+7.  旅游
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> lǚyóu</li>
+    <li><strong>definition:</strong> to travel; tourism; journey</li>
+    <li><strong>usage:</strong> the activity of traveling to and staying in places outside one's usual environment for leisure, business or other purposes.</li>
+    <li><strong>example:</strong> 我计划夏天去欧洲旅游。(wǒ jìhuà xiàtiān qù ōuzhōu lǚyóu.) - i plan to travel to europe in the summer.</li>
+    <li><strong>contexts:</strong> travel, holidays, casual conversation.</li>
+    </ul>
+    </details>
 
-8.  摄影 (shèyǐng)
-    *   **pinyin:** shèyǐng
-    *   **definition:** photography; to take a photograph
-    *   **usage:** the art, application, and practice of creating durable images by recording light.
-    *   **example:** 他对风景摄影特别感兴趣。(tā duì fēngjǐng shèyǐng tèbié gǎn xìngqù.) - he is particularly interested in landscape photography.
-    *   **contexts:** arts, hobbies, technology.
+8.  摄影
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shèyǐng</li>
+    <li><strong>definition:</strong> photography; to take a photograph</li>
+    <li><strong>usage:</strong> the art, application, and practice of creating durable images by recording light.</li>
+    <li><strong>example:</strong> 他对风景摄影特别感兴趣。(tā duì fēngjǐng shèyǐng tèbié gǎn xìngqù.) - he is particularly interested in landscape photography.</li>
+    <li><strong>contexts:</strong> arts, hobbies, technology.</li>
+    </ul>
+    </details>
 
-9.  烹饪 (pēngrèn)
-    *   **pinyin:** pēngrèn
-    *   **definition:** cooking; culinary arts
-    *   **usage:** the art, science, and craft of using heat to prepare food for consumption.
-    *   **example:** 她在周末学习烹饪课程。(tā zài zhōumò xuéxí pēngrèn kèchéng.) - she takes cooking classes on weekends.
-    *   **contexts:** food, lifestyle, hobbies.
+9.  烹饪
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> pēngrèn</li>
+    <li><strong>definition:</strong> cooking; culinary arts</li>
+    <li><strong>usage:</strong> the art, science, and craft of using heat to prepare food for consumption.</li>
+    <li><strong>example:</strong> 她在周末学习烹饪课程。(tā zài zhōumò xuéxí pēngrèn kèchéng.) - she takes cooking classes on weekends.</li>
+    <li><strong>contexts:</strong> food, lifestyle, hobbies.</li>
+    </ul>
+    </details>
 
-10. 阅读 (yuèdú)
-    *   **pinyin:** yuèdú
-    *   **definition:** to read; reading
-    *   **usage:** the cognitive process of deriving meaning from written or printed text.
-    *   **example:** 阅读是拓展知识面的好方法。(yuèdú shì tuòzhǎn zhīshi miàn de hǎo fāngfǎ.) - reading is a good way to broaden one's knowledge.
-    *   **contexts:** education, literature, hobbies.
+10. 阅读
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yuèdú</li>
+    <li><strong>definition:</strong> to read; reading</li>
+    <li><strong>usage:</strong> the cognitive process of deriving meaning from written or printed text.</li>
+    <li><strong>example:</strong> 阅读是拓展知识面的好方法。(yuèdú shì tuòzhǎn zhīshi miàn de hǎo fāngfǎ.) - reading is a good way to broaden one's knowledge.</li>
+    <li><strong>contexts:</strong> education, literature, hobbies.</li>
+    </ul>
+    </details>
 
 ## day 9
 
-1.  逛街 (guàngjiē)
-    *   **pinyin:** guàngjiē
-    *   **definition:** to go window shopping; to stroll in the street
-    *   **usage:** the activity of walking around streets with shops, often without the specific intention to buy anything.
-    *   **example:** 我喜欢和朋友一起去逛街。(wǒ xǐhuān hé péngyǒu yīqǐ qù guàngjiē.) - i like to go shopping with friends.
-    *   **contexts:** leisure, social interactions, shopping.
+1.  逛街
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> guàngjiē</li>
+    <li><strong>definition:</strong> to go window shopping; to stroll in the street</li>
+    <li><strong>usage:</strong> the activity of walking around streets with shops, often without the specific intention to buy anything.</li>
+    <li><strong>example:</strong> 我喜欢和朋友一起去逛街。(wǒ xǐhuān hé péngyǒu yīqǐ qù guàngjiē.) - i like to go shopping with friends.</li>
+    <li><strong>contexts:</strong> leisure, social interactions, shopping.</li>
+    </ul>
+    </details>
 
-2.  看电影 (kàn diànyǐng)
-    *   **pinyin:** kàn diànyǐng
-    *   **definition:** to watch a movie; to see a film
-    *   **usage:** the act of viewing a motion picture.
-    *   **example:** 我们这个周末去看场新上映的电影吧。(wǒmen zhège zhōumò qù kàn chǎng xīn shàngyìng de diànyǐng ba.) - let's go watch a newly released movie this weekend.
-    *   **contexts:** entertainment, social activities, media.
+2.  看电影
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> kàn diànyǐng</li>
+    <li><strong>definition:</strong> to watch a movie; to see a film</li>
+    <li><strong>usage:</strong> the act of viewing a motion picture.</li>
+    <li><strong>example:</strong> 我们这个周末去看场新上映的电影吧。(wǒmen zhège zhōumò qù kàn chǎng xīn shàngyìng de diànyǐng ba.) - let's go watch a newly released movie this weekend.</li>
+    <li><strong>contexts:</strong> entertainment, social activities, media.</li>
+    </ul>
+    </details>
 
-3.  听音乐 (tīng yīnyuè)
-    *   **pinyin:** tīng yīnyuè
-    *   **definition:** to listen to music
-    *   **usage:** the act of perceiving sound as music.
-    *   **example:** 我喜欢在工作时听音乐放松。(wǒ xǐhuān zài gōngzuò shí tīng yīnyuè fàngsōng.) - i like to listen to music to relax while working.
-    *   **contexts:** leisure, hobbies, personal relaxation.
+3.  听音乐
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> tīng yīnyuè</li>
+    <li><strong>definition:</strong> to listen to music</li>
+    <li><strong>usage:</strong> the act of perceiving sound as music.</li>
+    <li><strong>example:</strong> 我喜欢在工作时听音乐放松。(wǒ xǐhuān zài gōngzuò shí tīng yīnyuè fàngsōng.) - i like to listen to music to relax while working.</li>
+    <li><strong>contexts:</strong> leisure, hobbies, personal relaxation.</li>
+    </ul>
+    </details>
 
-4.  唱歌 (chànggē)
-    *   **pinyin:** chànggē
-    *   **definition:** to sing
-    *   **usage:** the act of producing musical sounds with the voice.
-    *   **example:** 她唱歌唱得非常好听。(tā chànggē chàng dé fēicháng hǎotīng.) - she sings very beautifully.
-    *   **contexts:** entertainment, hobbies, KTV/karaoke.
+4.  唱歌
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> chànggē</li>
+    <li><strong>definition:</strong> to sing</li>
+    <li><strong>usage:</strong> the act of producing musical sounds with the voice.</li>
+    <li><strong>example:</strong> 她唱歌唱得非常好听。(tā chànggē chàng dé fēicháng hǎotīng.) - she sings very beautifully.</li>
+    <li><strong>contexts:</strong> entertainment, hobbies, KTV/karaoke.</li>
+    </ul>
+    </details>
 
-5.  跳舞 (tiàowǔ)
-    *   **pinyin:** tiàowǔ
-    *   **definition:** to dance
-    *   **usage:** to move rhythmically to music, typically following a set sequence of steps.
-    *   **example:** 他们在派对上高兴地跳舞。(tāmen zài pàiduì shàng gāoxìng de tiàowǔ.) - they danced happily at the party.
-    *   **contexts:** entertainment, social events, fitness.
+5.  跳舞
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> tiàowǔ</li>
+    <li><strong>definition:</strong> to dance</li>
+    <li><strong>usage:</strong> to move rhythmically to music, typically following a set sequence of steps.</li>
+    <li><strong>example:</strong> 他们在派对上高兴地跳舞。(tāmen zài pàiduì shàng gāoxìng de tiàowǔ.) - they danced happily at the party.</li>
+    <li><strong>contexts:</strong> entertainment, social events, fitness.</li>
+    </ul>
+    </details>
 
-6.  绘画 (huìhuà)
-    *   **pinyin:** huìhuà
-    *   **definition:** drawing; painting
-    *   **usage:** the art of producing images on a surface, usually paper or canvas, by means of marks, usually of ink, pencil, or paint.
-    *   **example:** 他的爱好是油画绘画。(tā de àihào shì yóuhuà huìhuà.) - his hobby is oil painting.
-    *   **contexts:** arts, hobbies, education.
+6.  绘画
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> huìhuà</li>
+    <li><strong>definition:</strong> drawing; painting</li>
+    <li><strong>usage:</strong> the art of producing images on a surface, usually paper or canvas, by means of marks, usually of ink, pencil, or paint.</li>
+    <li><strong>example:</strong> 他的爱好是油画绘画。(tā de àihào shì yóuhuà huìhuà.) - his hobby is oil painting.</li>
+    <li><strong>contexts:</strong> arts, hobbies, education.</li>
+    </ul>
+    </details>
 
-7.  乐器 (yuèqì)
-    *   **pinyin:** yuèqì
-    *   **definition:** musical instrument
-    *   **usage:** a device created or adapted to make musical sounds.
-    *   **example:** 你会演奏什么乐器吗？(nǐ huì yǎnzòu shénme yuèqì ma?) - can you play any musical instruments?
-    *   **contexts:** music, hobbies, education.
+7.  乐器
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yuèqì</li>
+    <li><strong>definition:</strong> musical instrument</li>
+    <li><strong>usage:</strong> a device created or adapted to make musical sounds.</li>
+    <li><strong>example:</strong> 你会演奏什么乐器吗？(nǐ huì yǎnzòu shénme yuèqì ma?) - can you play any musical instruments?</li>
+    <li><strong>contexts:</strong> music, hobbies, education.</li>
+    </ul>
+    </details>
 
-8.  演奏 (yǎnzòu)
-    *   **pinyin:** yǎnzòu
-    *   **definition:** to play (a musical instrument); to perform music
-    *   **usage:** the act of performing on a musical instrument.
-    *   **example:** 他在音乐会上演奏了钢琴。(tā zài yīnyuèhuì shàng yǎnzòu le gāngqín.) - he played the piano at the concert.
-    *   **contexts:** music, performances, arts.
+8.  演奏
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yǎnzòu</li>
+    <li><strong>definition:</strong> to play (a musical instrument); to perform music</li>
+    <li><strong>usage:</strong> the act of performing on a musical instrument.</li>
+    <li><strong>example:</strong> 他在音乐会上演奏了钢琴。(tā zài yīnyuèhuì shàng yǎnzòu le gāngqín.) - he played the piano at the concert.</li>
+    <li><strong>contexts:</strong> music, performances, arts.</li>
+    </ul>
+    </details>
 
-9.  收集 (shōují)
-    *   **pinyin:** shōují
-    *   **definition:** to collect; to gather
-    *   **usage:** the activity of systematically acquiring and keeping items of a particular type.
-    *   **example:** 他喜欢收集邮票。(tā xǐhuān shōují yóupiào.) - he likes to collect stamps.
-    *   **contexts:** hobbies, collecting, personal interests.
+9.  收集
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shōují</li>
+    <li><strong>definition:</strong> to collect; to gather</li>
+    <li><strong>usage:</strong> the activity of systematically acquiring and keeping items of a particular type.</li>
+    <li><strong>example:</strong> 他喜欢收集邮票。(tā xǐhuān shōují yóupiào.) - he likes to collect stamps.</li>
+    <li><strong>contexts:</strong> hobbies, collecting, personal interests.</li>
+    </ul>
+    </details>
 
-10. 园艺 (yuányì)
-    *   **pinyin:** yuányì
-    *   **definition:** gardening; horticulture
-    *   **usage:** the practice of growing and cultivating plants as part of horticulture.
-    *   **example:** 园艺是她退休后的主要爱好。(yuányì shì tā tuìxiū hòu de zhǔyào àihào.) - gardening is her main hobby after retirement.
-    *   **contexts:** hobbies, lifestyle, nature.
+10. 园艺
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yuányì</li>
+    <li><strong>definition:</strong> gardening; horticulture</li>
+    <li><strong>usage:</strong> the practice of growing and cultivating plants as part of horticulture.</li>
+    <li><strong>example:</strong> 园艺是她退休后的主要爱好。(yuányì shì tā tuìxiū hòu de zhǔyào àihào.) - gardening is her main hobby after retirement.</li>
+    <li><strong>contexts:</strong> hobbies, lifestyle, nature.</li>
+    </ul>
+    </details>
 
 ## day 10
 
-1.  钓鱼 (diàoyú)
-    *   **pinyin:** diàoyú
-    *   **definition:** fishing; to fish
-    *   **usage:** the activity of trying to catch fish.
-    *   **example:** 爷爷喜欢在湖边钓鱼。(yéye xǐhuān zài hú biān diàoyú.) - grandpa likes to fish by the lake.
-    *   **contexts:** hobbies, outdoor activities, leisure.
+1.  钓鱼
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> diàoyú</li>
+    <li><strong>definition:</strong> fishing; to fish</li>
+    <li><strong>usage:</strong> the activity of trying to catch fish.</li>
+    <li><strong>example:</strong> 爷爷喜欢在湖边钓鱼。(yéye xǐhuān zài hú biān diàoyú.) - grandpa likes to fish by the lake.</li>
+    <li><strong>contexts:</strong> hobbies, outdoor activities, leisure.</li>
+    </ul>
+    </details>
 
-2.  冲浪 (chōnglàng)
-    *   **pinyin:** chōnglàng
-    *   **definition:** surfing; to surf
-    *   **usage:** the sport or pastime of riding a wave towards the shore while standing or lying on a surfboard.
-    *   **example:** 夏天很多人去海边冲浪。(xiàtiān hěnduō rén qù hǎibiān chōnglàng.) - many people go surfing at the beach in summer.
-    *   **contexts:** sports, outdoor activities, travel.
+2.  冲浪
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> chōnglàng</li>
+    <li><strong>definition:</strong> surfing; to surf</li>
+    <li><strong>usage:</strong> the sport or pastime of riding a wave towards the shore while standing or lying on a surfboard.</li>
+    <li><strong>example:</strong> 夏天很多人去海边冲浪。(xiàtiān hěnduō rén qù hǎibiān chōnglàng.) - many people go surfing at the beach in summer.</li>
+    <li><strong>contexts:</strong> sports, outdoor activities, travel.</li>
+    </ul>
+    </details>
 
-3.  潜水 (qiánshuǐ)
-    *   **pinyin:** qiánshuǐ
-    *   **definition:** diving; to dive
-    *   **usage:** the sport or activity of swimming or exploring underwater.
-    *   **example:** 他在热带岛屿学习潜水。(tā zài rèdài dǎoyǔ xuéxí qiánshuǐ.) - he is learning to dive on a tropical island.
-    *   **contexts:** sports, outdoor activities, travel.
+3.  潜水
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> qiánshuǐ</li>
+    <li><strong>definition:</strong> diving; to dive</li>
+    <li><strong>usage:</strong> the sport or activity of swimming or exploring underwater.</li>
+    <li><strong>example:</strong> 他在热带岛屿学习潜水。(tā zài rèdài dǎoyǔ xuéxí qiánshuǐ.) - he is learning to dive on a tropical island.</li>
+    <li><strong>contexts:</strong> sports, outdoor activities, travel.</li>
+    </ul>
+    </details>
 
-4.  爬山 (páshān)
-    *   **pinyin:** páshān
-    *   **definition:** mountain climbing; hiking; to climb a mountain
-    *   **usage:** the activity of walking in the countryside or mountains for pleasure or sport.
-    *   **example:** 我们周末计划去爬山。(wǒmen zhōumò jìhuà qù páshān.) - we plan to go hiking this weekend.
-    *   **contexts:** sports, outdoor activities, leisure.
+4.  爬山
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> páshān</li>
+    <li><strong>definition:</strong> mountain climbing; hiking; to climb a mountain</li>
+    <li><strong>usage:</strong> the activity of walking in the countryside or mountains for pleasure or sport.</li>
+    <li><strong>example:</strong> 我们周末计划去爬山。(wǒmen zhōumò jìhuà qù páshān.) - we plan to go hiking this weekend.</li>
+    <li><strong>contexts:</strong> sports, outdoor activities, leisure.</li>
+    </ul>
+    </details>
 
-5.  露营 (lùyíng)
-    *   **pinyin:** lùyíng
-    *   **definition:** camping; to camp
-    *   **usage:** the activity of spending a vacation or weekend living in a camp, tent, or camper.
-    *   **example:** 一家人在国家公园里露营。(yījiā rén zài guójiā gōngyuán lǐ lùyíng.) - the family is camping in the national park.
-    *   **contexts:** outdoor activities, travel, leisure.
+5.  露营
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> lùyíng</li>
+    <li><strong>definition:</strong> camping; to camp</li>
+    <li><strong>usage:</strong> the activity of spending a vacation or weekend living in a camp, tent, or camper.</li>
+    <li><strong>example:</strong> 一家人在国家公园里露营。(yījiā rén zài guójiā gōngyuán lǐ lùyíng.) - the family is camping in the national park.</li>
+    <li><strong>contexts:</strong> outdoor activities, travel, leisure.</li>
+    </ul>
+    </details>
 
-6.  徒步旅行 (túbù lǚxíng)
-    *   **pinyin:** túbù lǚxíng
-    *   **definition:** hiking; trekking
-    *   **usage:** a long, vigorous walk, usually on trails or footpaths in the countryside.
-    *   **example:** 他们进行了一次为期三天的徒步旅行。(tāmen jìnxíng le yīcì wèiqī sāntiān de túbù lǚxíng.) - they went on a three-day trek.
-    *   **contexts:** sports, outdoor activities, travel.
+6.  徒步旅行
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> túbù lǚxíng</li>
+    <li><strong>definition:</strong> hiking; trekking</li>
+    <li><strong>usage:</strong> a long, vigorous walk, usually on trails or footpaths in the countryside.</li>
+    <li><strong>example:</strong> 他们进行了一次为期三天的徒步旅行。(tāmen jìnxíng le yīcì wèiqī sāntiān de túbù lǚxíng.) - they went on a three-day trek.</li>
+    <li><strong>contexts:</strong> sports, outdoor activities, travel.</li>
+    </ul>
+    </details>
 
-7.  自行车 (zìxíngchē)
-    *   **pinyin:** zìxíngchē
-    *   **definition:** bicycle; bike
-    *   **usage:** a vehicle composed of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel.
-    *   **example:** 骑自行车有益健康。(qí zìxíngchē yǒuyì jiànkāng.) - riding a bicycle is good for health.
-    *   **contexts:** sports, transportation, leisure.
+7.  自行车
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zìxíngchē</li>
+    <li><strong>definition:</strong> bicycle; bike</li>
+    <li><strong>usage:</strong> a vehicle composed of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel.</li>
+    <li><strong>example:</strong> 骑自行车有益健康。(qí zìxíngchē yǒuyì jiànkāng.) - riding a bicycle is good for health.</li>
+    <li><strong>contexts:</strong> sports, transportation, leisure.</li>
+    </ul>
+    </details>
 
-8.  骑马 (qímǎ)
-    *   **pinyin:** qímǎ
-    *   **definition:** horse riding; to ride a horse
-    *   **usage:** the sport or activity of riding horses.
-    *   **example:** 她从小就学会了骑马。(tā cóngxiǎo jiù xuéhuì le qímǎ.) - she learned to ride a horse since childhood.
-    *   **contexts:** sports, hobbies, leisure.
+8.  骑马
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> qímǎ</li>
+    <li><strong>definition:</strong> horse riding; to ride a horse</li>
+    <li><strong>usage:</strong> the sport or activity of riding horses.</li>
+    <li><strong>example:</strong> 她从小就学会了骑马。(tā cóngxiǎo jiù xuéhuì le qímǎ.) - she learned to ride a horse since childhood.</li>
+    <li><strong>contexts:</strong> sports, hobbies, leisure.</li>
+    </ul>
+    </details>
 
-9.  滑雪 (huáxuě)
-    *   **pinyin:** huáxuě
-    *   **definition:** skiing; to ski
-    *   **usage:** the action of traveling over snow on skis, especially as a sport or recreation.
-    *   **example:** 冬天他们喜欢去北方滑雪。(dōngtiān tāmen xǐhuān qù běifāng huáxuě.) - they like to go skiing in the north during winter.
-    *   **contexts:** sports, winter activities, travel.
+9.  滑雪
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> huáxuě</li>
+    <li><strong>definition:</strong> skiing; to ski</li>
+    <li><strong>usage:</strong> the action of traveling over snow on skis, especially as a sport or recreation.</li>
+    <li><strong>example:</strong> 冬天他们喜欢去北方滑雪。(dōngtiān tāmen xǐhuān qù běifāng huáxuě.) - they like to go skiing in the north during winter.</li>
+    <li><strong>contexts:</strong> sports, winter activities, travel.</li>
+    </ul>
+    </details>
 
-10. 溜冰 (liūbīng)
-    *   **pinyin:** liūbīng
-    *   **definition:** ice skating; to skate
-    *   **usage:** the activity of gliding on ice using ice skates. can also refer to roller skating.
-    *   **example:** 公园里有一个溜冰场。(gōngyuán lǐ yǒu yī ge liūbīngchǎng.) - there is an ice skating rink in the park.
-    *   **contexts:** sports, winter activities, leisure.
+10. 溜冰
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> liūbīng</li>
+    <li><strong>definition:</strong> ice skating; to skate</li>
+    <li><strong>usage:</strong> the activity of gliding on ice using ice skates. can also refer to roller skating.</li>
+    <li><strong>example:</strong> 公园里有一个溜冰场。(gōngyuán lǐ yǒu yī ge liūbīngchǎng.) - there is an ice skating rink in the park.</li>
+    <li><strong>contexts:</strong> sports, winter activities, leisure.</li>
+    </ul>
+    </details>
 
 ## day 11
 
-1.  瑜伽 (yújiā)
-    *   **pinyin:** yújiā
-    *   **definition:** yoga
-    *   **usage:** a hindu spiritual and ascetic discipline, a part of which, including breath control, simple meditation, and the adoption of specific bodily postures, is widely practiced for health and relaxation.
-    *   **example:** 她每天早上练习瑜伽。(tā měitiān zǎoshang liànxí yújiā.) - she practices yoga every morning.
-    *   **contexts:** fitness, health, lifestyle.
+1.  瑜伽
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yújiā</li>
+    <li><strong>definition:</strong> yoga</li>
+    <li><strong>usage:</strong> a hindu spiritual and ascetic discipline, a part of which, including breath control, simple meditation, and the adoption of specific bodily postures, is widely practiced for health and relaxation.</li>
+    <li><strong>example:</strong> 她每天早上练习瑜伽。(tā měitiān zǎoshang liànxí yújiā.) - she practices yoga every morning.</li>
+    <li><strong>contexts:</strong> fitness, health, lifestyle.</li>
+    </ul>
+    </details>
 
-2.  冥想 (míngxiǎng)
-    *   **pinyin:** míngxiǎng
-    *   **definition:** meditation; to meditate
-    *   **usage:** the practice of thinking deeply or focusing one's mind for a period of time, in silence or with the aid of chanting, for religious or spiritual purposes or as a method of relaxation.
-    *   **example:** 冥想有助于减轻压力。(míngxiǎng yǒuzhù yú jiǎnqīng yālì.) - meditation helps to reduce stress.
-    *   **contexts:** health, lifestyle, spirituality.
+2.  冥想
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> míngxiǎng</li>
+    <li><strong>definition:</strong> meditation; to meditate</li>
+    <li><strong>usage:</strong> the practice of thinking deeply or focusing one's mind for a period of time, in silence or with the aid of chanting, for religious or spiritual purposes or as a method of relaxation.</li>
+    <li><strong>example:</strong> 冥想有助于减轻压力。(míngxiǎng yǒuzhù yú jiǎnqīng yālì.) - meditation helps to reduce stress.</li>
+    <li><strong>contexts:</strong> health, lifestyle, spirituality.</li>
+    </ul>
+    </details>
 
-3.  手工艺 (shǒugōngyì)
-    *   **pinyin:** shǒugōngyì
-    *   **definition:** handicraft; craftsmanship
-    *   **usage:** activity involving the making of decorative domestic or other objects by hand.
-    *   **example:** 她对手工艺品很感兴趣。(tā duì shǒugōngyìpǐn hěn gǎn xìngqù.) - she is very interested in handicrafts.
-    *   **contexts:** hobbies, arts, crafts.
+3.  手工艺
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shǒugōngyì</li>
+    <li><strong>definition:</strong> handicraft; craftsmanship</li>
+    <li><strong>usage:</strong> activity involving the making of decorative domestic or other objects by hand.</li>
+    <li><strong>example:</strong> 她对手工艺品很感兴趣。(tā duì shǒugōngyìpǐn hěn gǎn xìngqù.) - she is very interested in handicrafts.</li>
+    <li><strong>contexts:</strong> hobbies, arts, crafts.</li>
+    </ul>
+    </details>
 
-4.  编织 (biānzhī)
-    *   **pinyin:** biānzhī
-    *   **definition:** knitting; weaving; to knit; to weave
-    *   **usage:** to make (a garment, blanket, etc.) by interlocking loops of wool or other yarn with knitting needles or on a machine.
-    *   **example:** 奶奶喜欢在冬天编织毛衣。(nǎinai xǐhuān zài dōngtiān biānzhī máoyī.) - grandma likes to knit sweaters in winter.
-    *   **contexts:** hobbies, crafts, traditional skills.
+4.  编织
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> biānzhī</li>
+    <li><strong>definition:</strong> knitting; weaving; to knit; to weave</li>
+    <li><strong>usage:</strong> to make (a garment, blanket, etc.) by interlocking loops of wool or other yarn with knitting needles or on a machine.</li>
+    <li><strong>example:</strong> 奶奶喜欢在冬天编织毛衣。(nǎinai xǐhuān zài dōngtiān biānzhī máoyī.) - grandma likes to knit sweaters in winter.</li>
+    <li><strong>contexts:</strong> hobbies, crafts, traditional skills.</li>
+    </ul>
+    </details>
 
-5.  陶艺 (táoyì)
-    *   **pinyin:** táoyì
-    *   **definition:** pottery; ceramics
-    *   **usage:** the art or craft of making pottery.
-    *   **example:** 他在周末上陶艺课。(tā zài zhōumò shàng táoyì kè.) - he takes pottery classes on weekends.
-    *   **contexts:** hobbies, arts, crafts.
+5.  陶艺
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> táoyì</li>
+    <li><strong>definition:</strong> pottery; ceramics</li>
+    <li><strong>usage:</strong> the art or craft of making pottery.</li>
+    <li><strong>example:</strong> 他在周末上陶艺课。(tā zài zhōumò shàng táoyì kè.) - he takes pottery classes on weekends.</li>
+    <li><strong>contexts:</strong> hobbies, arts, crafts.</li>
+    </ul>
+    </details>
 
-6.  书法 (shūfǎ)
-    *   **pinyin:** shūfǎ
-    *   **definition:** calligraphy
-    *   **usage:** decorative handwriting or handwritten lettering. in china, it is considered a high art form.
-    *   **example:** 练习书法可以修身养性。(liànxí shūfǎ kěyǐ xiūshēnyǎngxìng.) - practicing calligraphy can cultivate one's moral character and disposition.
-    *   **contexts:** arts, culture, hobbies.
+6.  书法
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shūfǎ</li>
+    <li><strong>definition:</strong> calligraphy</li>
+    <li><strong>usage:</strong> decorative handwriting or handwritten lettering. in china, it is considered a high art form.</li>
+    <li><strong>example:</strong> 练习书法可以修身养性。(liànxí shūfǎ kěyǐ xiūshēnyǎngxìng.) - practicing calligraphy can cultivate one's moral character and disposition.</li>
+    <li><strong>contexts:</strong> arts, culture, hobbies.</li>
+    </ul>
+    </details>
 
-7.  棋类 (qílèi)
-    *   **pinyin:** qílèi
-    *   **definition:** board games (like chess, go)
-    *   **usage:** category of games played on a board with pieces or counters.
-    *   **example:** 他喜欢下各种棋类游戏。(tā xǐhuān xià gèzhǒng qílèi yóuxì.) - he likes to play various board games.
-    *   **contexts:** hobbies, games, strategy.
+7.  棋类
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> qílèi</li>
+    <li><strong>definition:</strong> board games (like chess, go)</li>
+    <li><strong>usage:</strong> category of games played on a board with pieces or counters.</li>
+    <li><strong>example:</strong> 他喜欢下各种棋类游戏。(tā xǐhuān xià gèzhǒng qílèi yóuxì.) - he likes to play various board games.</li>
+    <li><strong>contexts:</strong> hobbies, games, strategy.</li>
+    </ul>
+    </details>
 
-8.  象棋 (xiàngqí)
-    *   **pinyin:** xiàngqí
-    *   **definition:** chinese chess
-    *   **usage:** a traditional chinese strategy board game for two players.
-    *   **example:** 他和朋友在公园里下象棋。(tā hé péngyǒu zài gōngyuán lǐ xià xiàngqí.) - he is playing chinese chess with his friend in the park.
-    *   **contexts:** hobbies, games, culture.
+8.  象棋
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> xiàngqí</li>
+    <li><strong>definition:</strong> chinese chess</li>
+    <li><strong>usage:</strong> a traditional chinese strategy board game for two players.</li>
+    <li><strong>example:</strong> 他和朋友在公园里下象棋。(tā hé péngyǒu zài gōngyuán lǐ xià xiàngqí.) - he is playing chinese chess with his friend in the park.</li>
+    <li><strong>contexts:</strong> hobbies, games, culture.</li>
+    </ul>
+    </details>
 
-9.  围棋 (wéiqí)
-    *   **pinyin:** wéiqí
-    *   **definition:** go (board game)
-    *   **usage:** an abstract strategy board game for two players, in which the aim is to surround more territory than the opponent.
-    *   **example:** 围棋是一种非常复杂的棋类游戏。(wéiqí shì yīzhǒng fēicháng fùzá de qílèi yóuxì.) - go is a very complex board game.
-    *   **contexts:** hobbies, games, strategy, culture.
+9.  围棋
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> wéiqí</li>
+    <li><strong>definition:</strong> go (board game)</li>
+    <li><strong>usage:</strong> an abstract strategy board game for two players, in which the aim is to surround more territory than the opponent.</li>
+    <li><strong>example:</strong> 围棋是一种非常复杂的棋类游戏。(wéiqí shì yīzhǒng fēicháng fùzá de qílèi yóuxì.) - go is a very complex board game.</li>
+    <li><strong>contexts:</strong> hobbies, games, strategy, culture.</li>
+    </ul>
+    </details>
 
-10. 游戏 (yóuxì)
-    *   **pinyin:** yóuxì
-    *   **definition:** game; to play
-    *   **usage:** an activity engaged in for diversion or amusement.
-    *   **example:** 孩子们在外面玩游戏。(háizi men zài wàimiàn wán yóuxì.) - the children are playing games outside.
-    *   **contexts:** entertainment, leisure, technology (video games).
+10. 游戏
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yóuxì</li>
+    <li><strong>definition:</strong> game; to play</li>
+    <li><strong>usage:</strong> an activity engaged in for diversion or amusement.</li>
+    <li><strong>example:</strong> 孩子们在外面玩游戏。(háizi men zài wàimiàn wán yóuxì.) - the children are playing games outside.</li>
+    <li><strong>contexts:</strong> entertainment, leisure, technology (video games).</li>
+    </ul>
+    </details>
 
 ## day 12
 
-1.  志愿者 (zhìyuànzhě)
-    *   **pinyin:** zhìyuànzhě
-    *   **definition:** volunteer
-    *   **usage:** a person who freely offers to take part in an enterprise or undertake a task.
-    *   **example:** 她周末在动物收容所做志愿者。(tā zhōumò zài dòngwù shōuróngsuǒ zuò zhìyuànzhě.) - she volunteers at an animal shelter on weekends.
-    *   **contexts:** social activities, community service, personal development.
+1.  志愿者
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zhìyuànzhě</li>
+    <li><strong>definition:</strong> volunteer</li>
+    <li><strong>usage:</strong> a person who freely offers to take part in an enterprise or undertake a task.</li>
+    <li><strong>example:</strong> 她周末在动物收容所做志愿者。(tā zhōumò zài dòngwù shōuróngsuǒ zuò zhìyuànzhě.) - she volunteers at an animal shelter on weekends.</li>
+    <li><strong>contexts:</strong> social activities, community service, personal development.</li>
+    </ul>
+    </details>
 
-2.  社交 (shèjiāo)
-    *   **pinyin:** shèjiāo
-    *   **definition:** social interaction; social life
-    *   **usage:** the activity of meeting and spending time with other people for pleasure.
-    *   **example:** 他喜欢参加各种社交活动。(tā xǐhuān cānjiā gèzhǒng shèjiāo huódòng.) - he likes to participate in various social activities.
-    *   **contexts:** social life, networking, personal relationships.
+2.  社交
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shèjiāo</li>
+    <li><strong>definition:</strong> social interaction; social life</li>
+    <li><strong>usage:</strong> the activity of meeting and spending time with other people for pleasure.</li>
+    <li><strong>example:</strong> 他喜欢参加各种社交活动。(tā xǐhuān cānjiā gèzhǒng shèjiāo huódòng.) - he likes to participate in various social activities.</li>
+    <li><strong>contexts:</strong> social life, networking, personal relationships.</li>
+    </ul>
+    </details>
 
-3.  聚会 (jùhuì)
-    *   **pinyin:** jùhuì
-    *   **definition:** party; gathering; to get together
-    *   **usage:** a social event at which a group of people meet to talk, eat, drink, etc.
-    *   **example:** 我们下个月有个同学聚会。(wǒmen xià gè yuè yǒu gè tóngxué jùhuì.) - we have a class reunion next month.
-    *   **contexts:** social life, celebrations, friendships.
+3.  聚会
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jùhuì</li>
+    <li><strong>definition:</strong> party; gathering; to get together</li>
+    <li><strong>usage:</strong> a social event at which a group of people meet to talk, eat, drink, etc.</li>
+    <li><strong>example:</strong> 我们下个月有个同学聚会。(wǒmen xià gè yuè yǒu gè tóngxué jùhuì.) - we have a class reunion next month.</li>
+    <li><strong>contexts:</strong> social life, celebrations, friendships.</li>
+    </ul>
+    </details>
 
-4.  俱乐部 (jùlèbù)
-    *   **pinyin:** jùlèbù
-    *   **definition:** club (group or organization)
-    *   **usage:** an organization dedicated to a particular interest or activity.
-    *   **example:** 他加入了一个读书俱乐部。(tā jiārù le yī gè dúshū jùlèbù.) - he joined a book club.
-    *   **contexts:** hobbies, social groups, organizations.
+4.  俱乐部
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jùlèbù</li>
+    <li><strong>definition:</strong> club (group or organization)</li>
+    <li><strong>usage:</strong> an organization dedicated to a particular interest or activity.</li>
+    <li><strong>example:</strong> 他加入了一个读书俱乐部。(tā jiārù le yī gè dúshū jùlèbù.) - he joined a book club.</li>
+    <li><strong>contexts:</strong> hobbies, social groups, organizations.</li>
+    </ul>
+    </details>
 
-5.  参加 (cānjiā)
-    *   **pinyin:** cānjiā
-    *   **definition:** to participate; to join; to attend
-    *   **usage:** to take part in or become involved in an activity or event.
-    *   **example:** 你想参加我们的派对吗？(nǐ xiǎng cānjiā wǒmen de pàiduì ma?) - do you want to join our party?
-    *   **contexts:** social events, activities, meetings.
+5.  参加
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> cānjiā</li>
+    <li><strong>definition:</strong> to participate; to join; to attend</li>
+    <li><strong>usage:</strong> to take part in or become involved in an activity or event.</li>
+    <li><strong>example:</strong> 你想参加我们的派对吗？(nǐ xiǎng cānjiā wǒmen de pàiduì ma?) - do you want to join our party?</li>
+    <li><strong>contexts:</strong> social events, activities, meetings.</li>
+    </ul>
+    </details>
 
-6.  组织 (zǔzhī)
-    *   **pinyin:** zǔzhī
-    *   **definition:** to organize; organization
-    *   **usage:** to arrange or set up (an event or activity); a group of people with a particular purpose.
-    *   **example:** 他们正在组织一次慈善活动。(tāmen zhèngzài zǔzhī yīcì císhàn huódòng.) - they are organizing a charity event.
-    *   **contexts:** events, management, community work.
+6.  组织
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zǔzhī</li>
+    <li><strong>definition:</strong> to organize; organization</li>
+    <li><strong>usage:</strong> to arrange or set up (an event or activity); a group of people with a particular purpose.</li>
+    <li><strong>example:</strong> 他们正在组织一次慈善活动。(tāmen zhèngzài zǔzhī yīcì císhàn huódòng.) - they are organizing a charity event.</li>
+    <li><strong>contexts:</strong> events, management, community work.</li>
+    </ul>
+    </details>
 
-7.  放松 (fàngsōng)
-    *   **pinyin:** fàngsōng
-    *   **definition:** to relax; to loosen
-    *   **usage:** to become less tense or anxious.
-    *   **example:** 度假是为了放松身心。(dùjià shì wèile fàngsōng shēnxīn.) - vacation is for relaxing the body and mind.
-    *   **contexts:** health, lifestyle, leisure.
+7.  放松
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> fàngsōng</li>
+    <li><strong>definition:</strong> to relax; to loosen</li>
+    <li><strong>usage:</strong> to become less tense or anxious.</li>
+    <li><strong>example:</strong> 度假是为了放松身心。(dùjià shì wèile fàngsōng shēnxīn.) - vacation is for relaxing the body and mind.</li>
+    <li><strong>contexts:</strong> health, lifestyle, leisure.</li>
+    </ul>
+    </details>
 
-8.  解压 (jiěyā)
-    *   **pinyin:** jiěyā
-    *   **definition:** to relieve stress; to de-stress
-    *   **usage:** to reduce or alleviate mental pressure or stress.
-    *   **example:** 运动是很好的解压方式。(yùndòng shì hěn hǎo de jiěyā fāngshì.) - exercise is a good way to de-stress.
-    *   **contexts:** health, lifestyle, psychology.
+8.  解压
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jiěyā</li>
+    <li><strong>definition:</strong> to relieve stress; to de-stress</li>
+    <li><strong>usage:</strong> to reduce or alleviate mental pressure or stress.</li>
+    <li><strong>example:</strong> 运动是很好的解压方式。(yùndòng shì hěn hǎo de jiěyā fāngshì.) - exercise is a good way to de-stress.</li>
+    <li><strong>contexts:</strong> health, lifestyle, psychology.</li>
+    </ul>
+    </details>
 
-9.  培养兴趣 (péiyǎng xìngqù)
-    *   **pinyin:** péiyǎng xìngqù
-    *   **definition:** to cultivate an interest; to develop a hobby
-    *   **usage:** to develop a liking or enthusiasm for something.
-    *   **example:** 父母应该帮助孩子培养健康的兴趣爱好。(fùmǔ yīnggāi bāngzhù háizi péiyǎng jiànkāng de xìngqù àihào.) - parents should help children cultivate healthy interests and hobbies.
-    *   **contexts:** personal development, education, parenting.
+9.  培养兴趣
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> péiyǎng xìngqù</li>
+    <li><strong>definition:</strong> to cultivate an interest; to develop a hobby</li>
+    <li><strong>usage:</strong> to develop a liking or enthusiasm for something.</li>
+    <li><strong>example:</strong> 父母应该帮助孩子培养健康的兴趣爱好。(fùmǔ yīnggāi bāngzhù háizi péiyǎng jiànkāng de xìngqù àihào.) - parents should help children cultivate healthy interests and hobbies.</li>
+    <li><strong>contexts:</strong> personal development, education, parenting.</li>
+    </ul>
+    </details>
 
-10. 业余时间 (yèyú shíjiān)
-    *   **pinyin:** yèyú shíjiān
-    *   **definition:** spare time; leisure time
-    *   **usage:** time available for hobbies and other activities that you enjoy.
-    *   **example:** 他在业余时间学习外语。(tā zài yèyú shíjiān xuéxí wàiyǔ.) - he studies foreign languages in his spare time.
-    *   **contexts:** daily life, time management, hobbies.
+10. 业余时间
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> yèyú shíjiān</li>
+    <li><strong>definition:</strong> spare time; leisure time</li>
+    <li><strong>usage:</strong> time available for hobbies and other activities that you enjoy.</li>
+    <li><strong>example:</strong> 他在业余时间学习外语。(tā zài yèyú shíjiān xuéxí wàiyǔ.) - he studies foreign languages in his spare time.</li>
+    <li><strong>contexts:</strong> daily life, time management, hobbies.</li>
+    </ul>
+    </details>
 
 ## day 13
 
-1.  收藏 (shōucáng)
-    *   **pinyin:** shōucáng
-    *   **definition:** to collect; to store; collection (of items)
-    *   **usage:** the act of collecting items, or the items themselves, often for a hobby or as an investment.
-    *   **example:** 他有丰富的古董收藏。(tā yǒu fēngfù de gǔdǒng shōucáng.) - he has a rich collection of antiques.
-    *   **contexts:** hobbies, arts, investment.
+1.  收藏
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shōucáng</li>
+    <li><strong>definition:</strong> to collect; to store; collection (of items)</li>
+    <li><strong>usage:</strong> the act of collecting items, or the items themselves, often for a hobby or as an investment.</li>
+    <li><strong>example:</strong> 他有丰富的古董收藏。(tā yǒu fēngfù de gǔdǒng shōucáng.) - he has a rich collection of antiques.</li>
+    <li><strong>contexts:</strong> hobbies, arts, investment.</li>
+    </ul>
+    </details>
 
-2.  博客 (bókè)
-    *   **pinyin:** bókè
-    *   **definition:** blog
-    *   **usage:** a regularly updated website or web page, typically one run by an individual or small group, that is written in an informal or conversational style.
-    *   **example:** 她喜欢在博客上分享她的旅行经历。(tā xǐhuān zài bókè shàng fēnxiǎng tā de lǚxíng jīnglì.) - she likes to share her travel experiences on her blog.
-    *   **contexts:** internet, media, writing, hobbies.
+2.  博客
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> bókè</li>
+    <li><strong>definition:</strong> blog</li>
+    <li><strong>usage:</strong> a regularly updated website or web page, typically one run by an individual or small group, that is written in an informal or conversational style.</li>
+    <li><strong>example:</strong> 她喜欢在博客上分享她的旅行经历。(tā xǐhuān zài bókè shàng fēnxiǎng tā de lǚxíng jīnglì.) - she likes to share her travel experiences on her blog.</li>
+    <li><strong>contexts:</strong> internet, media, writing, hobbies.</li>
+    </ul>
+    </details>
 
-3.  播客 (bōkè)
-    *   **pinyin:** bōkè
-    *   **definition:** podcast
-    *   **usage:** a digital audio file made available on the internet for downloading to a computer or mobile device, typically available as a series, new installments of which can be received by subscribers automatically.
-    *   **example:** 我喜欢在上下班路上听播客。(wǒ xǐhuān zài shàngxiàbān lùshang tīng bōkè.) - i like to listen to podcasts on my commute.
-    *   **contexts:** internet, media, entertainment, education.
+3.  播客
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> bōkè</li>
+    <li><strong>definition:</strong> podcast</li>
+    <li><strong>usage:</strong> a digital audio file made available on the internet for downloading to a computer or mobile device, typically available as a series, new installments of which can be received by subscribers automatically.</li>
+    <li><strong>example:</strong> 我喜欢在上下班路上听播客。(wǒ xǐhuān zài shàngxiàbān lùshang tīng bōkè.) - i like to listen to podcasts on my commute.</li>
+    <li><strong>contexts:</strong> internet, media, entertainment, education.</li>
+    </ul>
+    </details>
 
-4.  视频博主 (shìpín bózhǔ)
-    *   **pinyin:** shìpín bózhǔ
-    *   **definition:** vlogger; video blogger
-    *   **usage:** a person who produces and posts videos on a regular basis to a blog or social media platform.
-    *   **example:** 他是一位受欢迎的美食视频博主。(tā shì yī wèi shòuhuānyíng de měishí shìpín bózhǔ.) - he is a popular food vlogger.
-    *   **contexts:** internet, social media, entertainment.
+4.  视频博主
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shìpín bózhǔ</li>
+    <li><strong>definition:</strong> vlogger; video blogger</li>
+    <li><strong>usage:</strong> a person who produces and posts videos on a regular basis to a blog or social media platform.</li>
+    <li><strong>example:</strong> 他是一位受欢迎的美食视频博主。(tā shì yī wèi shòuhuānyíng de měishí shìpín bózhǔ.) - he is a popular food vlogger.</li>
+    <li><strong>contexts:</strong> internet, social media, entertainment.</li>
+    </ul>
+    </details>
 
-5.  角色扮演游戏 (juésè bànyǎn yóuxì)
-    *   **pinyin:** juésè bànyǎn yóuxì
-    *   **definition:** role-playing game (RPG)
-    *   **usage:** a game in which players assume the roles of characters in a fictional setting.
-    *   **example:** 角色扮演游戏在年轻人中很流行。(juésè bànyǎn yóuxì zài niánqīngrén zhōng hěn liúxíng.) - role-playing games are very popular among young people.
-    *   **contexts:** games, entertainment, hobbies.
+5.  角色扮演游戏
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> juésè bànyǎn yóuxì</li>
+    <li><strong>definition:</strong> role-playing game (RPG)</li>
+    <li><strong>usage:</strong> a game in which players assume the roles of characters in a fictional setting.</li>
+    <li><strong>example:</strong> 角色扮演游戏在年轻人中很流行。(juésè bànyǎn yóuxì zài niánqīngrén zhōng hěn liúxíng.) - role-playing games are very popular among young people.</li>
+    <li><strong>contexts:</strong> games, entertainment, hobbies.</li>
+    </ul>
+    </details>
 
-6.  电子竞技 (diànzǐ jìngjì)
-    *   **pinyin:** diànzǐ jìngjì
-    *   **definition:** esports; electronic sports
-    *   **usage:** a form of competition using video games.
-    *   **example:** 电子竞技现在是一个巨大的产业。(diànzǐ jìngjì xiànzài shì yī gè jùdà de chǎnyè.) - esports is now a huge industry.
-    *   **contexts:** sports, games, technology, entertainment.
+6.  电子竞技
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> diànzǐ jìngjì</li>
+    <li><strong>definition:</strong> esports; electronic sports</li>
+    <li><strong>usage:</strong> a form of competition using video games.</li>
+    <li><strong>example:</strong> 电子竞技现在是一个巨大的产业。(diànzǐ jìngjì xiànzài shì yī gè jùdà de chǎnyè.) - esports is now a huge industry.</li>
+    <li><strong>contexts:</strong> sports, games, technology, entertainment.</li>
+    </ul>
+    </details>
 
-7.  剧本杀 (jùběn shā)
-    *   **pinyin:** jùběn shā
-    *   **definition:** live action role-playing (LARP) game with a script; script murder mystery game
-    *   **usage:** a popular type of immersive role-playing game where players take on character roles to solve a fictional crime, often guided by a script.
-    *   **example:** 我们周末去玩了一场剧本杀，很有意思。(wǒmen zhōumò qù wán le yī chǎng jùběn shā, hěn yǒuyìsi.) - we played a script murder mystery game over the weekend, it was very interesting.
-    *   **contexts:** entertainment, social games, hobbies.
+7.  剧本杀
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> jùběn shā</li>
+    <li><strong>definition:</strong> live action role-playing (LARP) game with a script; script murder mystery game</li>
+    <li><strong>usage:</strong> a popular type of immersive role-playing game where players take on character roles to solve a fictional crime, often guided by a script.</li>
+    <li><strong>example:</strong> 我们周末去玩了一场剧本杀，很有意思。(wǒmen zhōumò qù wán le yī chǎng jùběn shā, hěn yǒuyìsi.) - we played a script murder mystery game over the weekend, it was very interesting.</li>
+    <li><strong>contexts:</strong> entertainment, social games, hobbies.</li>
+    </ul>
+    </details>
 
-8.  密室逃脱 (mìshì táotuō)
-    *   **pinyin:** mìshì táotuō
-    *   **definition:** escape room (game)
-    *   **usage:** a game in which players are confined to a room or other enclosed setting and are given a set amount of time to find a way to escape by discovering and solving a series of puzzles or riddles.
-    *   **example:** 他们成功地从密室逃脱了。(tāmen chénggōng de cóng mìshì táotuō le.) - they successfully escaped from the escape room.
-    *   **contexts:** entertainment, games, team activities.
+8.  密室逃脱
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> mìshì táotuō</li>
+    <li><strong>definition:</strong> escape room (game)</li>
+    <li><strong>usage:</strong> a game in which players are confined to a room or other enclosed setting and are given a set amount of time to find a way to escape by discovering and solving a series of puzzles or riddles.</li>
+    <li><strong>example:</strong> 他们成功地从密室逃脱了。(tāmen chénggōng de cóng mìshì táotuō le.) - they successfully escaped from the escape room.</li>
+    <li><strong>contexts:</strong> entertainment, games, team activities.</li>
+    </ul>
+    </details>
 
-9.  手办 (shǒubàn)
-    *   **pinyin:** shǒubàn
-    *   **definition:** figurine; garage kit (from japanese ガレージキット)
-    *   **usage:** collectible figurines, often of anime, manga, or game characters.
-    *   **example:** 他收藏了很多动漫手办。(tā shōucáng le hěnduō dòngmàn shǒubàn.) - he collects a lot of anime figurines.
-    *   **contexts:** hobbies, collecting, pop culture (anime, manga, games).
+9.  手办
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> shǒubàn</li>
+    <li><strong>definition:</strong> figurine; garage kit (from japanese ガレージキット)</li>
+    <li><strong>usage:</strong> collectible figurines, often of anime, manga, or game characters.</li>
+    <li><strong>example:</strong> 他收藏了很多动漫手办。(tā shōucáng le hěnduō dòngmàn shǒubàn.) - he collects a lot of anime figurines.</li>
+    <li><strong>contexts:</strong> hobbies, collecting, pop culture (anime, manga, games).</li>
+    </ul>
+    </details>
 
-10. 追剧 (zhuījù)
-    *   **pinyin:** zhuījù
-    *   **definition:** to binge-watch (tv series); to follow a tv series
-    *   **usage:** to watch many or all episodes of (a tv series) in rapid succession.
-    *   **example:** 我最近在追一部韩剧。(wǒ zuìjìn zài zhuī yī bù hánjù.) - i'm currently binge-watching a korean drama.
-    *   **contexts:** entertainment, media, leisure.
+10. 追剧
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zhuījù</li>
+    <li><strong>definition:</strong> to binge-watch (tv series); to follow a tv series</li>
+    <li><strong>usage:</strong> to watch many or all episodes of (a tv series) in rapid succession.</li>
+    <li><strong>example:</strong> 我最近在追一部韩剧。(wǒ zuìjìn zài zhuī yī bù hánjù.) - i'm currently binge-watching a korean drama.</li>
+    <li><strong>contexts:</strong> entertainment, media, leisure.</li>
+    </ul>
+    </details>
 
 ## day 14
 
-1.  体验 (tǐyàn)
-    *   **pinyin:** tǐyàn
-    *   **definition:** to experience; experience (noun)
-    *   **usage:** practical contact with and observation of facts or events; an event or occurrence which leaves an impression on someone.
-    *   **example:** 这是一次难忘的文化体验。(zhè shì yīcì nánwàng de wénhuà tǐyàn.) - this was an unforgettable cultural experience.
-    *   **contexts:** travel, personal growth, learning, work.
+1.  体验
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> tǐyàn</li>
+    <li><strong>definition:</strong> to experience; experience (noun)</li>
+    <li><strong>usage:</strong> practical contact with and observation of facts or events; an event or occurrence which leaves an impression on someone.</li>
+    <li><strong>example:</strong> 这是一次难忘的文化体验。(zhè shì yīcì nánwàng de wénhuà tǐyàn.) - this was an unforgettable cultural experience.</li>
+    <li><strong>contexts:</strong> travel, personal growth, learning, work.</li>
+    </ul>
+    </details>
 
-2.  探索 (tànsuǒ)
-    *   **pinyin:** tànsuǒ
-    *   **definition:** to explore; to probe; exploration
-    *   **usage:** to inquire into or discuss (a subject or issue) in detail; to travel in or through (an unfamiliar country or area) in order to learn about or familiarize oneself with it.
-    *   **example:** 科学家们正在探索宇宙的奥秘。(kēxuéjiāmen zhèngzài tànsuǒ yǔzhòu de àomì.) - scientists are exploring the mysteries of the universe.
-    *   **contexts:** science, travel, learning, research.
+2.  探索
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> tànsuǒ</li>
+    <li><strong>definition:</strong> to explore; to probe; exploration</li>
+    <li><strong>usage:</strong> to inquire into or discuss (a subject or issue) in detail; to travel in or through (an unfamiliar country or area) in order to learn about or familiarize oneself with it.</li>
+    <li><strong>example:</strong> 科学家们正在探索宇宙的奥秘。(kēxuéjiāmen zhèngzài tànsuǒ yǔzhòu de àomì.) - scientists are exploring the mysteries of the universe.</li>
+    <li><strong>contexts:</strong> science, travel, learning, research.</li>
+    </ul>
+    </details>
 
-3.  挑战 (tiǎozhàn)
-    *   **pinyin:** tiǎozhàn
-    *   **definition:** challenge; to challenge
-    *   **usage:** a call to take part in a contest or competition, especially a duel; a task or situation that tests someone's abilities.
-    *   **example:** 他喜欢接受新的挑战。(tā xǐhuān jiēshòu xīn de tiǎozhàn.) - he likes to accept new challenges.
-    *   **contexts:** sports, work, personal development, games.
+3.  挑战
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> tiǎozhàn</li>
+    <li><strong>definition:</strong> challenge; to challenge</li>
+    <li><strong>usage:</strong> a call to take part in a contest or competition, especially a duel; a task or situation that tests someone's abilities.</li>
+    <li><strong>example:</strong> 他喜欢接受新的挑战。(tā xǐhuān jiēshòu xīn de tiǎozhàn.) - he likes to accept new challenges.</li>
+    <li><strong>contexts:</strong> sports, work, personal development, games.</li>
+    </ul>
+    </details>
 
-4.  尝试 (chángshì)
-    *   **pinyin:** chángshì
-    *   **definition:** to try; to attempt; attempt (noun)
-    *   **usage:** make an effort to achieve or complete (something, typically a difficult task or action).
-    *   **example:** 我想尝试一下做蛋糕。(wǒ xiǎng chángshì yīxià zuò dàngāo.) - i want to try making a cake.
-    *   **contexts:** learning, problem-solving, daily life.
+4.  尝试
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> chángshì</li>
+    <li><strong>definition:</strong> to try; to attempt; attempt (noun)</li>
+    <li><strong>usage:</strong> make an effort to achieve or complete (something, typically a difficult task or action).</li>
+    <li><strong>example:</strong> 我想尝试一下做蛋糕。(wǒ xiǎng chángshì yīxià zuò dàngāo.) - i want to try making a cake.</li>
+    <li><strong>contexts:</strong> learning, problem-solving, daily life.</li>
+    </ul>
+    </details>
 
-5.  享受 (xiǎngshòu)
-    *   **pinyin:** xiǎngshòu
-    *   **definition:** to enjoy; enjoyment; pleasure
-    *   **usage:** take delight or pleasure in (an activity or occasion).
-    *   **example:** 请享受您的假期。(qǐng xiǎngshòu nín de jiàqī.) - please enjoy your holiday.
-    *   **contexts:** leisure, travel, food, lifestyle.
+5.  享受
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> xiǎngshòu</li>
+    <li><strong>definition:</strong> to enjoy; enjoyment; pleasure</li>
+    <li><strong>usage:</strong> take delight or pleasure in (an activity or occasion).</li>
+    <li><strong>example:</strong> 请享受您的假期。(qǐng xiǎngshòu nín de jiàqī.) - please enjoy your holiday.</li>
+    <li><strong>contexts:</strong> leisure, travel, food, lifestyle.</li>
+    </ul>
+    </details>
 
-6.  投入 (tóurù)
-    *   **pinyin:** tóurù
-    *   **definition:** to invest; to put in (time, effort, money); to throw oneself into; engrossed
-    *   **usage:** to expend money with the expectation of achieving a profit or material result by putting it into financial schemes, shares, or property, or by using it to develop a commercial venture; to devote (one's time, effort, or energy) to a particular undertaking or purpose.
-    *   **example:** 她对工作非常投入。(tā duì gōngzuò fēicháng tóurù.) - she is very dedicated to her work. / 他在这项爱好上投入了很多时间。(tā zài zhè xiàng àihào shàng tóurù le hěnduō shíjiān.) - he invested a lot of time in this hobby.
-    *   **contexts:** work, hobbies, finance, personal projects.
+6.  投入
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> tóurù</li>
+    <li><strong>definition:</strong> to invest; to put in (time, effort, money); to throw oneself into; engrossed</li>
+    <li><strong>usage:</strong> to expend money with the expectation of achieving a profit or material result by putting it into financial schemes, shares, or property, or by using it to develop a commercial venture; to devote (one's time, effort, or energy) to a particular undertaking or purpose.</li>
+    <li><strong>example:</strong> 她对工作非常投入。(tā duì gōngzuò fēicháng tóurù.) - she is very dedicated to her work. / 他在这项爱好上投入了很多时间。(tā zài zhè xiàng àihào shàng tóurù le hěnduō shíjiān.) - he invested a lot of time in this hobby.</li>
+    <li><strong>contexts:</strong> work, hobbies, finance, personal projects.</li>
+    </ul>
+    </details>
 
-7.  培养 (péiyǎng)
-    *   **pinyin:** péiyǎng
-    *   **definition:** to cultivate; to foster; to develop (a skill, habit, quality)
-    *   **usage:** to try to develop or encourage something.
-    *   **example:** 培养良好的阅读习惯很重要。(péiyǎng liánghǎo de yuèdú xíguàn hěn zhòngyào.) - it is important to cultivate good reading habits.
-    *   **contexts:** education, personal development, parenting, skills.
+7.  培养
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> péiyǎng</li>
+    <li><strong>definition:</strong> to cultivate; to foster; to develop (a skill, habit, quality)</li>
+    <li><strong>usage:</strong> to try to develop or encourage something.</li>
+    <li><strong>example:</strong> 培养良好的阅读习惯很重要。(péiyǎng liánghǎo de yuèdú xíguàn hěn zhòngyào.) - it is important to cultivate good reading habits.</li>
+    <li><strong>contexts:</strong> education, personal development, parenting, skills.</li>
+    </ul>
+    </details>
 
-8.  钻研 (zuānyán)
-    *   **pinyin:** zuānyán
-    *   **definition:** to study in depth; to delve into; to scrutinize
-    *   **usage:** to examine or investigate thoroughly; to engage in detailed study.
-    *   **example:** 他喜欢钻研各种技术问题。(tā xǐhuān zuānyán gèzhǒng jìshù wèntí.) - he likes to delve into various technical problems.
-    *   **contexts:** research, hobbies (deep interest), academics, problem-solving.
+8.  钻研
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> zuānyán</li>
+    <li><strong>definition:</strong> to study in depth; to delve into; to scrutinize</li>
+    <li><strong>usage:</strong> to examine or investigate thoroughly; to engage in detailed study.</li>
+    <li><strong>example:</strong> 他喜欢钻研各种技术问题。(tā xǐhuān zuānyán gèzhǒng jìshù wèntí.) - he likes to delve into various technical problems.</li>
+    <li><strong>contexts:</strong> research, hobbies (deep interest), academics, problem-solving.</li>
+    </ul>
+    </details>
 
-9.  沉迷 (chénmí)
-    *   **pinyin:** chénmí
-    *   **definition:** to be addicted to; to be engrossed in; to indulge in
-    *   **usage:** to be excessively preoccupied with or devoted to something, often to a detrimental extent.
-    *   **example:** 他沉迷于网络游戏，影响了学习。(tā chénmí yú wǎngluò yóuxì, yǐngxiǎng le xuéxí.) - he is addicted to online games, which has affected his studies.
-    *   **contexts:** health, psychology, hobbies (negative connotation), social issues.
+9.  沉迷
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> chénmí</li>
+    <li><strong>definition:</strong> to be addicted to; to be engrossed in; to indulge in</li>
+    <li><strong>usage:</strong> to be excessively preoccupied with or devoted to something, often to a detrimental extent.</li>
+    <li><strong>example:</strong> 他沉迷于网络游戏，影响了学习。(tā chénmí yú wǎngluò yóuxì, yǐngxiǎng le xuéxí.) - he is addicted to online games, which has affected his studies.</li>
+    <li><strong>contexts:</strong> health, psychology, hobbies (negative connotation), social issues.</li>
+    </ul>
+    </details>
 
-10. 达人 (dárén)
-    *   **pinyin:** dárén
-    *   **definition:** expert; master; talented person (loanword from japanese "tatsujin")
-    *   **usage:** a person who is very skilled or knowledgeable in a particular field or activity.
-    *   **example:** 她是美妆界的达人。(tā shì měizhuāng jiè de dárén.) - she is a makeup expert.
-    *   **contexts:** hobbies, skills, professional fields, social media. 
+10. 达人
+    <details>
+    <summary>Details</summary>
+    <ul>
+    <li><strong>pinyin:</strong> dárén</li>
+    <li><strong>definition:</strong> expert; master; talented person (loanword from japanese "tatsujin")</li>
+    <li><strong>usage:</strong> a person who is very skilled or knowledgeable in a particular field or activity.</li>
+    <li><strong>example:</strong> 她是美妆界的达人。(tā shì měizhuāng jiè de dárén.) - she is a makeup expert.</li>
+    <li><strong>contexts:</strong> hobbies, skills, professional fields, social media. </li>
+    </ul>
+    </details>
