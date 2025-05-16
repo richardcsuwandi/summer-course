@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🇨🇳 90 Days of Chinese 🇨🇳
+title: 🇨🇳 90 Days of Chinese
 ---
 
 # 🇨🇳 90 Days of Chinese
