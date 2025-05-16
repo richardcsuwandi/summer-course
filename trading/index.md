@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 📈 90 Days of Stock Trading 📈
+title: 📈 90 Days of Stock Trading
 ---
 # 📈 90 Days of Stock Trading
 
